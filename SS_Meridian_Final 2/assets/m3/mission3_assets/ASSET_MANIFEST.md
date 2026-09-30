@@ -1,0 +1,245 @@
+# SS Meridian Mission 3 — Asset Manifest
+
+This folder contains game-ready Mission 3 assets only. Original/source sprite sheets are intentionally excluded.
+
+## Runtime conventions
+- Character/enemy/effect animation frames are individual transparent PNGs.
+- Animation frame order is numeric (`_01` through `_06`).
+- Use each animation folder as one ordered sequence.
+- Backgrounds are under `arena/backgrounds/`.
+- Cage assets are under `arena/cages/`.
+- UI assets are under `ui/`.
+- VFX are under `effects/`.
+
+## Important missing assets from the two supplied ZIPs
+The supplied archives did **not** contain extracted idle-frame packages for:
+- `enemies/monster1/idle/`
+- `enemies/monster2/idle/`
+
+No files were invented or substituted for those missing animations.
+
+## Asset count
+- PNG files: 218
+
+## Full runtime file list
+- `arena/backgrounds/m3_arena_intro_panorama.png`
+- `arena/backgrounds/m3_fight_arena_bg.png`
+- `arena/cages/door_open/cage_open_01.png`
+- `arena/cages/door_open/cage_open_02.png`
+- `arena/cages/door_open/cage_open_03.png`
+- `arena/cages/door_open/cage_open_04.png`
+- `arena/cages/door_open/cage_open_05.png`
+- `arena/cages/door_open/cage_open_06.png`
+- `arena/cages/m3_three_cages_overlay.png`
+- `arena/triggers/m3_red_trigger_circle.png`
+- `characters/issac/guard_evade/guard_evade_01.png`
+- `characters/issac/guard_evade/guard_evade_02.png`
+- `characters/issac/guard_evade/guard_evade_03.png`
+- `characters/issac/guard_evade/guard_evade_04.png`
+- `characters/issac/guard_evade/guard_evade_05.png`
+- `characters/issac/guard_evade/guard_evade_06.png`
+- `characters/issac/hit_knockdown/hit_knockdown_01.png`
+- `characters/issac/hit_knockdown/hit_knockdown_02.png`
+- `characters/issac/hit_knockdown/hit_knockdown_03.png`
+- `characters/issac/hit_knockdown/hit_knockdown_04.png`
+- `characters/issac/hit_knockdown/hit_knockdown_05.png`
+- `characters/issac/hit_knockdown/hit_knockdown_06.png`
+- `characters/issac/idle/idle_01.png`
+- `characters/issac/idle/idle_02.png`
+- `characters/issac/idle/idle_03.png`
+- `characters/issac/idle/idle_04.png`
+- `characters/issac/idle/idle_05.png`
+- `characters/issac/idle/idle_06.png`
+- `characters/issac/jump/jump_01.png`
+- `characters/issac/jump/jump_02.png`
+- `characters/issac/jump/jump_03.png`
+- `characters/issac/jump/jump_04.png`
+- `characters/issac/jump/jump_05.png`
+- `characters/issac/jump/jump_06.png`
+- `characters/issac/kick/kick_01.png`
+- `characters/issac/kick/kick_02.png`
+- `characters/issac/kick/kick_03.png`
+- `characters/issac/kick/kick_04.png`
+- `characters/issac/kick/kick_05.png`
+- `characters/issac/kick/kick_06.png`
+- `characters/issac/mind_fire_attack/mind_fire_attack_01.png`
+- `characters/issac/mind_fire_attack/mind_fire_attack_02.png`
+- `characters/issac/mind_fire_attack/mind_fire_attack_03.png`
+- `characters/issac/mind_fire_attack/mind_fire_attack_04.png`
+- `characters/issac/mind_fire_attack/mind_fire_attack_05.png`
+- `characters/issac/mind_fire_attack/mind_fire_attack_06.png`
+- `characters/issac/space_weapon_attack/issac_space_weapon_attack_01.png`
+- `characters/issac/space_weapon_attack/issac_space_weapon_attack_02.png`
+- `characters/issac/space_weapon_attack/issac_space_weapon_attack_03.png`
+- `characters/issac/space_weapon_attack/issac_space_weapon_attack_04.png`
+- `characters/issac/space_weapon_attack/issac_space_weapon_attack_05.png`
+- `characters/issac/space_weapon_attack/issac_space_weapon_attack_06.png`
+- `characters/issac/walk_backward/walk_backward_01.png`
+- `characters/issac/walk_backward/walk_backward_02.png`
+- `characters/issac/walk_backward/walk_backward_03.png`
+- `characters/issac/walk_backward/walk_backward_04.png`
+- `characters/issac/walk_backward/walk_backward_05.png`
+- `characters/issac/walk_backward/walk_backward_06.png`
+- `characters/issac/walk_forward/walk_forward_01.png`
+- `characters/issac/walk_forward/walk_forward_02.png`
+- `characters/issac/walk_forward/walk_forward_03.png`
+- `characters/issac/walk_forward/walk_forward_04.png`
+- `characters/issac/walk_forward/walk_forward_05.png`
+- `characters/issac/walk_forward/walk_forward_06.png`
+- `effects/mind_fire/impact/mind_fire_impact_01.png`
+- `effects/mind_fire/impact/mind_fire_impact_02.png`
+- `effects/mind_fire/impact/mind_fire_impact_03.png`
+- `effects/mind_fire/impact/mind_fire_impact_04.png`
+- `effects/mind_fire/impact/mind_fire_impact_05.png`
+- `effects/mind_fire/impact/mind_fire_impact_06.png`
+- `effects/mind_fire/projectile/mind_fire_projectile_01.png`
+- `effects/mind_fire/projectile/mind_fire_projectile_02.png`
+- `effects/mind_fire/projectile/mind_fire_projectile_03.png`
+- `effects/mind_fire/projectile/mind_fire_projectile_04.png`
+- `effects/mind_fire/projectile/mind_fire_projectile_05.png`
+- `effects/mind_fire/projectile/mind_fire_projectile_06.png`
+- `effects/movement/jump_land_dust/jump_land_dust_01.png`
+- `effects/movement/jump_land_dust/jump_land_dust_02.png`
+- `effects/movement/jump_land_dust/jump_land_dust_03.png`
+- `effects/movement/jump_land_dust/jump_land_dust_04.png`
+- `effects/movement/jump_land_dust/jump_land_dust_05.png`
+- `effects/movement/jump_land_dust/jump_land_dust_06.png`
+- `effects/physical/hit_spark/physical_hit_spark_01.png`
+- `effects/physical/hit_spark/physical_hit_spark_02.png`
+- `effects/physical/hit_spark/physical_hit_spark_03.png`
+- `effects/physical/hit_spark/physical_hit_spark_04.png`
+- `effects/physical/hit_spark/physical_hit_spark_05.png`
+- `effects/physical/hit_spark/physical_hit_spark_06.png`
+- `effects/power_stone/aura/power_stone_aura_01.png`
+- `effects/power_stone/aura/power_stone_aura_02.png`
+- `effects/power_stone/aura/power_stone_aura_03.png`
+- `effects/power_stone/aura/power_stone_aura_04.png`
+- `effects/power_stone/aura/power_stone_aura_05.png`
+- `effects/power_stone/aura/power_stone_aura_06.png`
+- `enemies/monster1/advance/monster1_advance_01.png`
+- `enemies/monster1/advance/monster1_advance_02.png`
+- `enemies/monster1/advance/monster1_advance_03.png`
+- `enemies/monster1/advance/monster1_advance_04.png`
+- `enemies/monster1/advance/monster1_advance_05.png`
+- `enemies/monster1/advance/monster1_advance_06.png`
+- `enemies/monster1/club_attack/monster1_club_attack_01.png`
+- `enemies/monster1/club_attack/monster1_club_attack_02.png`
+- `enemies/monster1/club_attack/monster1_club_attack_03.png`
+- `enemies/monster1/club_attack/monster1_club_attack_04.png`
+- `enemies/monster1/club_attack/monster1_club_attack_05.png`
+- `enemies/monster1/club_attack/monster1_club_attack_06.png`
+- `enemies/monster1/defeat/monster1_defeat_01.png`
+- `enemies/monster1/defeat/monster1_defeat_02.png`
+- `enemies/monster1/defeat/monster1_defeat_03.png`
+- `enemies/monster1/defeat/monster1_defeat_04.png`
+- `enemies/monster1/defeat/monster1_defeat_05.png`
+- `enemies/monster1/defeat/monster1_defeat_06.png`
+- `enemies/monster1/hit_stagger/monster1_hit_stagger_01.png`
+- `enemies/monster1/hit_stagger/monster1_hit_stagger_02.png`
+- `enemies/monster1/hit_stagger/monster1_hit_stagger_03.png`
+- `enemies/monster1/hit_stagger/monster1_hit_stagger_04.png`
+- `enemies/monster1/hit_stagger/monster1_hit_stagger_05.png`
+- `enemies/monster1/hit_stagger/monster1_hit_stagger_06.png`
+- `enemies/monster1/shield_attack/monster1_shield_attack_01.png`
+- `enemies/monster1/shield_attack/monster1_shield_attack_02.png`
+- `enemies/monster1/shield_attack/monster1_shield_attack_03.png`
+- `enemies/monster1/shield_attack/monster1_shield_attack_04.png`
+- `enemies/monster1/shield_attack/monster1_shield_attack_05.png`
+- `enemies/monster1/shield_attack/monster1_shield_attack_06.png`
+- `enemies/monster1/special_cast/monster1_special_cast_01.png`
+- `enemies/monster1/special_cast/monster1_special_cast_02.png`
+- `enemies/monster1/special_cast/monster1_special_cast_03.png`
+- `enemies/monster1/special_cast/monster1_special_cast_04.png`
+- `enemies/monster1/special_cast/monster1_special_cast_05.png`
+- `enemies/monster1/special_cast/monster1_special_cast_06.png`
+- `enemies/monster2/advance/monster2_advance_01.png`
+- `enemies/monster2/advance/monster2_advance_02.png`
+- `enemies/monster2/advance/monster2_advance_03.png`
+- `enemies/monster2/advance/monster2_advance_04.png`
+- `enemies/monster2/advance/monster2_advance_05.png`
+- `enemies/monster2/advance/monster2_advance_06.png`
+- `enemies/monster2/blade_attack/monster2_blade_attack_01.png`
+- `enemies/monster2/blade_attack/monster2_blade_attack_02.png`
+- `enemies/monster2/blade_attack/monster2_blade_attack_03.png`
+- `enemies/monster2/blade_attack/monster2_blade_attack_04.png`
+- `enemies/monster2/blade_attack/monster2_blade_attack_05.png`
+- `enemies/monster2/blade_attack/monster2_blade_attack_06.png`
+- `enemies/monster2/claw_attack/monster2_claw_attack_01.png`
+- `enemies/monster2/claw_attack/monster2_claw_attack_02.png`
+- `enemies/monster2/claw_attack/monster2_claw_attack_03.png`
+- `enemies/monster2/claw_attack/monster2_claw_attack_04.png`
+- `enemies/monster2/claw_attack/monster2_claw_attack_05.png`
+- `enemies/monster2/claw_attack/monster2_claw_attack_06.png`
+- `enemies/monster2/defeat/monster2_defeat_01.png`
+- `enemies/monster2/defeat/monster2_defeat_02.png`
+- `enemies/monster2/defeat/monster2_defeat_03.png`
+- `enemies/monster2/defeat/monster2_defeat_04.png`
+- `enemies/monster2/defeat/monster2_defeat_05.png`
+- `enemies/monster2/defeat/monster2_defeat_06.png`
+- `enemies/monster2/hit_stagger/monster2_hit_stagger_01.png`
+- `enemies/monster2/hit_stagger/monster2_hit_stagger_02.png`
+- `enemies/monster2/hit_stagger/monster2_hit_stagger_03.png`
+- `enemies/monster2/hit_stagger/monster2_hit_stagger_04.png`
+- `enemies/monster2/hit_stagger/monster2_hit_stagger_05.png`
+- `enemies/monster2/hit_stagger/monster2_hit_stagger_06.png`
+- `enemies/monster2/special_cast/monster2_special_cast_01.png`
+- `enemies/monster2/special_cast/monster2_special_cast_02.png`
+- `enemies/monster2/special_cast/monster2_special_cast_03.png`
+- `enemies/monster2/special_cast/monster2_special_cast_04.png`
+- `enemies/monster2/special_cast/monster2_special_cast_05.png`
+- `enemies/monster2/special_cast/monster2_special_cast_06.png`
+- `enemies/monster3/advance/monster3_advance_01.png`
+- `enemies/monster3/advance/monster3_advance_02.png`
+- `enemies/monster3/advance/monster3_advance_03.png`
+- `enemies/monster3/advance/monster3_advance_04.png`
+- `enemies/monster3/advance/monster3_advance_05.png`
+- `enemies/monster3/advance/monster3_advance_06.png`
+- `enemies/monster3/arm_smash/monster3_arm_smash_01.png`
+- `enemies/monster3/arm_smash/monster3_arm_smash_02.png`
+- `enemies/monster3/arm_smash/monster3_arm_smash_03.png`
+- `enemies/monster3/arm_smash/monster3_arm_smash_04.png`
+- `enemies/monster3/arm_smash/monster3_arm_smash_05.png`
+- `enemies/monster3/arm_smash/monster3_arm_smash_06.png`
+- `enemies/monster3/defeat/monster3_defeat_01.png`
+- `enemies/monster3/defeat/monster3_defeat_02.png`
+- `enemies/monster3/defeat/monster3_defeat_03.png`
+- `enemies/monster3/defeat/monster3_defeat_04.png`
+- `enemies/monster3/defeat/monster3_defeat_05.png`
+- `enemies/monster3/defeat/monster3_defeat_06.png`
+- `enemies/monster3/hit_stagger/monster3_hit_stagger_01.png`
+- `enemies/monster3/hit_stagger/monster3_hit_stagger_02.png`
+- `enemies/monster3/hit_stagger/monster3_hit_stagger_03.png`
+- `enemies/monster3/hit_stagger/monster3_hit_stagger_04.png`
+- `enemies/monster3/hit_stagger/monster3_hit_stagger_05.png`
+- `enemies/monster3/hit_stagger/monster3_hit_stagger_06.png`
+- `enemies/monster3/idle/monster3_idle_01.png`
+- `enemies/monster3/idle/monster3_idle_02.png`
+- `enemies/monster3/idle/monster3_idle_03.png`
+- `enemies/monster3/idle/monster3_idle_04.png`
+- `enemies/monster3/idle/monster3_idle_05.png`
+- `enemies/monster3/idle/monster3_idle_06.png`
+- `enemies/monster3/special_cast/monster3_special_cast_01.png`
+- `enemies/monster3/special_cast/monster3_special_cast_02.png`
+- `enemies/monster3/special_cast/monster3_special_cast_03.png`
+- `enemies/monster3/special_cast/monster3_special_cast_04.png`
+- `enemies/monster3/special_cast/monster3_special_cast_05.png`
+- `enemies/monster3/special_cast/monster3_special_cast_06.png`
+- `enemies/monster3/spine_attack/monster3_spine_attack_01.png`
+- `enemies/monster3/spine_attack/monster3_spine_attack_02.png`
+- `enemies/monster3/spine_attack/monster3_spine_attack_03.png`
+- `enemies/monster3/spine_attack/monster3_spine_attack_04.png`
+- `enemies/monster3/spine_attack/monster3_spine_attack_05.png`
+- `enemies/monster3/spine_attack/monster3_spine_attack_06.png`
+- `ui/buttons/claim/claim_button_hover.png`
+- `ui/buttons/claim/claim_button_normal.png`
+- `ui/buttons/claim/claim_button_pressed.png`
+- `ui/guides/guide_monster1_bg.png`
+- `ui/guides/guide_monster2_bg.png`
+- `ui/guides/guide_monster3_bg.png`
+- `ui/hud/m3_fight_hud_frame.png`
+- `ui/screens/mission3_complete_bg.png`
+- `ui/screens/power_stone_reward_bg.png`
+
+## Revision 4 — user-requested reward update
+Mission 4 screen/button assets removed; supplied Power Stone added unchanged.
+- `ui/rewards/powerstone.png`

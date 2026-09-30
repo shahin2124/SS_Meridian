@@ -1,0 +1,612 @@
+{
+  "root": "assets/final_ending",
+  "purpose": "SS Meridian final ending after Mission 3 Power Stone claim",
+  "authoritative_sequence": [
+    "arena dialogue with Guide",
+    "submit Space Stone",
+    "submit Mind Stone",
+    "submit Power Stone",
+    "completed Hand of Three final glow",
+    "black countdown 1, 2, 3 (render in code)",
+    "ship interior",
+    "Issac walks to Homecoming door",
+    "Homecoming door opens; ENTER prompt rendered in code",
+    "beach; Issac walks about 10 seconds",
+    "sun rises continuously using separate sun sprite movement",
+    "reflection and wave loops animate",
+    "Issac stops and watches sunrise",
+    "countdown 1, 2, 3 and fade to black (render in code)",
+    "Journey of Issac final screen"
+  ],
+  "rules": [
+    "Use only assets in this package for the new final ending.",
+    "Do not substitute similarly named assets from elsewhere.",
+    "Do not regenerate, resize, recolor, or modify visual assets.",
+    "Use hand/hand_three_space_only.png and hand/hand_three_space_mind.png; old generated intermediate Hand images were intentionally excluded.",
+    "Render HOMECOMING, PRESS ENTER, dialogue text, countdown numbers, and THE JOURNEY OF ISSAC with code.",
+    "Render all Hand states and Hand VFX into one fixed destination rectangle to avoid any source-canvas off-by-one differences."
+  ],
+  "files": [
+    {
+      "path": "arena/eye/eye_center.png",
+      "width": 323,
+      "height": 636,
+      "mode": "RGBA",
+      "sha256": "689ab7dba6730ba9080078e4d1d7e4d1bcfe7406280313b583d01965a24e8efc"
+    },
+    {
+      "path": "arena/eye/eye_far_left.png",
+      "width": 323,
+      "height": 636,
+      "mode": "RGBA",
+      "sha256": "67245af1edc2ba1fba2fdf462a21fd38bbbeeabdaa1e009588cc815d4a897037"
+    },
+    {
+      "path": "arena/eye/eye_far_right.png",
+      "width": 323,
+      "height": 636,
+      "mode": "RGBA",
+      "sha256": "a326d911e6c910b2a3466fc22dc0907a28a849dbaa88ad85cc426b59af3adac4"
+    },
+    {
+      "path": "arena/eye/eye_left.png",
+      "width": 323,
+      "height": 636,
+      "mode": "RGBA",
+      "sha256": "9027577820ce43e2f229cb4422016cec8c9f045cb64aae362ec056216891ea58"
+    },
+    {
+      "path": "arena/eye/eye_right.png",
+      "width": 323,
+      "height": 636,
+      "mode": "RGBA",
+      "sha256": "e1ef725aeaf3c518d8930a1866626446aa5e1de82668c1ad6a7464c14c2fb979"
+    },
+    {
+      "path": "arena/eye/eye_slight_left.png",
+      "width": 323,
+      "height": 636,
+      "mode": "RGBA",
+      "sha256": "0768410afb8faa71779fbe9232a5804ff844b5e798e00218554d91bad4f3f7d4"
+    },
+    {
+      "path": "arena/eye/eye_slight_right.png",
+      "width": 323,
+      "height": 636,
+      "mode": "RGBA",
+      "sha256": "b62528f386ce64e273c4cba1ce26a28d341f0d68ccf814405d7fef4260731cf7"
+    },
+    {
+      "path": "arena/guide/guide_arena_idle.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "426e3385bd677f74468c4247a6bd9c5bdedb7e809a1422c8971929b5c99300c1"
+    },
+    {
+      "path": "arena/guide/guide_dialogue_portrait.png",
+      "width": 1215,
+      "height": 1295,
+      "mode": "RGBA",
+      "sha256": "1f8a6461915818535caa3dcca8dd774fe4823431c0ca92a323c3a87040d65eeb"
+    },
+    {
+      "path": "arena/guide/idle/guide_idle_01.png",
+      "width": 512,
+      "height": 787,
+      "mode": "RGBA",
+      "sha256": "21b1de51b26cd63bb90c16cf8819a2118f5873fb3e8952aed7ca9ffcd15305bc"
+    },
+    {
+      "path": "arena/guide/idle/guide_idle_02.png",
+      "width": 512,
+      "height": 787,
+      "mode": "RGBA",
+      "sha256": "f5c2bf6aa2c97d16a7fb771d9065c90a74e82f0011ac50d817a88c2808cc8686"
+    },
+    {
+      "path": "arena/guide/idle/guide_idle_03.png",
+      "width": 512,
+      "height": 787,
+      "mode": "RGBA",
+      "sha256": "a3ea49782c9d439b17145b977e9fdb5863dec0f3d9be8d52e9a96f1e6fb72528"
+    },
+    {
+      "path": "arena/guide/idle/guide_idle_04.png",
+      "width": 512,
+      "height": 787,
+      "mode": "RGBA",
+      "sha256": "97b47e522a1a5b68ec187561fe63f5e808bb26391d6840fe8d3cd39612763841"
+    },
+    {
+      "path": "arena/issac/issac_dialogue_portrait.png",
+      "width": 1306,
+      "height": 1205,
+      "mode": "RGBA",
+      "sha256": "6d580fc4ec6a79d6eee3061d2e0c77849aed7cbedc3d7d44ccac09a97878a49b"
+    },
+    {
+      "path": "arena/issac/issac_facing_guide.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "b4b8644575c81eb66a5b7b4585fe764db756ce545ab14caac829c6a808a34625"
+    },
+    {
+      "path": "arena/main_arena_background.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "sha256": "09a03b2ac74e1337333db827ab7ad0a1989e15a03a4b4c6f7502f306aa187ae0"
+    },
+    {
+      "path": "arena/main_arena_foreground.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "1afa6d4673f6838881e6240b8a3caeb9684b1f49fe4d0966d82546d522d041be"
+    },
+    {
+      "path": "arena/ui/final_arena_dialogue_panel.png",
+      "width": 2172,
+      "height": 724,
+      "mode": "RGBA",
+      "sha256": "5649d884df1fad7f3c246675b4dc70f001e62aff2cba1c5b2c79414df9883cc7"
+    },
+    {
+      "path": "beach/homecoming_beach_background.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "sha256": "5333e3a5791c155a0f5fa29212e7bff363a6fefc9c137c03a8a28f36179cf365"
+    },
+    {
+      "path": "beach/homecoming_sun.png",
+      "width": 1448,
+      "height": 1086,
+      "mode": "RGBA",
+      "sha256": "e59de0e1240a002b51b335113f00caa794440d90923e315ed604b2701e53c4df"
+    },
+    {
+      "path": "beach/issac_walk/issac_beach_walk_01.png",
+      "width": 380,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "40e6c180708ff7db9aa1db5374bbab177151056de58a4916aa7292d0f7dc5a39"
+    },
+    {
+      "path": "beach/issac_walk/issac_beach_walk_02.png",
+      "width": 380,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "7b396eca52cf261252064e1f5e1a95b52bf49c54c40f34b281b8402ccdf80fcc"
+    },
+    {
+      "path": "beach/issac_walk/issac_beach_walk_03.png",
+      "width": 380,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "b271cd6ce8962917cf234aabea73901e3a46b8d726b5580b0f64be1430b29058"
+    },
+    {
+      "path": "beach/issac_walk/issac_beach_walk_04.png",
+      "width": 380,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "7f275d7609a273d16f3aec09505cc4ab28d82420f57f4a0cb5af1d675c655c59"
+    },
+    {
+      "path": "beach/issac_walk/issac_beach_walk_05.png",
+      "width": 380,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "eec6981ed8b135953e2230922c202416c6b74b8df11f53933f71be34eda69888"
+    },
+    {
+      "path": "beach/issac_walk/issac_beach_walk_06.png",
+      "width": 380,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "4d6e8f87c198a452c2d296a71bf53e5fb760ee1f9d27720e0f6b16783244aa0f"
+    },
+    {
+      "path": "beach/issac_watching_sunrise.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "651a27ecb723ae4dc55247ab918453414c7b2c543b55efa256e85deed4bce19f"
+    },
+    {
+      "path": "beach/reflection/sunrise_reflection_01.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "73266047f34ecaa05805ff28e266bbbfa1205c06cda41db0613c0e3dbd419eaf"
+    },
+    {
+      "path": "beach/reflection/sunrise_reflection_02.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "8bf4bd74072963be89d1558cc7c57b519c6cacc53cdbbfcc7162bc19eb03efc1"
+    },
+    {
+      "path": "beach/reflection/sunrise_reflection_03.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "9a1b11f9fd81603a692ee4d764ca30efab7674607b07c2d4f5b1a843762a69b9"
+    },
+    {
+      "path": "beach/reflection/sunrise_reflection_04.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "9aac077a513439dd911f8f2d1268ad71db2c1c348f1e64ce7d19b5d87cd313e7"
+    },
+    {
+      "path": "beach/reflection/sunrise_reflection_05.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "d6a15c314b058beaec89cb1745d0ccac3fef57bcd966d71edd1091fe545799ac"
+    },
+    {
+      "path": "beach/reflection/sunrise_reflection_06.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "f7d2e5529b80022060b90a75d4f345a1ac015be259109e6a92c9cceeb8591700"
+    },
+    {
+      "path": "beach/waves/beach_wave_01.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "93127a5c42085d8b3bdf75b129eaf171ac0acea87d2f70ce3dca93631c8ddee2"
+    },
+    {
+      "path": "beach/waves/beach_wave_02.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "d930831384e1525d944ec506a24fbdcb0663b7450be058d60da77029462d7fa8"
+    },
+    {
+      "path": "beach/waves/beach_wave_03.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "e6bcf3e4326d80b80735533f8f4e440b9d7aea233d7862f9ba505bc95ae21d19"
+    },
+    {
+      "path": "beach/waves/beach_wave_04.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "f457e3e4321da20fe2c50d2d66e45cd4a7a6cc9beb009045d11da972c8d55b12"
+    },
+    {
+      "path": "beach/waves/beach_wave_05.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "55963d2f9bc2b261f99aceb751458d4aa2e82d99355ea94a7e14faffa471ef33"
+    },
+    {
+      "path": "beach/waves/beach_wave_06.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "5c72827b86a0e58836777f77a2eb91852b84cabdbc70e8e8ed0f29afd6b75741"
+    },
+    {
+      "path": "finale/journey_of_issac_final.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "sha256": "3c0f3672038e92f567a00a602cabf01495ad0a744157858d2ec9462519a27560"
+    },
+    {
+      "path": "hand/hand_three_complete.png",
+      "width": 1024,
+      "height": 1535,
+      "mode": "RGBA",
+      "sha256": "f78f51ec50314f76e13723ad1d4c2f122667c19ce09d06f3d5be31ac11fcd006"
+    },
+    {
+      "path": "hand/hand_three_empty.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "71d30a975baa33819cdbc067b8376a47a35d61cf9664d3546a6ee8568e38bb7e"
+    },
+    {
+      "path": "hand/hand_three_space_mind.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "c8fb2cb4d5fca73811017fc24eabf0d907fb9264dbf27ccaff8c0ad2b8e2ff34"
+    },
+    {
+      "path": "hand/hand_three_space_only.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "883f10a6243ea1678b6b1f54c234a5b58765a17393c7c650ed82afe08bd99837"
+    },
+    {
+      "path": "hand/three_stones_strip.png",
+      "width": 1253,
+      "height": 517,
+      "mode": "RGBA",
+      "sha256": "9e1e38889769244b083b4240bdba02b97ae665b26ded49784cf1c3a72c6f673f"
+    },
+    {
+      "path": "hand/vfx/final_glow/hand_three_final_glow_01.png",
+      "width": 1024,
+      "height": 1535,
+      "mode": "RGBA",
+      "sha256": "069b655b887fcb951ba3415b79f43f5a395691e4bc2c6598829448f450f13942"
+    },
+    {
+      "path": "hand/vfx/final_glow/hand_three_final_glow_02.png",
+      "width": 1024,
+      "height": 1535,
+      "mode": "RGBA",
+      "sha256": "e36869944ea7ee3c645eea8f13c49d2c76208be9e98c5f242ac05d63ec886c4f"
+    },
+    {
+      "path": "hand/vfx/final_glow/hand_three_final_glow_03.png",
+      "width": 1024,
+      "height": 1535,
+      "mode": "RGBA",
+      "sha256": "007e052a033d4abf7427ab0118c26d00d86537772744ca63e8c4c48c07267b51"
+    },
+    {
+      "path": "hand/vfx/final_glow/hand_three_final_glow_04.png",
+      "width": 1024,
+      "height": 1535,
+      "mode": "RGBA",
+      "sha256": "e236fe70b1da8d87670a9b58c28f0c05885849d368af96925ef32b7ec1b4f78c"
+    },
+    {
+      "path": "hand/vfx/final_glow/hand_three_final_glow_05.png",
+      "width": 1024,
+      "height": 1535,
+      "mode": "RGBA",
+      "sha256": "91d69a0332223da7815ba8566f8298569d5f8fd61e9856abd18accd3331a1191"
+    },
+    {
+      "path": "hand/vfx/final_glow/hand_three_final_glow_06.png",
+      "width": 1024,
+      "height": 1535,
+      "mode": "RGBA",
+      "sha256": "20495a8dc8ddfe2ec1c01ab36ae4921a7b5c4b78abbc14f1d750c28a667ee2ed"
+    },
+    {
+      "path": "hand/vfx/mind/mind_stone_insert_fx_01.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "d632a86fc85cc7e6ceb4916796e5bfa6990264f3eae20528e0afaab4b4caae1d"
+    },
+    {
+      "path": "hand/vfx/mind/mind_stone_insert_fx_02.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "9a6883da4dacc92cd204fd0eedf66cbdfe1ab01bde75a165c0f4749b2563c484"
+    },
+    {
+      "path": "hand/vfx/mind/mind_stone_insert_fx_03.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "e3d0f9e14326426d25c36b036b41369cc076d6ccaf8df7d70992aef3dd76e5b4"
+    },
+    {
+      "path": "hand/vfx/mind/mind_stone_insert_fx_04.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "c9a19de719115a8fb88d64c0dcd4b2936d95934097ce9ba78524c9c609eeab93"
+    },
+    {
+      "path": "hand/vfx/mind/mind_stone_insert_fx_05.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "fe65d03ca5d75f64bce9e709f783fcad343ebdf22dd7fe0224d2e4d37b973e4c"
+    },
+    {
+      "path": "hand/vfx/mind/mind_stone_insert_fx_06.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "bf70cca15d2a2d9f110d8d9e146446d52c43cf97796c112f1be970247f941bc1"
+    },
+    {
+      "path": "hand/vfx/power/power_stone_insert_fx_01.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "0925d9b4eaf635b168162dbbbd2ee90be6a9e37389f1d16708822bdc9bdbc640"
+    },
+    {
+      "path": "hand/vfx/power/power_stone_insert_fx_02.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "317cb4d25f0b6561c9a8d1e19fe822e35d520a748566b4f159da7ec8e52251fa"
+    },
+    {
+      "path": "hand/vfx/power/power_stone_insert_fx_03.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "fa5278fbf28ac44d4c0e99c12ee9ceafbe832a28448bde90840aedf3735da3af"
+    },
+    {
+      "path": "hand/vfx/power/power_stone_insert_fx_04.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "8f5f7c1ade5c16ab10d6e33ec7c13a36a9109d77aab561bd9cd10a3d9076871b"
+    },
+    {
+      "path": "hand/vfx/power/power_stone_insert_fx_05.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "a484e2082fdb7a2dab5cb6245633afa7afc1bdaf8ddd3fa83d4ff3b58a78ac46"
+    },
+    {
+      "path": "hand/vfx/power/power_stone_insert_fx_06.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "5cfa569f14c683ea3c436cf9f7221cb46a3408fd36bc7798f433e57a9d3c2826"
+    },
+    {
+      "path": "hand/vfx/space/space_stone_insert_fx_01.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "52fb2c01f048e5f81b4106c296543f4f006ea3f79f246f72dc3ba72d405a8ae0"
+    },
+    {
+      "path": "hand/vfx/space/space_stone_insert_fx_02.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "fdc345954288f29e3b9d18d2e5c9974ec69e2ee59d700b69a8c06487180c97c2"
+    },
+    {
+      "path": "hand/vfx/space/space_stone_insert_fx_03.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "e3085cd3401652f65c5868e2e67fe8d266821667c670e397532c10cd9234e032"
+    },
+    {
+      "path": "hand/vfx/space/space_stone_insert_fx_04.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "1117f1e6832e4666248ef9139dfac7db8bab43085016279b3ad86fc17524a483"
+    },
+    {
+      "path": "hand/vfx/space/space_stone_insert_fx_05.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "7d1de9700e67d7166d4549fe5b5ec149cf2325e54c3852243ddbfdfd850a8ef3"
+    },
+    {
+      "path": "hand/vfx/space/space_stone_insert_fx_06.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "6e1d8977b80e51187d2a78a6c823505736613160f611f4157dcaab76caefa329"
+    },
+    {
+      "path": "ship/homecoming_door/homecoming_door_01.png",
+      "width": 400,
+      "height": 724,
+      "mode": "RGBA",
+      "sha256": "f407020583fb9f211a218d6012f2a26ff4ca57a99f6e2d6cd9c1f40b1b1cb7a7"
+    },
+    {
+      "path": "ship/homecoming_door/homecoming_door_02.png",
+      "width": 400,
+      "height": 724,
+      "mode": "RGBA",
+      "sha256": "fe2f568bc902772c274fa53d55615858f73de00e9c573151a501ce4a080b84a5"
+    },
+    {
+      "path": "ship/homecoming_door/homecoming_door_03.png",
+      "width": 400,
+      "height": 724,
+      "mode": "RGBA",
+      "sha256": "8481569c3bf7c3af163431e2175475f810cac6b49cf7f1a4b5311f109c804c20"
+    },
+    {
+      "path": "ship/homecoming_door/homecoming_door_04.png",
+      "width": 400,
+      "height": 724,
+      "mode": "RGBA",
+      "sha256": "c2e2fe1d05add923b83d2542d92e60f6f383bc83e67f64379b926d96c80c077d"
+    },
+    {
+      "path": "ship/homecoming_door/homecoming_door_05.png",
+      "width": 400,
+      "height": 724,
+      "mode": "RGBA",
+      "sha256": "de6a7c331e7ed236004386c7dc0d11a4cca22cf90bce7cffc87e99cf7130dbdb"
+    },
+    {
+      "path": "ship/homecoming_door/homecoming_door_06.png",
+      "width": 400,
+      "height": 724,
+      "mode": "RGBA",
+      "sha256": "9de068306ea9663c8980349fd5c1fe8e7c700aee4ceb095679287868b298a93c"
+    },
+    {
+      "path": "ship/issac_walk/issac_ship_walk_01.png",
+      "width": 342,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "256f078deb81c046f75d76931e938914e9fb35f516636809c9389eeddf502bfc"
+    },
+    {
+      "path": "ship/issac_walk/issac_ship_walk_02.png",
+      "width": 342,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "d2568c8de2f702c567f2ce9a9b20d998302938e72a3bb78e810602f5eef8788f"
+    },
+    {
+      "path": "ship/issac_walk/issac_ship_walk_03.png",
+      "width": 342,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "5b741264d0a017a61991740b56b1e075378e554508bdcb5908746e9f519f8d24"
+    },
+    {
+      "path": "ship/issac_walk/issac_ship_walk_04.png",
+      "width": 342,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "cd789eb2c8b5532795edbbcbb5ce276ccad861a20531b69cf88fcd1f36716106"
+    },
+    {
+      "path": "ship/issac_walk/issac_ship_walk_05.png",
+      "width": 342,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "0963207a1fcca6dd7d85733ccbbaaae2d2285e81d72b1b27bc9fcfe6cfb969b1"
+    },
+    {
+      "path": "ship/issac_walk/issac_ship_walk_06.png",
+      "width": 342,
+      "height": 720,
+      "mode": "RGBA",
+      "sha256": "94180f98eabe064724667883261d06d0eb2134bd32e7aa9b36cb7e6a442d7137"
+    },
+    {
+      "path": "ship/ship_foreground_b.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "sha256": "5a55de79901c9efd540bc401fa6eb4635208c0dd8d59eba251fa0cb674002aba"
+    },
+    {
+      "path": "ship/ship_interior_b.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "sha256": "e99281f8d9c69bf383027b9b7a7972282f08ceb95c037c344b60dfc09ff665c3"
+    }
+  ]
+}

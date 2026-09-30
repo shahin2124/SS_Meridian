@@ -1,0 +1,12 @@
+PASS: one solution/target/main/window/loop/STB; all source files included; Win32/v120/MultiByte and consistent CRTs; three menu choices; ending retained; x86 GLUT DLL; all PNG literals; 579 unchanged image/audio hashes.
+M1Smoke: PASS
+PASS: complete route, alternate choice, scene-local retries, train input gating, reward ownership, endpoint lock
+M2Logic: PASS
+PASS: startup/state flow, timer isolation, movement, lanes/fallback, head-only collision, 10 damage, single-contact arrows, magazine/cooldown/reload, attack timing/overlap/living-head scheduler, dodge/25-damage-once, HP/time loss, retry reset, 30 hits, victory priority, reward/handoff, frames 01-06, viewport transform, presentation asset bounds.
+M2Combat: PASS
+Continuous-movement combat simulation: state=5 HP=900 hits=30 elapsed=17.6998 peak attacks=3
+M3Logic: PASS
+ALL 131 CHECKS PASSED
+M3Loading: PASS
+PASS: zero startup uploads, entry background first, <=1 upload per step, all PNGs decoded, all textures released
+All requested portable checks passed. Native VS2013/Windows validation is separate.

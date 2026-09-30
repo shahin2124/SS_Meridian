@@ -1,0 +1,4 @@
+PASS hotfix: 1000 HP initial/retry, HUD 1000/1000 and 975/1000, normalized health bar, 1000 -> 975 -> 950, repeated logical viewport sizing. Native F11 runtime verification remains pending.
+PASS maximize patch: 100 resize/mouse cycles, all five button hitboxes, bar rejection, exact entry rectangle anchor, glyph ink/baseline centering and scaled alignment math. Native maximize/restore visual verification pending.
+PASS UI cleanup: full entry PNG preserves pixel scale and centers visible frame in every state; measured text shares center; F11 label absent from every screen.
+PASS: startup/state flow, timer isolation, movement, lanes/fallback, head-only collision, 10 damage, single-contact arrows, magazine/cooldown/reload, attack timing/overlap/living-head scheduler, dodge/25-damage-once, HP/time loss, retry reset, 30 hits, victory priority, reward/handoff, frames 01-06, viewport transform, presentation asset bounds.

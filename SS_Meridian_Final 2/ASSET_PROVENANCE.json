@@ -1,0 +1,2897 @@
+[
+  {
+    "source": "menu/audio/menu_back.wav",
+    "output": "assets/audio/menu_back.wav",
+    "sha256": "dc46efa5decb3199325a2e1f6a9e1735af3fe8fa023aaf4164e6a2406a441893"
+  },
+  {
+    "source": "menu/audio/menu_hover.wav",
+    "output": "assets/audio/menu_hover.wav",
+    "sha256": "a07eaa5f655422d86f3e4554e8587f44eef5fc99b6f978adb7e559fa10ed41d3"
+  },
+  {
+    "source": "menu/audio/menu_click.wav",
+    "output": "assets/audio/menu_click.wav",
+    "sha256": "932e8750c8cbe4fcf2d12bd9b3a22487ca7e74a287713d32f445165638af5ace"
+  },
+  {
+    "source": "menu/menu/menu_title_drips.png",
+    "output": "assets/menu/menu_title_drips.png",
+    "sha256": "3353eb87be2018724da5a7f78fd6e99de3c9707fad2f1a814b0deb0851bf42ea"
+  },
+  {
+    "source": "menu/menu/menu_button_normal.png",
+    "output": "assets/menu/menu_button_normal.png",
+    "sha256": "0a6140ef0ac85de760e57df02b55a4249bbe7dde06fc768980314be0b10c4434"
+  },
+  {
+    "source": "menu/menu/mission_complete_overlay.png",
+    "output": "assets/menu/mission_complete_overlay.png",
+    "sha256": "629d488d28192269ea57ce24ea59aeb9f1fd97191add4dbb522c6c087d6ba938"
+  },
+  {
+    "source": "menu/menu/menu_title.png",
+    "output": "assets/menu/menu_title.png",
+    "sha256": "a6a8c4dccca7e469f89dae2bc0d30ed30d1570cf85556dc930d4bc9c76cb6dbb"
+  },
+  {
+    "source": "menu/menu/mission_card_normal.png",
+    "output": "assets/menu/mission_card_normal.png",
+    "sha256": "ed5dfc8e135c6c06e439f1836c136f2b93405a96c18266d7f7a4ef9a9ecc59d2"
+  },
+  {
+    "source": "menu/menu/mission_select_panel.png",
+    "output": "assets/menu/mission_select_panel.png",
+    "sha256": "0be594b371b8180b3fb325ad9f0aa4dab0b77406c392b58f12d5e06602d44577"
+  },
+  {
+    "source": "menu/menu/menu_background.png",
+    "output": "assets/menu/menu_background.png",
+    "sha256": "f2815f73dd07f4279525c1c9bae1733c6f7fa55ae49aec96d252987c1daf89af"
+  },
+  {
+    "source": "menu/menu/menu_hover_palm.png",
+    "output": "assets/menu/menu_hover_palm.png",
+    "sha256": "40e22ef703e7eec3a90a52ac76629b52de791a6005457ac41e7cfe429b1452e2"
+  },
+  {
+    "source": "menu/menu/mission_card_selected.png",
+    "output": "assets/menu/mission_card_selected.png",
+    "sha256": "81eddf6d73a6db4879f8ac4bd9374dc257234c3ffcd2e8dac9a368f9e219c754"
+  },
+  {
+    "source": "m1/ship/ship_foregrounds/ship_foreground_a.png",
+    "output": "assets/m1/ship/ship_foregrounds/ship_foreground_a.png",
+    "sha256": "5db299d2e879adff159a1ae284d179cd4b229fdca777bb8835dfa0d59c601918"
+  },
+  {
+    "source": "m1/ship/ship_foregrounds/ship_foreground_b.png",
+    "output": "assets/m1/ship/ship_foregrounds/ship_foreground_b.png",
+    "sha256": "5a55de79901c9efd540bc401fa6eb4635208c0dd8d59eba251fa0cb674002aba"
+  },
+  {
+    "source": "m1/ship/ship_item/hand_of_three_floor.png",
+    "output": "assets/m1/ship/ship_item/hand_of_three_floor.png",
+    "sha256": "04cff6ed7a7da369ec127d70b1df6091d105c03eb16b4885d1338b5c44636ceb"
+  },
+  {
+    "source": "m1/ship/ship_backgrounds/ship_interior_b.png",
+    "output": "assets/m1/ship/ship_backgrounds/ship_interior_b.png",
+    "sha256": "e99281f8d9c69bf383027b9b7a7972282f08ceb95c037c344b60dfc09ff665c3"
+  },
+  {
+    "source": "m1/ship/ship_backgrounds/ship_interior_a.png",
+    "output": "assets/m1/ship/ship_backgrounds/ship_interior_a.png",
+    "sha256": "fb2a197a4c18cccaffbe48af8061a7ec0a1af6e44601a222fc5aa7836986f7a8"
+  },
+  {
+    "source": "m1/ship/ship_backgrounds/ship_exterior.png",
+    "output": "assets/m1/ship/ship_backgrounds/ship_exterior.png",
+    "sha256": "1b447fc8ace1980d4509264f2233add79ea91f051ab3da5171e1bad3d398543b"
+  },
+  {
+    "source": "m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_03.png",
+    "output": "assets/m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_03.png",
+    "sha256": "1ec0bf19b40183455179901c0a53130abcf5339b5feb88027922866f8e327eb2"
+  },
+  {
+    "source": "m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_02.png",
+    "output": "assets/m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_02.png",
+    "sha256": "74b8a12a1c3d4b4a39eb2c5cbf93c3558c40c76b69605f722a40188594cc77da"
+  },
+  {
+    "source": "m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_01.png",
+    "output": "assets/m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_01.png",
+    "sha256": "ff65faaf1684ebaa10dfc1662535e4381f8f17d43ac3122cd39508bbd0dd1bc1"
+  },
+  {
+    "source": "m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_04.png",
+    "output": "assets/m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_04.png",
+    "sha256": "faf89d9f16004a64164c67c4ea5376017e2e175d85bf07c02e0bd05f04e8a585"
+  },
+  {
+    "source": "m1/reality_01/exit_in _reality_01/reality1_exit_white.png",
+    "output": "assets/m1/reality_01/exit_in _reality_01/reality1_exit_white.png",
+    "sha256": "6a281b4e5897b69a366bfa71e91ae2576a66d193cb0d590a66faf39dbc559427"
+  },
+  {
+    "source": "m1/reality_01/reality_01_background/reality1_street_c.png",
+    "output": "assets/m1/reality_01/reality_01_background/reality1_street_c.png",
+    "sha256": "c6e966de01560c1318782af5685fb18b7369f7d99a2791dc602c827df38427ac"
+  },
+  {
+    "source": "m1/reality_01/reality_01_background/reality1_street_b.png",
+    "output": "assets/m1/reality_01/reality_01_background/reality1_street_b.png",
+    "sha256": "38f320df794ca3db88db6212d4997c84e7fa94388e59fe12613da03919accf69"
+  },
+  {
+    "source": "m1/reality_01/reality_01_background/reality1_street_a.png",
+    "output": "assets/m1/reality_01/reality_01_background/reality1_street_a.png",
+    "sha256": "fcf3a66aed6996118156771f17a41e85eb0a8f964e6d6da8aa5ea9dc915daa82"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_b/zombie_b_06_death.png",
+    "output": "assets/m1/reality_01/zombies/zombie_b/zombie_b_06_death.png",
+    "sha256": "0dcf03ad8d05a941ee98a4ce04743e1d82c891251c587b907cce01c824d6ecc9"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_b/zombie_b_03_walk2.png",
+    "output": "assets/m1/reality_01/zombies/zombie_b/zombie_b_03_walk2.png",
+    "sha256": "402c596f1e8e577a553b3bc8156cde2c4e6c34247dfd89f5835b5e66c548fd5c"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_b/zombie_b_02_walk1.png",
+    "output": "assets/m1/reality_01/zombies/zombie_b/zombie_b_02_walk1.png",
+    "sha256": "ae7a8b5df7fba57144cda70fdc42ab5151cfa7ce089b68e627b8634836646da3"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_b/zombie_b_05_hit.png",
+    "output": "assets/m1/reality_01/zombies/zombie_b/zombie_b_05_hit.png",
+    "sha256": "ac07c5ba025c67578402d9d213c0cbab214740d8fa337b55dceded478048815a"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_b/zombie_b_04_attack.png",
+    "output": "assets/m1/reality_01/zombies/zombie_b/zombie_b_04_attack.png",
+    "sha256": "19b67e368a1ea4ff09c6bdac9b1a96f2b125431a8cbf533dc74e8b7b2b7992de"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_b/zombie_b_01_idle.png",
+    "output": "assets/m1/reality_01/zombies/zombie_b/zombie_b_01_idle.png",
+    "sha256": "b5fa20b121112ee458502bde0ebeda8274aec47fdd43a401c0a2c5e382609dbe"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_c/zombie_c_03_walk2.png",
+    "output": "assets/m1/reality_01/zombies/zombie_c/zombie_c_03_walk2.png",
+    "sha256": "9bf2e1a91b71ab3063b19b3c12316d4d3d592bd171a09d373bf9f8791dd9ce5b"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_c/zombie_c_05_hit.png",
+    "output": "assets/m1/reality_01/zombies/zombie_c/zombie_c_05_hit.png",
+    "sha256": "0542b2d2345f2dad943a017d65584ad2608132636ad9da4583ed1985f270686f"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_c/zombie_c_06_death.png",
+    "output": "assets/m1/reality_01/zombies/zombie_c/zombie_c_06_death.png",
+    "sha256": "a045f5c735a479b6a0acad63a68f6cdf5bd2d4050b2ac585cedcea6364abf587"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_c/zombie_c_04_attack.png",
+    "output": "assets/m1/reality_01/zombies/zombie_c/zombie_c_04_attack.png",
+    "sha256": "8c64cff778057cd50a4683fabdaa2227f5457da73c64563f990cdd18cd5ebf91"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_c/zombie_c_02_walk1.png",
+    "output": "assets/m1/reality_01/zombies/zombie_c/zombie_c_02_walk1.png",
+    "sha256": "8917fe539a628467d216adf23ba77c06793816319e9da3f6e05baa9060cef7c0"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_c/zombie_c_01_idle.png",
+    "output": "assets/m1/reality_01/zombies/zombie_c/zombie_c_01_idle.png",
+    "sha256": "b2b1531148307e6ff598dcd1600fbb1ac20213e3dbfdd785b234d2119e82a20c"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_a/zombie_a_05_hit.png",
+    "output": "assets/m1/reality_01/zombies/zombie_a/zombie_a_05_hit.png",
+    "sha256": "e92297afb55cf73a77a3e5ab9cdd402394e29a1f0bf2e8e646a80b821c04c01f"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_a/zombie_a_04_attack.png",
+    "output": "assets/m1/reality_01/zombies/zombie_a/zombie_a_04_attack.png",
+    "sha256": "219399d0b1cc248788aacf9fdee61f71d5df880f9ae348662369a1498ac59596"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_a/zombie_a_01_idle.png",
+    "output": "assets/m1/reality_01/zombies/zombie_a/zombie_a_01_idle.png",
+    "sha256": "76601615ca06cfcac8528fd61ed3448c93f9b9da50d66e3b91ebfca6595410d2"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_a/zombie_a_02_walk1.png",
+    "output": "assets/m1/reality_01/zombies/zombie_a/zombie_a_02_walk1.png",
+    "sha256": "c26d34ad39ce9643a097f359ea222104c2538086f1af9232d223da9b02a2e972"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_a/zombie_a_06_death.png",
+    "output": "assets/m1/reality_01/zombies/zombie_a/zombie_a_06_death.png",
+    "sha256": "121fadc213af8bf1fc9fc28e0d09e9e71b346ae2a5000aae40597a9a697d51ed"
+  },
+  {
+    "source": "m1/reality_01/zombies/zombie_a/zombie_a_03_walk2.png",
+    "output": "assets/m1/reality_01/zombies/zombie_a/zombie_a_03_walk2.png",
+    "sha256": "35d4fc2de50e376d1ed307a6155f591c3a69c0f639e0a034b571ee1e55a6988a"
+  },
+  {
+    "source": "m1/reality_01/vfx_for_reality_01/gun_vfx/hit_flash_red.png",
+    "output": "assets/m1/reality_01/vfx_for_reality_01/gun_vfx/hit_flash_red.png",
+    "sha256": "b0d7985277d062f06bcd6795b005153c46900ffaeb45d5409c4771e32a1186c8"
+  },
+  {
+    "source": "m1/reality_01/vfx_for_reality_01/gun_vfx/muzzle_flash_small.png",
+    "output": "assets/m1/reality_01/vfx_for_reality_01/gun_vfx/muzzle_flash_small.png",
+    "sha256": "de82a0a20d1079da90dbc0be50c2f494bd984504d08bcf890618ad8e3e46ec45"
+  },
+  {
+    "source": "m1/reality_01/vfx_for_reality_01/gun_vfx/impact_dust.png",
+    "output": "assets/m1/reality_01/vfx_for_reality_01/gun_vfx/impact_dust.png",
+    "sha256": "ecbdd7a4d7b74d7b52c2317a877e7384ba3d82724c91bc3de70811191420962a"
+  },
+  {
+    "source": "m1/reality_01/vfx_for_reality_01/gun_vfx/muzzle_flash_large.png",
+    "output": "assets/m1/reality_01/vfx_for_reality_01/gun_vfx/muzzle_flash_large.png",
+    "sha256": "b2755e609d83761b665f03da22ac36d537edf59e12399315d82d78353c930571"
+  },
+  {
+    "source": "m1/reality_01/vfx_for_reality_01/gun_vfx/impact_concrete.png",
+    "output": "assets/m1/reality_01/vfx_for_reality_01/gun_vfx/impact_concrete.png",
+    "sha256": "335428500281a51324d1229f01ac2c286b1d94fb4bf2914f4f94007b05bb8e2c"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_03.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_03.png",
+    "sha256": "e3e8f72a1fe0e75ee12be745b929730010ec8814915f169813a26a62e687b777"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_02.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_02.png",
+    "sha256": "7cde531e6459e83bdce03d553a18fc65ee5c847532b4771289dad4603baa8d49"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_01.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_01.png",
+    "sha256": "c3f14a51566f69057abe15eda362b725fa3e6d24a5ef94c66c593fe9b9efb947"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_05.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_05.png",
+    "sha256": "89a023897d217dcacc877a1404eb9b3fa021d87e005c61c588797bcf6bfdcc3c"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_04.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_04.png",
+    "sha256": "cc3416d27fe56da88c5293046bdaeb91ca9aecd8fb987d9c0fd599a54433714f"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_06.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_06.png",
+    "sha256": "fa248f7edf724818d25fdb58760b4cce07ee1f6c21ae2cceaab66ae8b8ba3597"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac_with_gun/gun_06_aim_return.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_06_aim_return.png",
+    "sha256": "64803eac45b2b42a29ce72bcbed399710fc4f3e2a8e0d121544de0b1c6159fe1"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac_with_gun/gun_05_hit.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_05_hit.png",
+    "sha256": "1e850fb4dfcccab9ca6f6bb9368ead5ed1f6d97ef7ed6a7cc51b10e08dec0a88"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac_with_gun/gun_03_fire.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_03_fire.png",
+    "sha256": "f77a0f0d7a7ac349c0f3011a1573d8b2db28ccab6eb2107a136d2635e9b06b3d"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac_with_gun/gun_02_aim.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_02_aim.png",
+    "sha256": "93fbdfb0d5d66b2571bc9c6c909eea35562d04b4c971254cc64d88d1a1bfa2a9"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac_with_gun/gun_04_recovery.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_04_recovery.png",
+    "sha256": "7053c18718dc2ba76a986ce2a2e2f92017b245151f10a2ce2fae0a53b3fb3824"
+  },
+  {
+    "source": "m1/reality_01/issac_in _reality_01/issac_with_gun/gun_01_idle.png",
+    "output": "assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_01_idle.png",
+    "sha256": "7dfe51aed213f541124b44f4c975506df7b6ed2a765926e60cc8ad97b6ff1d72"
+  },
+  {
+    "source": "m1/mission_01_reward/mission_01_reward_background/mission1_reward_background.png",
+    "output": "assets/m1/mission_01_reward/mission_01_reward_background/mission1_reward_background.png",
+    "sha256": "9bde8805540eff5896ec65d2d122ea67a26676555a5702f8f1ce2f40276f8477"
+  },
+  {
+    "source": "m1/mission_01_reward/missio_01_reward_vfx/space_glow_03_bright.png",
+    "output": "assets/m1/mission_01_reward/missio_01_reward_vfx/space_glow_03_bright.png",
+    "sha256": "19a0d90a45b7fa2f906624fd474294657d0ba7b95a15401754ee909b97a062f2"
+  },
+  {
+    "source": "m1/mission_01_reward/missio_01_reward_vfx/space_glow_02_medium.png",
+    "output": "assets/m1/mission_01_reward/missio_01_reward_vfx/space_glow_02_medium.png",
+    "sha256": "ae88b1961a6de5ca59171e9bd84653ce0e0d2a6ddf060054815f51914a8b69e5"
+  },
+  {
+    "source": "m1/mission_01_reward/missio_01_reward_vfx/space_glow_04_claim_flash.png",
+    "output": "assets/m1/mission_01_reward/missio_01_reward_vfx/space_glow_04_claim_flash.png",
+    "sha256": "cfca7e34b475175f8f95cffd957c2e520662d5d8c32c7ef1e31d961f393635ba"
+  },
+  {
+    "source": "m1/mission_01_reward/missio_01_reward_vfx/space_glow_01_faint.png",
+    "output": "assets/m1/mission_01_reward/missio_01_reward_vfx/space_glow_01_faint.png",
+    "sha256": "8bb67d8768ac2fb16443f5360ac8e95d6c3efad7b3c10f026c0cd3b926c16d10"
+  },
+  {
+    "source": "m1/mission_01_reward/mission_01_reward_ui/mission1_claimed_panel.png",
+    "output": "assets/m1/mission_01_reward/mission_01_reward_ui/mission1_claimed_panel.png",
+    "sha256": "5962890d58d7210c83f52bfe65905eea11d64c676fff51da7d9fde22e15f0282"
+  },
+  {
+    "source": "m1/main arena/guide/guide_dialogue_portrait.png",
+    "output": "assets/m1/main arena/guide/guide_dialogue_portrait.png",
+    "sha256": "1f8a6461915818535caa3dcca8dd774fe4823431c0ca92a323c3a87040d65eeb"
+  },
+  {
+    "source": "m1/main arena/guide/guide_arena_idle.png",
+    "output": "assets/m1/main arena/guide/guide_arena_idle.png",
+    "sha256": "426e3385bd677f74468c4247a6bd9c5bdedb7e809a1422c8971929b5c99300c1"
+  },
+  {
+    "source": "m1/main arena/main_arena_background/main_arena_background.png",
+    "output": "assets/m1/main arena/main_arena_background/main_arena_background.png",
+    "sha256": "09a03b2ac74e1337333db827ab7ad0a1989e15a03a4b4c6f7502f306aa187ae0"
+  },
+  {
+    "source": "m1/main arena/eye/eye_right.png",
+    "output": "assets/m1/main arena/eye/eye_right.png",
+    "sha256": "e1ef725aeaf3c518d8930a1866626446aa5e1de82668c1ad6a7464c14c2fb979"
+  },
+  {
+    "source": "m1/main arena/eye/eye_slight_left.png",
+    "output": "assets/m1/main arena/eye/eye_slight_left.png",
+    "sha256": "0768410afb8faa71779fbe9232a5804ff844b5e798e00218554d91bad4f3f7d4"
+  },
+  {
+    "source": "m1/main arena/eye/eye_far_right.png",
+    "output": "assets/m1/main arena/eye/eye_far_right.png",
+    "sha256": "a326d911e6c910b2a3466fc22dc0907a28a849dbaa88ad85cc426b59af3adac4"
+  },
+  {
+    "source": "m1/main arena/eye/eye_left.png",
+    "output": "assets/m1/main arena/eye/eye_left.png",
+    "sha256": "9027577820ce43e2f229cb4422016cec8c9f045cb64aae362ec056216891ea58"
+  },
+  {
+    "source": "m1/main arena/eye/eye_far_left.png",
+    "output": "assets/m1/main arena/eye/eye_far_left.png",
+    "sha256": "67245af1edc2ba1fba2fdf462a21fd38bbbeeabdaa1e009588cc815d4a897037"
+  },
+  {
+    "source": "m1/main arena/eye/eye_center.png",
+    "output": "assets/m1/main arena/eye/eye_center.png",
+    "sha256": "689ab7dba6730ba9080078e4d1d7e4d1bcfe7406280313b583d01965a24e8efc"
+  },
+  {
+    "source": "m1/main arena/eye/eye_slight_right.png",
+    "output": "assets/m1/main arena/eye/eye_slight_right.png",
+    "sha256": "b62528f386ce64e273c4cba1ce26a28d341f0d68ccf814405d7fef4260731cf7"
+  },
+  {
+    "source": "m1/main arena/main_arena_foreground/main_arena_foreground.png",
+    "output": "assets/m1/main arena/main_arena_foreground/main_arena_foreground.png",
+    "sha256": "1afa6d4673f6838881e6240b8a3caeb9684b1f49fe4d0966d82546d522d041be"
+  },
+  {
+    "source": "m1/main arena/issac_in_main_arena/issac_dialogue_portrait.png",
+    "output": "assets/m1/main arena/issac_in_main_arena/issac_dialogue_portrait.png",
+    "sha256": "6d580fc4ec6a79d6eee3061d2e0c77849aed7cbedc3d7d44ccac09a97878a49b"
+  },
+  {
+    "source": "m1/main arena/issac_in_main_arena/issac_facing_guide.png",
+    "output": "assets/m1/main arena/issac_in_main_arena/issac_facing_guide.png",
+    "sha256": "b4b8644575c81eb66a5b7b4585fe764db756ce545ab14caac829c6a808a34625"
+  },
+  {
+    "source": "m1/main arena/failure/hell_naw_elimination_background.png",
+    "output": "assets/m1/main arena/failure/hell_naw_elimination_background.png",
+    "sha256": "0bb49269ceffa60118bb98a0d25a36a8009f37168b545bdbb39c82de68495393"
+  },
+  {
+    "source": "m1/main arena/guide/idle/guide_idle_04.png",
+    "output": "assets/m1/main arena/guide/idle/guide_idle_04.png",
+    "sha256": "97b47e522a1a5b68ec187561fe63f5e808bb26391d6840fe8d3cd39612763841"
+  },
+  {
+    "source": "m1/main arena/guide/idle/guide_idle_01.png",
+    "output": "assets/m1/main arena/guide/idle/guide_idle_01.png",
+    "sha256": "21b1de51b26cd63bb90c16cf8819a2118f5873fb3e8952aed7ca9ffcd15305bc"
+  },
+  {
+    "source": "m1/main arena/guide/idle/guide_idle_03.png",
+    "output": "assets/m1/main arena/guide/idle/guide_idle_03.png",
+    "sha256": "a3ea49782c9d439b17145b977e9fdb5863dec0f3d9be8d52e9a96f1e6fb72528"
+  },
+  {
+    "source": "m1/main arena/guide/idle/guide_idle_02.png",
+    "output": "assets/m1/main arena/guide/idle/guide_idle_02.png",
+    "sha256": "f5c2bf6aa2c97d16a7fb771d9065c90a74e82f0011ac50d817a88c2808cc8686"
+  },
+  {
+    "source": "m1/charecters/issac/ship_walk_atlas.png",
+    "output": "assets/m1/charecters/issac/ship_walk_atlas.png",
+    "sha256": "fcc12420334a84c386c6e25a7206b9dad36af80e27e1e5baf30a9e9af0bd3e82"
+  },
+  {
+    "source": "m1/charecters/characters_ui/dialogue_bubble.png",
+    "output": "assets/m1/charecters/characters_ui/dialogue_bubble.png",
+    "sha256": "ad7edd30979365c2d93b055935c9b99ba471b2b99abdf7ba1a9bef80364c1e48"
+  },
+  {
+    "source": "m1/charecters/characters_ui/button_frame.png",
+    "output": "assets/m1/charecters/characters_ui/button_frame.png",
+    "sha256": "da81511db5232a9a670434026162b77f4818c687aeb24bdb2d9179af69787a34"
+  },
+  {
+    "source": "m1/charecters/issac_base/issac_fullbody_master.png",
+    "output": "assets/m1/charecters/issac_base/issac_fullbody_master.png",
+    "sha256": "593cb0d8412989eb698caafe52b70d021d089d01af3cab27e702578870023a0e"
+  },
+  {
+    "source": "m1/charecters/items/mind_stone.png",
+    "output": "assets/m1/charecters/items/mind_stone.png",
+    "sha256": "168a8a4549aed2eb9e173c3ff235525bc9befde5c275f5a8478ca2bd2d06a258"
+  },
+  {
+    "source": "m1/charecters/items/power_stone.png",
+    "output": "assets/m1/charecters/items/power_stone.png",
+    "sha256": "9a89183b54bcc1403f6cacce724c08e4e3728f3e70e6a1f932d4ccf37cac5a92"
+  },
+  {
+    "source": "m1/charecters/items/space_stone.png",
+    "output": "assets/m1/charecters/items/space_stone.png",
+    "sha256": "0f8508d96ac0f0491e36e579b39335fbbff4e79edc43cc8957470acecc1da060"
+  },
+  {
+    "source": "m1/charecters/issac/walk_down/walk_down_02.png",
+    "output": "assets/m1/charecters/issac/walk_down/walk_down_02.png",
+    "sha256": "54880aaf9ee0474b77505149de4bc4bcb21e58a6fce363e8b77ee08ff8604b01"
+  },
+  {
+    "source": "m1/charecters/issac/walk_down/walk_down_03.png",
+    "output": "assets/m1/charecters/issac/walk_down/walk_down_03.png",
+    "sha256": "cade69a0c7dd6a7e783a189c07d47febe7bf324c950726c182f5a39a125aeb5e"
+  },
+  {
+    "source": "m1/charecters/issac/walk_down/walk_down_01.png",
+    "output": "assets/m1/charecters/issac/walk_down/walk_down_01.png",
+    "sha256": "69083308300216a4032a60f036c9f52637cf124f1d5889bf3fc225f4b6cfe51d"
+  },
+  {
+    "source": "m1/charecters/issac/walk_down/walk_down_04.png",
+    "output": "assets/m1/charecters/issac/walk_down/walk_down_04.png",
+    "sha256": "8511aa62582f50dbef6c1be136580937c2689639155c36c517afc0232cb2aff0"
+  },
+  {
+    "source": "m1/charecters/issac/walk_right/walk_right_01.png",
+    "output": "assets/m1/charecters/issac/walk_right/walk_right_01.png",
+    "sha256": "079e3e9a65a3a73391c4d3124ae10ae3ed48c23195398abac3456dace314e10b"
+  },
+  {
+    "source": "m1/charecters/issac/walk_right/walk_right_03.png",
+    "output": "assets/m1/charecters/issac/walk_right/walk_right_03.png",
+    "sha256": "9443fb9570c3133c3bb826ed9a27f0888c5c3aa0d87bf68602913a6d7afce47b"
+  },
+  {
+    "source": "m1/charecters/issac/walk_right/walk_right_02.png",
+    "output": "assets/m1/charecters/issac/walk_right/walk_right_02.png",
+    "sha256": "c204346d7b1d03611743c7dbcbd295c3ad37c0450e0bc281f0d2a42c1e707a7a"
+  },
+  {
+    "source": "m1/charecters/issac/walk_right/walk_right_04.png",
+    "output": "assets/m1/charecters/issac/walk_right/walk_right_04.png",
+    "sha256": "ba9bb8fc771f8f13722c14e28f8e8c5d85263c70cc93414ad5454a431887d831"
+  },
+  {
+    "source": "m1/charecters/issac/walk_up/walk_up_04.png",
+    "output": "assets/m1/charecters/issac/walk_up/walk_up_04.png",
+    "sha256": "3e8f42f94e06ddb6e5b1239defc8170a2350e2cd6047123f4ebab104ea37809f"
+  },
+  {
+    "source": "m1/charecters/issac/walk_up/walk_up_03.png",
+    "output": "assets/m1/charecters/issac/walk_up/walk_up_03.png",
+    "sha256": "6f698ea61d213437622cc828cdbe195c859610f4f05714393a073bccd5bf93af"
+  },
+  {
+    "source": "m1/charecters/issac/walk_up/walk_up_02.png",
+    "output": "assets/m1/charecters/issac/walk_up/walk_up_02.png",
+    "sha256": "02f0578c5ca6a5af34d5e3b33caca4451f3fbceaf1c54b988dac37144f484c49"
+  },
+  {
+    "source": "m1/charecters/issac/walk_up/walk_up_01.png",
+    "output": "assets/m1/charecters/issac/walk_up/walk_up_01.png",
+    "sha256": "2275a3ea56fa5752c7b95110b677fddb70d3c5a0fe5acdb5a40dafc00139ffff"
+  },
+  {
+    "source": "m1/charecters/issac/walk_left/walk_left_01.png",
+    "output": "assets/m1/charecters/issac/walk_left/walk_left_01.png",
+    "sha256": "e131f6968abdca4ce43df6b3c248ee2b5dd98c010c957f73b54306a7809da116"
+  },
+  {
+    "source": "m1/charecters/issac/walk_left/walk_left_02.png",
+    "output": "assets/m1/charecters/issac/walk_left/walk_left_02.png",
+    "sha256": "eb0c01a34f6b6af1f7d7da858087ecbfbd1ed90a1ea68dc181f2cb8c53c782c4"
+  },
+  {
+    "source": "m1/charecters/issac/walk_left/walk_left_03.png",
+    "output": "assets/m1/charecters/issac/walk_left/walk_left_03.png",
+    "sha256": "d669fd555e228ed3d19c3386cc93069c0a80b74ee2b38ec2da78a16a03d01c0e"
+  },
+  {
+    "source": "m1/charecters/issac/walk_left/walk_left_04.png",
+    "output": "assets/m1/charecters/issac/walk_left/walk_left_04.png",
+    "sha256": "829741aa2912461298f01a10cf9a0ab3fd454235dae9d615e9cddd6a28e8afb5"
+  },
+  {
+    "source": "m1/reality_03/exit_for_reality_03/reality3_railway_exit.png",
+    "output": "assets/m1/reality_03/exit_for_reality_03/reality3_railway_exit.png",
+    "sha256": "7eae3009c04d71514e0f7608c2817abcf546240e21d7f6f4a707814614c2e975"
+  },
+  {
+    "source": "m1/reality_03/train/reality3_cockpit_driver_overlay.png",
+    "output": "assets/m1/reality_03/train/reality3_cockpit_driver_overlay.png",
+    "sha256": "bed9b385e69f06f2733d46e4b3d155613ed54df2ef1e76d9f2fb9dc40e4c0652"
+  },
+  {
+    "source": "m1/reality_03/train/train_connector.png",
+    "output": "assets/m1/reality_03/train/train_connector.png",
+    "sha256": "5bf37f17e252b12aff4f14a28d317c190c511ab7e7c97ccbdee8d0173e8a26ac"
+  },
+  {
+    "source": "m1/reality_03/train/train_track_loop.png",
+    "output": "assets/m1/reality_03/train/train_track_loop.png",
+    "sha256": "8a1d326019914ec08d81519f526556b078aa891aa739f2d547904bddc0ecb1d2"
+  },
+  {
+    "source": "m1/reality_03/train/train cabin/train_cabin_2.png",
+    "output": "assets/m1/reality_03/train/train cabin/train_cabin_2.png",
+    "sha256": "8c1158d360ebfc787a62797212a18749f96276d1ed004f9755f373dfe21a029f"
+  },
+  {
+    "source": "m1/reality_03/train/train cabin/train_cabin_1.png",
+    "output": "assets/m1/reality_03/train/train cabin/train_cabin_1.png",
+    "sha256": "1b8c9d76c933b5c45e6d0c4927bd5797bfe868ff286aa59c3b1482fab12cceba"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_b/ghost_b_05_hit.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_b/ghost_b_05_hit.png",
+    "sha256": "9c6a0416e9705cad6057c7457f33b333da28566f59f3374198c113e5e79fcfbe"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_b/ghost_b_02_advance1.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_b/ghost_b_02_advance1.png",
+    "sha256": "5342849c6869f539eedd7abc92644b2fae6c41b7da35eabbead7c9e53ee4b2b0"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_b/ghost_b_03_advance2.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_b/ghost_b_03_advance2.png",
+    "sha256": "5c8c51c2da050615c182740fba4417fec126dda4f5b3effe1e6c0b4c7729d1f2"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_b/ghost_b_06_dissolve.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_b/ghost_b_06_dissolve.png",
+    "sha256": "2d322600ef2d39f1f91dfeffbbe610e17abf061dbdd7630f6bdebc8d2c0e8e5d"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_b/ghost_b_04_attack.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_b/ghost_b_04_attack.png",
+    "sha256": "f28340f48031840511ff9a5c5ae8f10f4b1ad06ba689bffe9737143df9e00f9d"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_b/ghost_b_01_idle.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_b/ghost_b_01_idle.png",
+    "sha256": "65f394b071719e267a6d2e44db8a8c44359cbe831d48154ec198ef3be4173d60"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_a/ghost_a_06_dissolve.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_a/ghost_a_06_dissolve.png",
+    "sha256": "29dfc82f5b22e349633f057dd2e54cb08cb81af58d6d1b8afa03c42fd4845ce0"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_a/ghost_a_01_idle.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_a/ghost_a_01_idle.png",
+    "sha256": "639d2b6865ccb7d43887cdb5608c9108581ab3bf2fd26e022c67637574f4af28"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_a/ghost_a_04_attack.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_a/ghost_a_04_attack.png",
+    "sha256": "361da3426e76e48d0adb7afb6cfefc9953c0b8f8df77f1f9d9f1f7b6825ab72f"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_a/ghost_a_03_advance2.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_a/ghost_a_03_advance2.png",
+    "sha256": "2a37cf1487a15affa56b116ca8d58ec00326f48a6dc625c7b1829f0c6ea03215"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_a/ghost_a_02_advance1.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_a/ghost_a_02_advance1.png",
+    "sha256": "b595b938d26460141c40aa5afe029001054d4c0fff44973603c1b286064eea41"
+  },
+  {
+    "source": "m1/reality_03/ghosts/ghost_a/ghost_a_05_hit.png",
+    "output": "assets/m1/reality_03/ghosts/ghost_a/ghost_a_05_hit.png",
+    "sha256": "e557b5591593975b947238da844c0af705d4f9270631a7e567004b7592bb90f3"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/slash_04.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/slash_04.png",
+    "sha256": "804acd471e68f117835c80cc633420dafe9ed1f5b86cdbeca12db2fa01cc9c0f"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/slash_02.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/slash_02.png",
+    "sha256": "461910c6dece120350655d269512f74b62851251f2be49cd806806f59ef27938"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/slash_03.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/slash_03.png",
+    "sha256": "aaeaaae6010b36c83542562e0fe315fcaf322a51712c2b51a0ebc629633cf3dc"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/slash_01.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/slash_01.png",
+    "sha256": "1823b64978ae1fb6721e629d40d37301267a771935f02a87a472e4d82870f3ac"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/impact_04.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/impact_04.png",
+    "sha256": "8b853d8e36e4ec2bff921c173fa43e4c2f155c58b1af8eed1e36f5b382a8563b"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/impact_02.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/impact_02.png",
+    "sha256": "9862e658f7f4acc187a0ccc403b50193c649d380ed9ea417f22a208a96c3dffc"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/impact_03.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/impact_03.png",
+    "sha256": "c292aec97ca5b9b5fb6ef613a58fff2923bbb42dc31b6ab2c539cc83349f3430"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/impact_01.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/impact_01.png",
+    "sha256": "5ce52f970327ed10f956a4e226ebace2b385f918a92b45109bb1d9f342caaca0"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/spectral_04.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/spectral_04.png",
+    "sha256": "7caa680815383b7c3081f12c77738ccf28ef7df251e7b3aad08b69fd0d45918a"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/spectral_02.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/spectral_02.png",
+    "sha256": "e9f2779dbf82d98b1d66b4b1729a81366d886229f7b8ddbeb8126a19016f549b"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/spectral_03.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/spectral_03.png",
+    "sha256": "ba91976f206ca9f292984c0dcc62487dbe4b9459569ae39424bb6b7469a812ee"
+  },
+  {
+    "source": "m1/reality_03/reality_03_vfx/sword_vfx/spectral_01.png",
+    "output": "assets/m1/reality_03/reality_03_vfx/sword_vfx/spectral_01.png",
+    "sha256": "6e1339e74d12d8e075c67f57d0612602d180d229dd4e86f5363bf49e63d5a17a"
+  },
+  {
+    "source": "m1/reality_03/issac_in_reality_03/sword/sword_05_return.png",
+    "output": "assets/m1/reality_03/issac_in_reality_03/sword/sword_05_return.png",
+    "sha256": "6938a995510bea82eba61dc015dbc1069f80e96a4a1d6ebe5d8427db2342f2bc"
+  },
+  {
+    "source": "m1/reality_03/issac_in_reality_03/sword/sword_02_windup.png",
+    "output": "assets/m1/reality_03/issac_in_reality_03/sword/sword_02_windup.png",
+    "sha256": "9ecc39e94c0adf844aa1fa24e23e8e4898b539a441e76995aa74a5cb08d331e7"
+  },
+  {
+    "source": "m1/reality_03/issac_in_reality_03/sword/sword_01_ready.png",
+    "output": "assets/m1/reality_03/issac_in_reality_03/sword/sword_01_ready.png",
+    "sha256": "80293c7c9c4cec5ed2d80f1f3c841dd8e3ef9d82cd7e16172dcb62693c433d75"
+  },
+  {
+    "source": "m1/reality_03/issac_in_reality_03/sword/sword_04_followthrough.png",
+    "output": "assets/m1/reality_03/issac_in_reality_03/sword/sword_04_followthrough.png",
+    "sha256": "12e9650b606555f3a06854650dac5b256aac55ecdd26f0940900f9f29ab87c0a"
+  },
+  {
+    "source": "m1/reality_03/issac_in_reality_03/sword/sword_06_hit.png",
+    "output": "assets/m1/reality_03/issac_in_reality_03/sword/sword_06_hit.png",
+    "sha256": "91ae2e7d317dc4bca726c83b1a691dafe28ee75d4b8f0636abc8709b90ebe079"
+  },
+  {
+    "source": "m1/reality_03/issac_in_reality_03/sword/sword_03_slash.png",
+    "output": "assets/m1/reality_03/issac_in_reality_03/sword/sword_03_slash.png",
+    "sha256": "516c8fd0167313089c3dc4d4b6cb02767143dd6d0df5effb8adf617bdd03eda1"
+  },
+  {
+    "source": "m1/reality_02/reality_02_background/reality2_room_b.png",
+    "output": "assets/m1/reality_02/reality_02_background/reality2_room_b.png",
+    "sha256": "0501c9b4b3aa383ea7444a779a4a870313a216b4b96abc79f9af91afc06d13a5"
+  },
+  {
+    "source": "m1/reality_02/reality_02_background/reality2_room_c.png",
+    "output": "assets/m1/reality_02/reality_02_background/reality2_room_c.png",
+    "sha256": "065825705cd7a926317e23b00ddaaa9e7771ec737408dbe1b66889183b4e97a5"
+  },
+  {
+    "source": "m1/reality_02/reality_02_background/reality2_room_a.png",
+    "output": "assets/m1/reality_02/reality_02_background/reality2_room_a.png",
+    "sha256": "dbf40faf6e79db475dc15539cb6f5a7903ae10ea477aa86055cd10668e695665"
+  },
+  {
+    "source": "m1/reality_02/exit_for_reality_02/reality2_exit_red_door_only.png",
+    "output": "assets/m1/reality_02/exit_for_reality_02/reality2_exit_red_door_only.png",
+    "sha256": "247b699ba092c9cc092594b25a9359b5b2e458faa74766f1be11170e7e978b1b"
+  },
+  {
+    "source": "m1/reality_02/hide/hide_01_enter.png",
+    "output": "assets/m1/reality_02/hide/hide_01_enter.png",
+    "sha256": "99433ee6371f00aad3176adc53508b0a00e1b00a90304bcbf1d7bdc72108a305"
+  },
+  {
+    "source": "m1/reality_02/hide/hide_02_idle.png",
+    "output": "assets/m1/reality_02/hide/hide_02_idle.png",
+    "sha256": "e22ddcc15636b6fce0dbc88e1037312276a1bcef44aab75afd8f80a073857478"
+  },
+  {
+    "source": "m1/reality_02/hide/hide_03_exit.png",
+    "output": "assets/m1/reality_02/hide/hide_03_exit.png",
+    "sha256": "71cc35719da031ec53ca3b294e1975a278e70a1c9ebf3e34f84c194a3ea0797f"
+  },
+  {
+    "source": "m1/reality_02/monster/reality2_catch_pose.png",
+    "output": "assets/m1/reality_02/monster/reality2_catch_pose.png",
+    "sha256": "343d8daa83b5870bb153f6297758307df38d9ac008f4cc756830b7bcf4421987"
+  },
+  {
+    "source": "m1/reality_02/monster/monster_06_catch.png",
+    "output": "assets/m1/reality_02/monster/monster_06_catch.png",
+    "sha256": "3acded0dafdfb2c3385a9f3f237417a6a4d99a224ecb18d5503b94d3f825a2fe"
+  },
+  {
+    "source": "m1/reality_02/monster/monster_03_step2.png",
+    "output": "assets/m1/reality_02/monster/monster_03_step2.png",
+    "sha256": "d0bc9e5e343143c944fa6100ccbc682c31a2891b3313d715d7075e0b091e7d8f"
+  },
+  {
+    "source": "m1/reality_02/monster/monster_04_turn.png",
+    "output": "assets/m1/reality_02/monster/monster_04_turn.png",
+    "sha256": "34eb2fc0001e1ec1336634a1cc06a6acb4ba54656225753f31c7547af496f613"
+  },
+  {
+    "source": "m1/reality_02/monster/monster_02_step1.png",
+    "output": "assets/m1/reality_02/monster/monster_02_step1.png",
+    "sha256": "a07932d43e3b4cfb634ad570b0b9a249d3a1c4851d02ae71aaf3316442038a2d"
+  },
+  {
+    "source": "m1/reality_02/monster/monster_01_idle.png",
+    "output": "assets/m1/reality_02/monster/monster_01_idle.png",
+    "sha256": "2daf18490a0ac896e28acfe2832961dbc391403718ee2f8393d4daf85e65e73c"
+  },
+  {
+    "source": "m1/reality_02/monster/monster_05_chase.png",
+    "output": "assets/m1/reality_02/monster/monster_05_chase.png",
+    "sha256": "a970a169062e7e3895cc98366e9eac6b3715d3b425fedd913c9498a74ad383dd"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/right/run_right_03.png",
+    "output": "assets/m1/reality_02/reality2_run/right/run_right_03.png",
+    "sha256": "eb14c22c48ee5415a3aa823d4ccd1d1aca62eb4ce6898553fa5ad3e7c7e079b3"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/right/run_right_02.png",
+    "output": "assets/m1/reality_02/reality2_run/right/run_right_02.png",
+    "sha256": "772958a21c57c28a479b3c8048fca162b5e47801a73721e009e364c0d69994d0"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/right/run_right_01.png",
+    "output": "assets/m1/reality_02/reality2_run/right/run_right_01.png",
+    "sha256": "17e8d6b9b2275db5335398c36748e08aa7db329214b3fcb293ba0ed0173016d6"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/right/run_right_05.png",
+    "output": "assets/m1/reality_02/reality2_run/right/run_right_05.png",
+    "sha256": "da8dbd66c2017945bccb46cc8a87a0caaadda1fcb5c1d8956356b7fc8d930d29"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/right/run_right_04.png",
+    "output": "assets/m1/reality_02/reality2_run/right/run_right_04.png",
+    "sha256": "2f93a5a797d8c86e25aa028fb987ebfe9a021612fce2485ae1faf657fc6faa34"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/right/run_right_06.png",
+    "output": "assets/m1/reality_02/reality2_run/right/run_right_06.png",
+    "sha256": "7001d47f2471481b708045324a8373795ff799d9f4355d3630df1031285fc96d"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/back/run_back_03.png",
+    "output": "assets/m1/reality_02/reality2_run/back/run_back_03.png",
+    "sha256": "ceb63b5cb89489e16ba9fb69be06b6d6823aac6fd0f346f9cfc7777599d30241"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/back/run_back_02.png",
+    "output": "assets/m1/reality_02/reality2_run/back/run_back_02.png",
+    "sha256": "7c4d4c45072c622516ec76d9ca81107cd88410ce739e5db011a6a256e73a9174"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/back/run_back_01.png",
+    "output": "assets/m1/reality_02/reality2_run/back/run_back_01.png",
+    "sha256": "e29e5c083499a763dce9834f3ce8b76df9a0c5439c57b46af4c138a88de4fcb1"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/back/run_back_05.png",
+    "output": "assets/m1/reality_02/reality2_run/back/run_back_05.png",
+    "sha256": "08e8e43ba53f4ff6f037dff49c5a0cc53b81e8e3cb14baf5703b6a0e15610c18"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/back/run_back_04.png",
+    "output": "assets/m1/reality_02/reality2_run/back/run_back_04.png",
+    "sha256": "001bb9681fc6ccbcb322e7b1a4484b30f1c7a9637d94b9702d5b484e7f103498"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/back/run_back_06.png",
+    "output": "assets/m1/reality_02/reality2_run/back/run_back_06.png",
+    "sha256": "3bc9be277a1c0e4480c6ffaca3a40b22ee1d35aa8f188a7c064eed84eac8b241"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/front/run_front_06.png",
+    "output": "assets/m1/reality_02/reality2_run/front/run_front_06.png",
+    "sha256": "0074388e7debbf658108fdc50e3f5c4aced5c08dc492da3c1686c91a31d6c408"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/front/run_front_04.png",
+    "output": "assets/m1/reality_02/reality2_run/front/run_front_04.png",
+    "sha256": "8eabbec728a86d47fd4cd804786ff8785c778702ae12832c4c81c9e6f4efb168"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/front/run_front_05.png",
+    "output": "assets/m1/reality_02/reality2_run/front/run_front_05.png",
+    "sha256": "ddb260911eddbcffcbfa0cbfc30e99bfa7d130358a91562853034144e24d9c40"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/front/run_front_01.png",
+    "output": "assets/m1/reality_02/reality2_run/front/run_front_01.png",
+    "sha256": "c56c78abe0fadb21e0cddc9ee0a788e2d317687ffed1d6a3560db26c2950cd84"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/front/run_front_02.png",
+    "output": "assets/m1/reality_02/reality2_run/front/run_front_02.png",
+    "sha256": "99deb3fe0239894c297e5c08a85457c2b92e1f9eeebf195501f96e83eab483a9"
+  },
+  {
+    "source": "m1/reality_02/reality2_run/front/run_front_03.png",
+    "output": "assets/m1/reality_02/reality2_run/front/run_front_03.png",
+    "sha256": "23005826256608fbea3a28ac04258bba9d3162f893c4e053d99ca8de71fb2f75"
+  },
+  {
+    "source": "m2/02_DRAGON_INTRO/background/mission2_dragon_intro_background.png",
+    "output": "assets/m2/02_DRAGON_INTRO/background/mission2_dragon_intro_background.png",
+    "sha256": "f860d338b1cdaaf1eb00f1801a3dfb8caab5de53f132c43288a993faa9a1e3c0"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/background/mind_stone_reward_bg.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/background/mind_stone_reward_bg.png",
+    "sha256": "df1e509ff0a5bc525bb82f5514c14f0053eb6574afa5689214f81eb75e3a554d"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/ui/claim_button_hover.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/ui/claim_button_hover.png",
+    "sha256": "d574a3f880c48a26a222a0e2a48b8a12c71c7afed0d0cde45e23454e679c4bd7"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/ui/claim_button_normal.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/ui/claim_button_normal.png",
+    "sha256": "a7979c9af99cd1ffec54e0b002b527f183b50e4d7cd19ab19fb6bcc1c5f16778"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/ui/claim_button_pressed.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/ui/claim_button_pressed.png",
+    "sha256": "ae4f61f6fa94725911e7651abe93841ecf4b8c18bcb38b0d5ef81d579c18db74"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/stone/mind_stone.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/stone/mind_stone.png",
+    "sha256": "82cc75356b8b929521f7fc637cd849f8669096ceb384078901b6d9f341354fc3"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_01.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_01.png",
+    "sha256": "dc432301160471ecf6c6f3f3cf40d56e14bb1a2a16690bbc8ef41d81de9b60c4"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_03.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_03.png",
+    "sha256": "abd9f2c1e008005e02873988378210a50ff6d4d82fd8233a9f4e9ac2348abd0d"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_02.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_02.png",
+    "sha256": "c685634c24e986b215f0598721fe01d9b842c2641894aa8dd8682073bbd0c2a3"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_06.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_06.png",
+    "sha256": "bcba1436a519f6b3259605fe84c886f577116702dc5c141b9067c8b6f5a16f47"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_05.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_05.png",
+    "sha256": "9968a349921f80be9291b8f6860931f69ca761f3dd8184424e2c86916c846358"
+  },
+  {
+    "source": "m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_04.png",
+    "output": "assets/m2/05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_04.png",
+    "sha256": "3665954b5f8fffdec38cc44b2d27f289c9ab8bbf67d15ba680f1826d3f4dd616"
+  },
+  {
+    "source": "m2/06_MISSION3_UNLOCK/background/mission3_unlock_background.png",
+    "output": "assets/m2/06_MISSION3_UNLOCK/background/mission3_unlock_background.png",
+    "sha256": "184a2ca23e9e599fe1a8fb8b7eb34677ae436f13cc35d22bf3c636e169459b6f"
+  },
+  {
+    "source": "m2/06_MISSION3_UNLOCK/ui/enter_button_normal.png",
+    "output": "assets/m2/06_MISSION3_UNLOCK/ui/enter_button_normal.png",
+    "sha256": "0001b132f59a105fe73b887c6ad34088eb64cceae84e46e8e8c11b9f5a09e6cc"
+  },
+  {
+    "source": "m2/06_MISSION3_UNLOCK/ui/enter_button_pressed.png",
+    "output": "assets/m2/06_MISSION3_UNLOCK/ui/enter_button_pressed.png",
+    "sha256": "0c424a9515c47edd6bcda45c826cca0c27ddde39b6df7e95fba9cd6e510725c6"
+  },
+  {
+    "source": "m2/06_MISSION3_UNLOCK/ui/enter_button_hover.png",
+    "output": "assets/m2/06_MISSION3_UNLOCK/ui/enter_button_hover.png",
+    "sha256": "44771474d2f80f3ef1a0a9d8c71438e9faee820310f8c62009f718bf55d74cb0"
+  },
+  {
+    "source": "m2/01_ENTRY/background/mission2_enter_screen.png",
+    "output": "assets/m2/01_ENTRY/background/mission2_enter_screen.png",
+    "sha256": "02b1f9dee7124e3921aaf89787fbcdcff88597014f79f6790b3b0002fcdddcad"
+  },
+  {
+    "source": "m2/01_ENTRY/ui/mission2_enter_button_hover.png",
+    "output": "assets/m2/01_ENTRY/ui/mission2_enter_button_hover.png",
+    "sha256": "696cd8bbbabadbb30d0f94ddca81e3e716de7de9bbe89e0a61de6fb6f3108edd"
+  },
+  {
+    "source": "m2/01_ENTRY/ui/mission2_enter_button_normal.png",
+    "output": "assets/m2/01_ENTRY/ui/mission2_enter_button_normal.png",
+    "sha256": "39aae05799b11c42829a219ee91bd7068fb214338eb653765ecb8f72f66add4c"
+  },
+  {
+    "source": "m2/01_ENTRY/ui/mission2_enter_button_pressed.png",
+    "output": "assets/m2/01_ENTRY/ui/mission2_enter_button_pressed.png",
+    "sha256": "e24d72e2665b667bd22c2b49b087d6d343cd007309cec5af17a8bf81befda580"
+  },
+  {
+    "source": "m2/03_FIGHT_GUIDE/background/mission2_fight_guide_background.png",
+    "output": "assets/m2/03_FIGHT_GUIDE/background/mission2_fight_guide_background.png",
+    "sha256": "a2e08e541c5733a5ab48b61a11a4ee668eadd44850b8b24e9e4ea4226ad9e92a"
+  },
+  {
+    "source": "m2/03_FIGHT_GUIDE/ui/start_fight_button_hover.png",
+    "output": "assets/m2/03_FIGHT_GUIDE/ui/start_fight_button_hover.png",
+    "sha256": "c3095c6bb1dd3c95305582b40b8dc76caff95679a2e7c1705fed80d4788ed63f"
+  },
+  {
+    "source": "m2/03_FIGHT_GUIDE/ui/start_fight_button_pressed.png",
+    "output": "assets/m2/03_FIGHT_GUIDE/ui/start_fight_button_pressed.png",
+    "sha256": "70870143c142e630ddb5e9b5276fb0b28beac63b4b820f588e467ac767098601"
+  },
+  {
+    "source": "m2/03_FIGHT_GUIDE/ui/start_fight_button_normal.png",
+    "output": "assets/m2/03_FIGHT_GUIDE/ui/start_fight_button_normal.png",
+    "sha256": "73485971ee11fad5e52e228e066cb8de7bd671164d1528315c7e0f1ef4396e47"
+  },
+  {
+    "source": "m2/04_BATTLE/ui/mission2_combat_hud.png",
+    "output": "assets/m2/04_BATTLE/ui/mission2_combat_hud.png",
+    "sha256": "dceb628964f073f7541591f8937897af3fee685a59fadfbb76fa9bb601c719bc"
+  },
+  {
+    "source": "m2/04_BATTLE/ui/mission2_aim_reticle.png",
+    "output": "assets/m2/04_BATTLE/ui/mission2_aim_reticle.png",
+    "sha256": "0f0750c87ad6966a0bb522d85c473cfbf8f52577a45541cb291da46c8b5e452f"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/mission2_dragon_boss_idle.png",
+    "output": "assets/m2/04_BATTLE/boss/mission2_dragon_boss_idle.png",
+    "sha256": "09f7f31ade2e3181f682de0135f2235f9d37d10032964f1f06b229aa8081bdf8"
+  },
+  {
+    "source": "m2/04_BATTLE/environment/mission2_dragon_battle_foreground.png",
+    "output": "assets/m2/04_BATTLE/environment/mission2_dragon_battle_foreground.png",
+    "sha256": "f2d8fdbb220b8e82ce8017f4937fae44676dd4c5ad3090644619a2bec68e1749"
+  },
+  {
+    "source": "m2/04_BATTLE/environment/mission2_dragon_battle_background.png",
+    "output": "assets/m2/04_BATTLE/environment/mission2_dragon_battle_background.png",
+    "sha256": "5a69914524575ae30e97eff732596911c12ef01568e5152767bbf7032409b3de"
+  },
+  {
+    "source": "m2/04_BATTLE/player/issac_bow_ready.png",
+    "output": "assets/m2/04_BATTLE/player/issac_bow_ready.png",
+    "sha256": "3ac82545e7a58ebef9c62838168efdbd76799c497581286e9233324ec019a97c"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_02.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_02.png",
+    "sha256": "dc69423e23d4f720f441b70f0da3b69fa09af161b6ed417c97e13bf3f328d6a2"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_03.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_03.png",
+    "sha256": "5a475af250385de49bd72a4a2a6fc89977f7d76663efd37fe079dde73d071d29"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_01.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_01.png",
+    "sha256": "1994fcd51fa75133fd2f22a03e89cba4143ac7fd5af42a46b2b71c02da3edc77"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_04.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_04.png",
+    "sha256": "67ac011479cee974f5db3dcce3a2f0cb210e0259f11a26aee8e7b23952fbf277"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_05.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_05.png",
+    "sha256": "e4a5ba9128e716bd2eb26a0e21b94cbd33e0447bad5d1edda8c0fb0f7b066b08"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_06.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_left/issac_bow_strafe_left_06.png",
+    "sha256": "22967a91802ea43a236d183f645dc849d6be5be03cf5f3f625d0d80fdc1348ce"
+  },
+  {
+    "source": "m2/04_BATTLE/player/projectiles/issac_arrow_projectile.png",
+    "output": "assets/m2/04_BATTLE/player/projectiles/issac_arrow_projectile.png",
+    "sha256": "a169cd75894d4ec742b5a3f5db08a0c57d7af14554c0268e1bba225becc20a86"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_02.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_02.png",
+    "sha256": "c60862b0a73236d058e8248e6f2d3a4800e6b6992d3714c12dbe85c00837650e"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_03.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_03.png",
+    "sha256": "3b374782d5fe590d557ad6b34690b1e35f71b9a4bd21f9277af5e2d4a0c7ce24"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_01.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_01.png",
+    "sha256": "dfda43d0bc342fc6a5892c692c9e06e34dfa8d55dad640143853647d4418dc60"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_04.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_04.png",
+    "sha256": "e20fd731ae699ffa0fd87b811e6ab6a26988bf491d11bc3f5d3b8fdb0c7bade3"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_05.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_05.png",
+    "sha256": "09ff2711f67fccb467f5dd2e823f1997cbbb71d946712c367cfc83f7cdb24805"
+  },
+  {
+    "source": "m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_06.png",
+    "output": "assets/m2/04_BATTLE/player/strafe_right/issac_bow_strafe_right_06.png",
+    "sha256": "a6cac802b17d7f22a45796f1d6541f137fe03bb3d9d4888edb5940a5009bdc78"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_02.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_02.png",
+    "sha256": "79b0806f1e8428bf631acb3e4b52e90c6a8d9ff08acb43e1393850afa802daea"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_03.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_03.png",
+    "sha256": "6a2acf3318df496d1cb298aec61f0cda05d9790264459400ff6937b333f678fd"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_01.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_01.png",
+    "sha256": "1a0d85ff56fce35e1ae9ec382d363d0b414830017e0cdc6f383ebd6aa66ad70b"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_04.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_04.png",
+    "sha256": "47bf34d69cdaa102c07f2606dfe08044dbf4c79804be5e903f3aef39a65a75bc"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_05.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_05.png",
+    "sha256": "fc7d0efe64311e9ec25ca9fbaa456a082d87625ecab4b4571d8ee06d73349be0"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_06.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/bow_release/bow_release_vfx_06.png",
+    "sha256": "58a76412db156166e34f3b7cc840cda259b5519aaf7cd5333912552218c4690e"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_01.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_01.png",
+    "sha256": "aeb9a7d7496b500a538b70b60bbf6d71ac7cffa15aa2e8fcad64020d9e83e316"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_03.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_03.png",
+    "sha256": "e3386bf7aeeeb9646c8d6bf7570d3781b5c00896767152191fec81a7ec30f950"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_02.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_02.png",
+    "sha256": "00ad68432e608ec41b13e07afbf0086c2acc411cc906d8d49bd0712580af0fe3"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_06.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_06.png",
+    "sha256": "ac66fb69bdd922f79720cee5300b562fef8ea02372e6e257adb1ca61fc30d305"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_05.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_05.png",
+    "sha256": "a8242887eed57199ac817d28855cc017ffa7230007f0ba15316e99dbf1cdd689"
+  },
+  {
+    "source": "m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_04.png",
+    "output": "assets/m2/04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_04.png",
+    "sha256": "fce85896c6bffccf7b43344e756c64f5af8cacbc590ec8f180b1c11467ec55c8"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/projectiles/dragon_fireball_projectile.png",
+    "output": "assets/m2/04_BATTLE/boss/projectiles/dragon_fireball_projectile.png",
+    "sha256": "1a8697eecfed49716953b25bcd1261cdc566e34a332f6cbdbf10e98db2dac4cb"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_06.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_06.png",
+    "sha256": "91125cf2c6842a1944e7d5d307d69dc9e527a5c818fff6ad65be4483f263a04c"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_04.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_04.png",
+    "sha256": "fc4b3e4852f00d57e70a4866ad96095516e221657ea9cadd77e773317d73b168"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_05.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_05.png",
+    "sha256": "69bf5af83e48445d629c4dbfd4cc34ef211dd25e545aeef272ba49aee9e27e55"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_01.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_01.png",
+    "sha256": "860ece70feb098afc2de9787933c083e7f3e793e74ef2afdfd1aa9dc7119cec8"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_02.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_02.png",
+    "sha256": "c39ae21fdb60996415b35f4648cbc16e60e614a97f842590b4184618dce6fe30"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_03.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/death/dragon_death_vfx_03.png",
+    "sha256": "c21562c13ff131d24db925bcbc172d0a6719f347254fb7ee5786b5c98f87732c"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_01.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_01.png",
+    "sha256": "4b487ad9449ab6e03c132d33736d69a8fdec996a3c29f80861789a4e849e6423"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_03.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_03.png",
+    "sha256": "cae158cc44996ac6296c569b8173efd67871232694fdefc386f78a1c72ea333f"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_02.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_02.png",
+    "sha256": "022994936d27dbf93c1da6b0e962897869a7515a41736957a938c0b8856f166e"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_06.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_06.png",
+    "sha256": "0c8d80525e65b56819a9685f62d41a338807cea0d4ae308a4c50f94263797649"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_05.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_05.png",
+    "sha256": "cf71d7243d640b7fe9c10f2f4799708a8e1270bde46998106b931c9b6fc6d392"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_04.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_04.png",
+    "sha256": "e2a9b67feb624c06218a4f57314fa30674a4d9f3e36af62b9cf0cb113a9120d9"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_06.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_06.png",
+    "sha256": "e8f30123df6ebfcff6c5b53163ea672bd53588b14a9b701725b8a0ffc5b2f675"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_05.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_05.png",
+    "sha256": "c09a4880017de6717d24f9ac0e50a6690c9edfc978a71058aa0d5bba0956dba3"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_04.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_04.png",
+    "sha256": "9d5b01510eaeb46c584a4eac7385625a80f824dff9c33b69f4d9cd42d7d854e6"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_01.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_01.png",
+    "sha256": "4b0322d712555bd4b8701ae27995ee3a512e6ae463ea61b2ffb28d13189afb48"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_03.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_03.png",
+    "sha256": "0cde01433b46f4a424cfbbcf30d324fdb6d8452a018b191275188318c69e369f"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_02.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_02.png",
+    "sha256": "b03252065436817c5e296253f03b7794a2368de841f13379d1af3d84fa8c7b25"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_01.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_01.png",
+    "sha256": "d7861d2e53edb59b1344557d8ea726a08b1d94be429f10575c31fa17d88c4a9d"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_02.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_02.png",
+    "sha256": "5d24e062c2640c44c41a6a58d24d16cadde6cf6131c70444214f119b8b5ec781"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_03.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_03.png",
+    "sha256": "dbcf319bbd99e46bd10776ceb1072e9deef178a0651651423eeb638949213623"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_06.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_06.png",
+    "sha256": "bda3907f328a8c058937b9e455a1e5c7ce0215069ef926fa2a8aabb40253d353"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_04.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_04.png",
+    "sha256": "9e475ee45218d1a4ea81ddc16d386b79721c37243ea9ee3ce59929f7e7e75530"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_05.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_05.png",
+    "sha256": "c38c7fdde8f8f7eea6fbaaef74839eaab75a43bf255de6c628ecb8960b694901"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_01.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_01.png",
+    "sha256": "3aec90d072c99d92d42a6d82b33a9f516f7c4aa06b48a2a4475718ab771d1327"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_03.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_03.png",
+    "sha256": "5d165ab77d6042fa52bca8a1b519005a5a2fc9b787410cbe3c0392437b6d91d5"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_02.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_02.png",
+    "sha256": "7bb7125c745705902e5151aadff3a979dab8a1bb42748c6d61686e94904c17eb"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_06.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_06.png",
+    "sha256": "89d6512c598b087b30345b0223bdba7088761913aa93c878f22fa7bd0e8c5d93"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_05.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_05.png",
+    "sha256": "db235d9d96355c1383432c9f208c8917d9769ef7a0a8126e3ad8fe33587676f1"
+  },
+  {
+    "source": "m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_04.png",
+    "output": "assets/m2/04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_04.png",
+    "sha256": "47a61e326ba5d570fe634963a47f6190b71409819006d3922ec428b560f20b4b"
+  },
+  {
+    "source": "m2/04_BATTLE/ui/retry/retry_button_hover.png",
+    "output": "assets/m2/04_BATTLE/ui/retry/retry_button_hover.png",
+    "sha256": "c3095c6bb1dd3c95305582b40b8dc76caff95679a2e7c1705fed80d4788ed63f"
+  },
+  {
+    "source": "m2/04_BATTLE/ui/retry/retry_button_normal.png",
+    "output": "assets/m2/04_BATTLE/ui/retry/retry_button_normal.png",
+    "sha256": "73485971ee11fad5e52e228e066cb8de7bd671164d1528315c7e0f1ef4396e47"
+  },
+  {
+    "source": "m2/04_BATTLE/ui/retry/retry_button_pressed.png",
+    "output": "assets/m2/04_BATTLE/ui/retry/retry_button_pressed.png",
+    "sha256": "70870143c142e630ddb5e9b5276fb0b28beac63b4b820f588e467ac767098601"
+  },
+  {
+    "source": "m3/final_ending/hand/hand_three_space_only.png",
+    "output": "assets/m3/final_ending/hand/hand_three_space_only.png",
+    "sha256": "883f10a6243ea1678b6b1f54c234a5b58765a17393c7c650ed82afe08bd99837"
+  },
+  {
+    "source": "m3/final_ending/hand/hand_three_space_mind.png",
+    "output": "assets/m3/final_ending/hand/hand_three_space_mind.png",
+    "sha256": "c8fb2cb4d5fca73811017fc24eabf0d907fb9264dbf27ccaff8c0ad2b8e2ff34"
+  },
+  {
+    "source": "m3/final_ending/hand/three_stones_strip.png",
+    "output": "assets/m3/final_ending/hand/three_stones_strip.png",
+    "sha256": "9e1e38889769244b083b4240bdba02b97ae665b26ded49784cf1c3a72c6f673f"
+  },
+  {
+    "source": "m3/final_ending/hand/hand_three_empty.png",
+    "output": "assets/m3/final_ending/hand/hand_three_empty.png",
+    "sha256": "71d30a975baa33819cdbc067b8376a47a35d61cf9664d3546a6ee8568e38bb7e"
+  },
+  {
+    "source": "m3/final_ending/hand/hand_three_complete.png",
+    "output": "assets/m3/final_ending/hand/hand_three_complete.png",
+    "sha256": "f78f51ec50314f76e13723ad1d4c2f122667c19ce09d06f3d5be31ac11fcd006"
+  },
+  {
+    "source": "m3/final_ending/arena/main_arena_foreground.png",
+    "output": "assets/m3/final_ending/arena/main_arena_foreground.png",
+    "sha256": "1afa6d4673f6838881e6240b8a3caeb9684b1f49fe4d0966d82546d522d041be"
+  },
+  {
+    "source": "m3/final_ending/arena/main_arena_background.png",
+    "output": "assets/m3/final_ending/arena/main_arena_background.png",
+    "sha256": "09a03b2ac74e1337333db827ab7ad0a1989e15a03a4b4c6f7502f306aa187ae0"
+  },
+  {
+    "source": "m3/final_ending/beach/issac_watching_sunrise.png",
+    "output": "assets/m3/final_ending/beach/issac_watching_sunrise.png",
+    "sha256": "651a27ecb723ae4dc55247ab918453414c7b2c543b55efa256e85deed4bce19f"
+  },
+  {
+    "source": "m3/final_ending/beach/homecoming_sun.png",
+    "output": "assets/m3/final_ending/beach/homecoming_sun.png",
+    "sha256": "e59de0e1240a002b51b335113f00caa794440d90923e315ed604b2701e53c4df"
+  },
+  {
+    "source": "m3/final_ending/beach/homecoming_beach_background.png",
+    "output": "assets/m3/final_ending/beach/homecoming_beach_background.png",
+    "sha256": "5333e3a5791c155a0f5fa29212e7bff363a6fefc9c137c03a8a28f36179cf365"
+  },
+  {
+    "source": "m3/final_ending/ship/ship_interior_b.png",
+    "output": "assets/m3/final_ending/ship/ship_interior_b.png",
+    "sha256": "e99281f8d9c69bf383027b9b7a7972282f08ceb95c037c344b60dfc09ff665c3"
+  },
+  {
+    "source": "m3/final_ending/ship/ship_interior_homecoming_walkable.png",
+    "output": "assets/m3/final_ending/ship/ship_interior_homecoming_walkable.png",
+    "sha256": "bc40a82157b3795fdff1f198a63f37e10e129d980cd2b0dcf59d504d51b0ef0e"
+  },
+  {
+    "source": "m3/final_ending/ship/ship_foreground_b.png",
+    "output": "assets/m3/final_ending/ship/ship_foreground_b.png",
+    "sha256": "5a55de79901c9efd540bc401fa6eb4635208c0dd8d59eba251fa0cb674002aba"
+  },
+  {
+    "source": "m3/final_ending/finale/journey_of_issac_final.png",
+    "output": "assets/m3/final_ending/finale/journey_of_issac_final.png",
+    "sha256": "19cb27b042ed75ecee4afb95297c74b3ea12bfcdc4deb035e2d70fb48919cb1a"
+  },
+  {
+    "source": "m3/final_ending/ship/homecoming_door/homecoming_door_01.png",
+    "output": "assets/m3/final_ending/ship/homecoming_door/homecoming_door_01.png",
+    "sha256": "f407020583fb9f211a218d6012f2a26ff4ca57a99f6e2d6cd9c1f40b1b1cb7a7"
+  },
+  {
+    "source": "m3/final_ending/ship/homecoming_door/homecoming_door_03.png",
+    "output": "assets/m3/final_ending/ship/homecoming_door/homecoming_door_03.png",
+    "sha256": "8481569c3bf7c3af163431e2175475f810cac6b49cf7f1a4b5311f109c804c20"
+  },
+  {
+    "source": "m3/final_ending/ship/homecoming_door/homecoming_door_02.png",
+    "output": "assets/m3/final_ending/ship/homecoming_door/homecoming_door_02.png",
+    "sha256": "fe2f568bc902772c274fa53d55615858f73de00e9c573151a501ce4a080b84a5"
+  },
+  {
+    "source": "m3/final_ending/ship/homecoming_door/homecoming_door_06.png",
+    "output": "assets/m3/final_ending/ship/homecoming_door/homecoming_door_06.png",
+    "sha256": "9de068306ea9663c8980349fd5c1fe8e7c700aee4ceb095679287868b298a93c"
+  },
+  {
+    "source": "m3/final_ending/ship/homecoming_door/homecoming_door_05.png",
+    "output": "assets/m3/final_ending/ship/homecoming_door/homecoming_door_05.png",
+    "sha256": "de6a7c331e7ed236004386c7dc0d11a4cca22cf90bce7cffc87e99cf7130dbdb"
+  },
+  {
+    "source": "m3/final_ending/ship/homecoming_door/homecoming_door_04.png",
+    "output": "assets/m3/final_ending/ship/homecoming_door/homecoming_door_04.png",
+    "sha256": "c2e2fe1d05add923b83d2542d92e60f6f383bc83e67f64379b926d96c80c077d"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_01.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_01.png",
+    "sha256": "2db7a209274475222eca63ad71cba9097782c2833c97d942a74f51fa417b18b0"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_02.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_02.png",
+    "sha256": "42f96f5d63c683c7f8fae0d6f4000def8b2e21390f82a06c67ce5a365e78d777"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_03.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_03.png",
+    "sha256": "78d538192707ec5872d5a0b928c8d57660f1ca4604d8df4b19748652a5c1752c"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_06.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_06.png",
+    "sha256": "bab48da4cde3dd29b52b6336a787b6cb6616248178e0ca2ec91d95692de8fdd0"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_04.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_04.png",
+    "sha256": "62eacaf28afc63109f9aca863f16b4690b8890abfdc8e7db1d7dd037a7563d33"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_05.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward/issac_ship_walk_forward_05.png",
+    "sha256": "a18c2f9beb408acf8b51d2f003631c58533ddf54633356e25193190d5ebfc27c"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk/issac_ship_walk_06.png",
+    "output": "assets/m3/final_ending/ship/issac_walk/issac_ship_walk_06.png",
+    "sha256": "94180f98eabe064724667883261d06d0eb2134bd32e7aa9b36cb7e6a442d7137"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk/issac_ship_walk_04.png",
+    "output": "assets/m3/final_ending/ship/issac_walk/issac_ship_walk_04.png",
+    "sha256": "cd789eb2c8b5532795edbbcbb5ce276ccad861a20531b69cf88fcd1f36716106"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk/issac_ship_walk_05.png",
+    "output": "assets/m3/final_ending/ship/issac_walk/issac_ship_walk_05.png",
+    "sha256": "0963207a1fcca6dd7d85733ccbbaaae2d2285e81d72b1b27bc9fcfe6cfb969b1"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk/issac_ship_walk_01.png",
+    "output": "assets/m3/final_ending/ship/issac_walk/issac_ship_walk_01.png",
+    "sha256": "256f078deb81c046f75d76931e938914e9fb35f516636809c9389eeddf502bfc"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk/issac_ship_walk_02.png",
+    "output": "assets/m3/final_ending/ship/issac_walk/issac_ship_walk_02.png",
+    "sha256": "d2568c8de2f702c567f2ce9a9b20d998302938e72a3bb78e810602f5eef8788f"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk/issac_ship_walk_03.png",
+    "output": "assets/m3/final_ending/ship/issac_walk/issac_ship_walk_03.png",
+    "sha256": "5b741264d0a017a61991740b56b1e075378e554508bdcb5908746e9f519f8d24"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_05.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_05.png",
+    "sha256": "882ba6013d06cad54bfd1239abbcec898d6ba1a440811c95059fface06a38d95"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_04.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_04.png",
+    "sha256": "9e8005d1b12c436010599706fe7eaff70cb28246bed22cd88cfdd05874a30e96"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_06.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_06.png",
+    "sha256": "00e7820ccb6d3b76df34c168c1e9e8f7c6f765580a9d60fd8a7e4859e16e602c"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_03.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_03.png",
+    "sha256": "de17eadee23bfee31e0682d4edcde0d186facf2f758aa03e07e9ec6f9287aad4"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_02.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_02.png",
+    "sha256": "d91874b43463f0a61662fc911376dbd0c1b4ab6092f6a28d2e75cd3695285aa2"
+  },
+  {
+    "source": "m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_01.png",
+    "output": "assets/m3/final_ending/ship/issac_walk_forward_left/issac_ship_walk_forward_left_01.png",
+    "sha256": "2f8e9a6e23d9baacfecaa5c5eb89e1b368521f71b46ff6029dc010934c2fab50"
+  },
+  {
+    "source": "m3/final_ending/beach/issac_walk/issac_beach_walk_05.png",
+    "output": "assets/m3/final_ending/beach/issac_walk/issac_beach_walk_05.png",
+    "sha256": "eec6981ed8b135953e2230922c202416c6b74b8df11f53933f71be34eda69888"
+  },
+  {
+    "source": "m3/final_ending/beach/issac_walk/issac_beach_walk_04.png",
+    "output": "assets/m3/final_ending/beach/issac_walk/issac_beach_walk_04.png",
+    "sha256": "7f275d7609a273d16f3aec09505cc4ab28d82420f57f4a0cb5af1d675c655c59"
+  },
+  {
+    "source": "m3/final_ending/beach/issac_walk/issac_beach_walk_06.png",
+    "output": "assets/m3/final_ending/beach/issac_walk/issac_beach_walk_06.png",
+    "sha256": "4d6e8f87c198a452c2d296a71bf53e5fb760ee1f9d27720e0f6b16783244aa0f"
+  },
+  {
+    "source": "m3/final_ending/beach/issac_walk/issac_beach_walk_03.png",
+    "output": "assets/m3/final_ending/beach/issac_walk/issac_beach_walk_03.png",
+    "sha256": "b271cd6ce8962917cf234aabea73901e3a46b8d726b5580b0f64be1430b29058"
+  },
+  {
+    "source": "m3/final_ending/beach/issac_walk/issac_beach_walk_02.png",
+    "output": "assets/m3/final_ending/beach/issac_walk/issac_beach_walk_02.png",
+    "sha256": "7b396eca52cf261252064e1f5e1a95b52bf49c54c40f34b281b8402ccdf80fcc"
+  },
+  {
+    "source": "m3/final_ending/beach/issac_walk/issac_beach_walk_01.png",
+    "output": "assets/m3/final_ending/beach/issac_walk/issac_beach_walk_01.png",
+    "sha256": "40e6c180708ff7db9aa1db5374bbab177151056de58a4916aa7292d0f7dc5a39"
+  },
+  {
+    "source": "m3/final_ending/beach/waves/beach_wave_02.png",
+    "output": "assets/m3/final_ending/beach/waves/beach_wave_02.png",
+    "sha256": "d930831384e1525d944ec506a24fbdcb0663b7450be058d60da77029462d7fa8"
+  },
+  {
+    "source": "m3/final_ending/beach/waves/beach_wave_03.png",
+    "output": "assets/m3/final_ending/beach/waves/beach_wave_03.png",
+    "sha256": "e6bcf3e4326d80b80735533f8f4e440b9d7aea233d7862f9ba505bc95ae21d19"
+  },
+  {
+    "source": "m3/final_ending/beach/waves/beach_wave_01.png",
+    "output": "assets/m3/final_ending/beach/waves/beach_wave_01.png",
+    "sha256": "93127a5c42085d8b3bdf75b129eaf171ac0acea87d2f70ce3dca93631c8ddee2"
+  },
+  {
+    "source": "m3/final_ending/beach/waves/beach_wave_04.png",
+    "output": "assets/m3/final_ending/beach/waves/beach_wave_04.png",
+    "sha256": "f457e3e4321da20fe2c50d2d66e45cd4a7a6cc9beb009045d11da972c8d55b12"
+  },
+  {
+    "source": "m3/final_ending/beach/waves/beach_wave_05.png",
+    "output": "assets/m3/final_ending/beach/waves/beach_wave_05.png",
+    "sha256": "55963d2f9bc2b261f99aceb751458d4aa2e82d99355ea94a7e14faffa471ef33"
+  },
+  {
+    "source": "m3/final_ending/beach/waves/beach_wave_06.png",
+    "output": "assets/m3/final_ending/beach/waves/beach_wave_06.png",
+    "sha256": "5c72827b86a0e58836777f77a2eb91852b84cabdbc70e8e8ed0f29afd6b75741"
+  },
+  {
+    "source": "m3/final_ending/beach/reflection/sunrise_reflection_04.png",
+    "output": "assets/m3/final_ending/beach/reflection/sunrise_reflection_04.png",
+    "sha256": "9aac077a513439dd911f8f2d1268ad71db2c1c348f1e64ce7d19b5d87cd313e7"
+  },
+  {
+    "source": "m3/final_ending/beach/reflection/sunrise_reflection_05.png",
+    "output": "assets/m3/final_ending/beach/reflection/sunrise_reflection_05.png",
+    "sha256": "d6a15c314b058beaec89cb1745d0ccac3fef57bcd966d71edd1091fe545799ac"
+  },
+  {
+    "source": "m3/final_ending/beach/reflection/sunrise_reflection_06.png",
+    "output": "assets/m3/final_ending/beach/reflection/sunrise_reflection_06.png",
+    "sha256": "f7d2e5529b80022060b90a75d4f345a1ac015be259109e6a92c9cceeb8591700"
+  },
+  {
+    "source": "m3/final_ending/beach/reflection/sunrise_reflection_02.png",
+    "output": "assets/m3/final_ending/beach/reflection/sunrise_reflection_02.png",
+    "sha256": "8bf4bd74072963be89d1558cc7c57b519c6cacc53cdbbfcc7162bc19eb03efc1"
+  },
+  {
+    "source": "m3/final_ending/beach/reflection/sunrise_reflection_03.png",
+    "output": "assets/m3/final_ending/beach/reflection/sunrise_reflection_03.png",
+    "sha256": "9a1b11f9fd81603a692ee4d764ca30efab7674607b07c2d4f5b1a843762a69b9"
+  },
+  {
+    "source": "m3/final_ending/beach/reflection/sunrise_reflection_01.png",
+    "output": "assets/m3/final_ending/beach/reflection/sunrise_reflection_01.png",
+    "sha256": "73266047f34ecaa05805ff28e266bbbfa1205c06cda41db0613c0e3dbd419eaf"
+  },
+  {
+    "source": "m3/final_ending/arena/guide/guide_dialogue_portrait.png",
+    "output": "assets/m3/final_ending/arena/guide/guide_dialogue_portrait.png",
+    "sha256": "1f8a6461915818535caa3dcca8dd774fe4823431c0ca92a323c3a87040d65eeb"
+  },
+  {
+    "source": "m3/final_ending/arena/guide/guide_arena_idle.png",
+    "output": "assets/m3/final_ending/arena/guide/guide_arena_idle.png",
+    "sha256": "426e3385bd677f74468c4247a6bd9c5bdedb7e809a1422c8971929b5c99300c1"
+  },
+  {
+    "source": "m3/final_ending/arena/ui/final_arena_dialogue_panel.png",
+    "output": "assets/m3/final_ending/arena/ui/final_arena_dialogue_panel.png",
+    "sha256": "5649d884df1fad7f3c246675b4dc70f001e62aff2cba1c5b2c79414df9883cc7"
+  },
+  {
+    "source": "m3/final_ending/arena/issac/issac_dialogue_portrait.png",
+    "output": "assets/m3/final_ending/arena/issac/issac_dialogue_portrait.png",
+    "sha256": "6d580fc4ec6a79d6eee3061d2e0c77849aed7cbedc3d7d44ccac09a97878a49b"
+  },
+  {
+    "source": "m3/final_ending/arena/issac/issac_facing_guide.png",
+    "output": "assets/m3/final_ending/arena/issac/issac_facing_guide.png",
+    "sha256": "b4b8644575c81eb66a5b7b4585fe764db756ce545ab14caac829c6a808a34625"
+  },
+  {
+    "source": "m3/final_ending/arena/eye/eye_right.png",
+    "output": "assets/m3/final_ending/arena/eye/eye_right.png",
+    "sha256": "e1ef725aeaf3c518d8930a1866626446aa5e1de82668c1ad6a7464c14c2fb979"
+  },
+  {
+    "source": "m3/final_ending/arena/eye/eye_slight_left.png",
+    "output": "assets/m3/final_ending/arena/eye/eye_slight_left.png",
+    "sha256": "0768410afb8faa71779fbe9232a5804ff844b5e798e00218554d91bad4f3f7d4"
+  },
+  {
+    "source": "m3/final_ending/arena/eye/eye_far_right.png",
+    "output": "assets/m3/final_ending/arena/eye/eye_far_right.png",
+    "sha256": "a326d911e6c910b2a3466fc22dc0907a28a849dbaa88ad85cc426b59af3adac4"
+  },
+  {
+    "source": "m3/final_ending/arena/eye/eye_left.png",
+    "output": "assets/m3/final_ending/arena/eye/eye_left.png",
+    "sha256": "9027577820ce43e2f229cb4422016cec8c9f045cb64aae362ec056216891ea58"
+  },
+  {
+    "source": "m3/final_ending/arena/eye/eye_far_left.png",
+    "output": "assets/m3/final_ending/arena/eye/eye_far_left.png",
+    "sha256": "67245af1edc2ba1fba2fdf462a21fd38bbbeeabdaa1e009588cc815d4a897037"
+  },
+  {
+    "source": "m3/final_ending/arena/eye/eye_center.png",
+    "output": "assets/m3/final_ending/arena/eye/eye_center.png",
+    "sha256": "689ab7dba6730ba9080078e4d1d7e4d1bcfe7406280313b583d01965a24e8efc"
+  },
+  {
+    "source": "m3/final_ending/arena/eye/eye_slight_right.png",
+    "output": "assets/m3/final_ending/arena/eye/eye_slight_right.png",
+    "sha256": "b62528f386ce64e273c4cba1ce26a28d341f0d68ccf814405d7fef4260731cf7"
+  },
+  {
+    "source": "m3/final_ending/arena/guide/idle/guide_idle_04.png",
+    "output": "assets/m3/final_ending/arena/guide/idle/guide_idle_04.png",
+    "sha256": "97b47e522a1a5b68ec187561fe63f5e808bb26391d6840fe8d3cd39612763841"
+  },
+  {
+    "source": "m3/final_ending/arena/guide/idle/guide_idle_01.png",
+    "output": "assets/m3/final_ending/arena/guide/idle/guide_idle_01.png",
+    "sha256": "21b1de51b26cd63bb90c16cf8819a2118f5873fb3e8952aed7ca9ffcd15305bc"
+  },
+  {
+    "source": "m3/final_ending/arena/guide/idle/guide_idle_03.png",
+    "output": "assets/m3/final_ending/arena/guide/idle/guide_idle_03.png",
+    "sha256": "a3ea49782c9d439b17145b977e9fdb5863dec0f3d9be8d52e9a96f1e6fb72528"
+  },
+  {
+    "source": "m3/final_ending/arena/guide/idle/guide_idle_02.png",
+    "output": "assets/m3/final_ending/arena/guide/idle/guide_idle_02.png",
+    "sha256": "f5c2bf6aa2c97d16a7fb771d9065c90a74e82f0011ac50d817a88c2808cc8686"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/power/power_stone_insert_fx_01.png",
+    "output": "assets/m3/final_ending/hand/vfx/power/power_stone_insert_fx_01.png",
+    "sha256": "0925d9b4eaf635b168162dbbbd2ee90be6a9e37389f1d16708822bdc9bdbc640"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/power/power_stone_insert_fx_03.png",
+    "output": "assets/m3/final_ending/hand/vfx/power/power_stone_insert_fx_03.png",
+    "sha256": "fa5278fbf28ac44d4c0e99c12ee9ceafbe832a28448bde90840aedf3735da3af"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/power/power_stone_insert_fx_02.png",
+    "output": "assets/m3/final_ending/hand/vfx/power/power_stone_insert_fx_02.png",
+    "sha256": "317cb4d25f0b6561c9a8d1e19fe822e35d520a748566b4f159da7ec8e52251fa"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/power/power_stone_insert_fx_06.png",
+    "output": "assets/m3/final_ending/hand/vfx/power/power_stone_insert_fx_06.png",
+    "sha256": "5cfa569f14c683ea3c436cf9f7221cb46a3408fd36bc7798f433e57a9d3c2826"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/power/power_stone_insert_fx_05.png",
+    "output": "assets/m3/final_ending/hand/vfx/power/power_stone_insert_fx_05.png",
+    "sha256": "a484e2082fdb7a2dab5cb6245633afa7afc1bdaf8ddd3fa83d4ff3b58a78ac46"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/power/power_stone_insert_fx_04.png",
+    "output": "assets/m3/final_ending/hand/vfx/power/power_stone_insert_fx_04.png",
+    "sha256": "8f5f7c1ade5c16ab10d6e33ec7c13a36a9109d77aab561bd9cd10a3d9076871b"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_06.png",
+    "output": "assets/m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_06.png",
+    "sha256": "bf70cca15d2a2d9f110d8d9e146446d52c43cf97796c112f1be970247f941bc1"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_05.png",
+    "output": "assets/m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_05.png",
+    "sha256": "fe65d03ca5d75f64bce9e709f783fcad343ebdf22dd7fe0224d2e4d37b973e4c"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_04.png",
+    "output": "assets/m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_04.png",
+    "sha256": "c9a19de719115a8fb88d64c0dcd4b2936d95934097ce9ba78524c9c609eeab93"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_01.png",
+    "output": "assets/m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_01.png",
+    "sha256": "d632a86fc85cc7e6ceb4916796e5bfa6990264f3eae20528e0afaab4b4caae1d"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_03.png",
+    "output": "assets/m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_03.png",
+    "sha256": "e3d0f9e14326426d25c36b036b41369cc076d6ccaf8df7d70992aef3dd76e5b4"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_02.png",
+    "output": "assets/m3/final_ending/hand/vfx/mind/mind_stone_insert_fx_02.png",
+    "sha256": "9a6883da4dacc92cd204fd0eedf66cbdfe1ab01bde75a165c0f4749b2563c484"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/space/space_stone_insert_fx_06.png",
+    "output": "assets/m3/final_ending/hand/vfx/space/space_stone_insert_fx_06.png",
+    "sha256": "6e1d8977b80e51187d2a78a6c823505736613160f611f4157dcaab76caefa329"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/space/space_stone_insert_fx_05.png",
+    "output": "assets/m3/final_ending/hand/vfx/space/space_stone_insert_fx_05.png",
+    "sha256": "7d1de9700e67d7166d4549fe5b5ec149cf2325e54c3852243ddbfdfd850a8ef3"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/space/space_stone_insert_fx_04.png",
+    "output": "assets/m3/final_ending/hand/vfx/space/space_stone_insert_fx_04.png",
+    "sha256": "1117f1e6832e4666248ef9139dfac7db8bab43085016279b3ad86fc17524a483"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/space/space_stone_insert_fx_01.png",
+    "output": "assets/m3/final_ending/hand/vfx/space/space_stone_insert_fx_01.png",
+    "sha256": "52fb2c01f048e5f81b4106c296543f4f006ea3f79f246f72dc3ba72d405a8ae0"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/space/space_stone_insert_fx_03.png",
+    "output": "assets/m3/final_ending/hand/vfx/space/space_stone_insert_fx_03.png",
+    "sha256": "e3085cd3401652f65c5868e2e67fe8d266821667c670e397532c10cd9234e032"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/space/space_stone_insert_fx_02.png",
+    "output": "assets/m3/final_ending/hand/vfx/space/space_stone_insert_fx_02.png",
+    "sha256": "fdc345954288f29e3b9d18d2e5c9974ec69e2ee59d700b69a8c06487180c97c2"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_05.png",
+    "output": "assets/m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_05.png",
+    "sha256": "91d69a0332223da7815ba8566f8298569d5f8fd61e9856abd18accd3331a1191"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_04.png",
+    "output": "assets/m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_04.png",
+    "sha256": "e236fe70b1da8d87670a9b58c28f0c05885849d368af96925ef32b7ec1b4f78c"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_06.png",
+    "output": "assets/m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_06.png",
+    "sha256": "20495a8dc8ddfe2ec1c01ab36ae4921a7b5c4b78abbc14f1d750c28a667ee2ed"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_03.png",
+    "output": "assets/m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_03.png",
+    "sha256": "007e052a033d4abf7427ab0118c26d00d86537772744ca63e8c4c48c07267b51"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_02.png",
+    "output": "assets/m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_02.png",
+    "sha256": "e36869944ea7ee3c645eea8f13c49d2c76208be9e98c5f242ac05d63ec886c4f"
+  },
+  {
+    "source": "m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_01.png",
+    "output": "assets/m3/final_ending/hand/vfx/final_glow/hand_three_final_glow_01.png",
+    "sha256": "069b655b887fcb951ba3415b79f43f5a395691e4bc2c6598829448f450f13942"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/advance/monster1_advance_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/advance/monster1_advance_05.png",
+    "sha256": "8a8c36b57f5af1319721fb78430236914d1bf78446003daab54d0f97cd2fbdb3"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/advance/monster1_advance_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/advance/monster1_advance_04.png",
+    "sha256": "30bf1b87ae12c483d8bc3e98e1ecd6c9f0ca49f546dc280d5ed72143a50fe33f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/advance/monster1_advance_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/advance/monster1_advance_06.png",
+    "sha256": "2243aea38625e1f394b980c27402634aff4dfd2b86675de2623351ef060ddaa1"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/advance/monster1_advance_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/advance/monster1_advance_03.png",
+    "sha256": "3d09603a75df460a8c0d56792366ddcce91dc387be191be52be095def485f57d"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/advance/monster1_advance_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/advance/monster1_advance_02.png",
+    "sha256": "b40e6d9d09d3ee193baf0d1cab9fb19247e6af61652e0673a20dd3ba01c8812b"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/advance/monster1_advance_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/advance/monster1_advance_01.png",
+    "sha256": "29a2a6f8ee0ea2ed65423408a20d617b6888aedb8c1a88fe1bd56b1dbeb1210c"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_01.png",
+    "sha256": "a4962676e7a8bcf6311e36abbd8195f21891311cb1c2e5954816f29bba1dea2a"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_02.png",
+    "sha256": "20922ef3b0d5bd5ce3b043cde945dac0d6d36c3e496e0a5290791cb5d8a07d6c"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_03.png",
+    "sha256": "49fe637aab4e1e686a1fb22611c73e5cc2796b35a9b4566cf1ca89070710f3db"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_06.png",
+    "sha256": "5caedb5d0edaeda8b1b8482ab50747f4f976552145520b7ee664fa8e3348e81f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_04.png",
+    "sha256": "4d7586b81fa9bda66aa0e6a2dffebc3a719c380b6feec819cff4f7006abfd6bb"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/defeat/monster1_defeat_05.png",
+    "sha256": "828a9aed39fffff7c4b5bfdbcf00f392e81be323d3279f7a64b6807e52b70f48"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_06.png",
+    "sha256": "2ef3c013b153ed265ef565acdab3fa35affe3859e1288372a53e5f0d0979629f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_05.png",
+    "sha256": "1821c2ce187eab55e784c23e2a186618b03ddfa1aff4d32755e0237f07fa4d9f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_04.png",
+    "sha256": "58a17a80347c09424381cc67cdb61d7f72a2f4afd21c793cbe003e429e98b245"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_01.png",
+    "sha256": "8c6a584207f235d462c47c7261e4d2f4aa0d2f51f895bc0dd9c18ad7bd28b388"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_03.png",
+    "sha256": "9b10d9f1adaae440cdd606df55d93b656574a66279c270928393bd258b948db4"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/hit_stagger/monster1_hit_stagger_02.png",
+    "sha256": "7605b98ec779f624370409d234256cc38c8f9cb8b0d636d93f8b01cced66ce8c"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_01.png",
+    "sha256": "7d2145c98a7386a2bced1393c295357c23e66ea17de753818fa96d0f8deca349"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_03.png",
+    "sha256": "97ebb172c04fa5f24ba8f3cb30372a9adbdb3a0ba8f98981164fcf76fd33a343"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_02.png",
+    "sha256": "d24df3eb84104d2b8358d5972b31f73cccc8d4fe52b94db68980126d4caa0349"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_06.png",
+    "sha256": "07468c9952b5f7f14d5b9b137afe9ac54211d4c9487c14e8c90b704fdacb55c1"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_05.png",
+    "sha256": "623a4c220f7472a0a3db4a5e379be45f5be00470d21e455ed610101b2f5992d4"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/shield_attack/monster1_shield_attack_04.png",
+    "sha256": "5e70d35c32471b4b0532c60a20663b0eb3623371664283f581262709d259aaf6"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_05.png",
+    "sha256": "7d64dc9276f935ac537ba62fb13924b90d223b8f66a3e7749a8d145169baf316"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_04.png",
+    "sha256": "1cbe29144386fddf3132c288bf7f66295f4e12631c7f319505952b2cfb8bf49f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_06.png",
+    "sha256": "e1bc315321b98feeff8319f74d1dcb81cfe25f96577080b64cce6ddcee59e23c"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_03.png",
+    "sha256": "84662e6bb69f8cfbb916a535773916b4439eab0a95bc144fa78dbdf6e6b060f5"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_02.png",
+    "sha256": "7d548d9d748cb2be2eaca1d11795314f60119aa815aaf0313e5b24579d7c76f0"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/special_cast/monster1_special_cast_01.png",
+    "sha256": "e94cae71b5b2c8f4e2f87f5a4e533e3bc547f2d9fb64bfa08bbb4d0b7f032349"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_03.png",
+    "sha256": "c8fdb59d4da1c8c007533b0e36b4e87ef885b48a4ac8ef4f5783a79c3f01ea48"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_02.png",
+    "sha256": "178c9a5d2b93d58dc1247881e73959f686ecebbc77b246bb795eb58c738d681f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_01.png",
+    "sha256": "f3641efcfd9b37c21be4cece1bbd499218993b38f91f41a74c88186a92daac79"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_05.png",
+    "sha256": "80148af19c4f78b44d86a7b3e7203c6959b80f27dc8afa656ca54c608b812d64"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_04.png",
+    "sha256": "98079437b0a906e0129b262a84d14478e55a3944d5b00f316e7de3368cbe14bf"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster1/club_attack/monster1_club_attack_06.png",
+    "sha256": "642f3fa3cb6b66dc28b5408c8392f46cee507fce852266bf6d101dc226349901"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_01.png",
+    "sha256": "974017255049e3db663bccbfbed47d8de7e41651c9fd0e126ba0795986a0d754"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_03.png",
+    "sha256": "16d1bd87e8646b15a2f6643d1cffa97d5468587e7999bf6126cb6fd75c50e98f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_02.png",
+    "sha256": "19ff5dcb6848c3d7a93777b67dd61beed8ecf793f5e7f08ae85d0b4c73e0e5ce"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_06.png",
+    "sha256": "b1372a3f721716e85c8c8fd7008f877772423c91adb8cc19063b1161513aeb44"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_05.png",
+    "sha256": "caf42dcd3a4f07d342059d1c03265fdfa8f76ec712f0cb54518dfbccd7b740ab"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/claw_attack/monster2_claw_attack_04.png",
+    "sha256": "ba9cc34eccb483011ed0c9cf811c04559d1085adfa80d4865e1b1d73a9608c3f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/advance/monster2_advance_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/advance/monster2_advance_04.png",
+    "sha256": "df8bbcd97524170c25073b460ba851efb6b48f4d3fe7813d3f7a8d32f34cdb4a"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/advance/monster2_advance_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/advance/monster2_advance_05.png",
+    "sha256": "d7cdcaad01641ac7feb9a5002d6fc34ba1831c6e5372ebf5552d7267bdd3f1a5"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/advance/monster2_advance_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/advance/monster2_advance_06.png",
+    "sha256": "4d025856e391ff675bb7623d92da3751536e6fc0027fbc3478a0d80d55130cc6"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/advance/monster2_advance_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/advance/monster2_advance_02.png",
+    "sha256": "3ee5f3b7ce21a85f777a08a253cbe1102ca3a38687e6e36189016707a5eec84b"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/advance/monster2_advance_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/advance/monster2_advance_03.png",
+    "sha256": "be4163a3482f30952352041e991f66174b9dcb1eefef6654f1c061ccc1267639"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/advance/monster2_advance_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/advance/monster2_advance_01.png",
+    "sha256": "9370b30f58e2bfa60a7fd201523db8f61744bac4ae5914776aa1d2316cb2778d"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_06.png",
+    "sha256": "cbe736062de012083eeabac4cd79a8342f52f831cf2938183b3e315985dbca48"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_04.png",
+    "sha256": "a9f5b978fa59ed141a6e1de77dbbd90e9837ed1541d8e82a765f395c4d6a597f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_05.png",
+    "sha256": "bd321a832dfc309993340dd9fb34866738aefa754cab565ef6a0afe5eff3f33b"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_01.png",
+    "sha256": "8bf496d5f1de902e4a32c5011d0738ccd3fcd2cb31c51b832f651275143ffbf2"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_02.png",
+    "sha256": "8f42fe439a505a2eb6caef04de9052cbd59942f2d27e42c931f1102f6a1003be"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/blade_attack/monster2_blade_attack_03.png",
+    "sha256": "216777d1b93e2882aaaf00bac6e9939b00fde9319fe8712a3f5c38cfcc9230ca"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_04.png",
+    "sha256": "75915259f0e7cbe4916f56a45a350cd82262a029ff32d93e17a9016bd1a7ef18"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_05.png",
+    "sha256": "73fee354a9d98ea481384d8c7f47be9fe01c634b1a1b0f18d8dfdb8c537e8b9d"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_06.png",
+    "sha256": "3b9fd97bd74eefb9ae893fa84e91119db38c9992b1c9f0f0ec0c1eadab13923c"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_02.png",
+    "sha256": "a0e469e5e63149b5af9bf5246a427fbe62e8e83ee73f2d78d6c1707ffc599a3f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_03.png",
+    "sha256": "b8e9dea5efbf358930be4c646a07c0fa747425b471e91ecd292bcc057e601d28"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/defeat/monster2_defeat_01.png",
+    "sha256": "c3d76cb16cdabf58b23d298dd0027f0d80ec0f9e58abc5f863ec33f388dcb9b7"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_02.png",
+    "sha256": "41ea3e27e859d9b397a71ae63efeb74783bb7cfb422cf92f73e08e0b69910ee0"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_03.png",
+    "sha256": "b0a55dd0af57f42a38f43293e2546a5c0f5bcc2d89b999539ff190a53a329749"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_01.png",
+    "sha256": "33200f1744f626511efe65a95ce7b118671a4e73f6872e5aa13a8a4a38f82a68"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_04.png",
+    "sha256": "d1c0bbe922e5bacec08b98a73ea3e2bc825212317544873e7af8f5ad78032ef0"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_05.png",
+    "sha256": "f83019d1685b0e0276514e5cbcd5dfe64e3d5c298831d7f0679f03ea37051526"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/hit_stagger/monster2_hit_stagger_06.png",
+    "sha256": "e6c324cd71f3ecebe5958772523097a3cceb3903313bf668381498f6cec68ac5"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_06.png",
+    "sha256": "27fe3932b4bd47cb067f216e0f767dedfd064fcb939540398c131832c90bdb89"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_04.png",
+    "sha256": "f8b6864be8d42f87c768aa80c24f68df5ee750f89bd75867baf57bac546c7154"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_05.png",
+    "sha256": "cddaabe5a533b7cf2c125982cbba50b66025d3a679692882454faf940cd4870b"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_01.png",
+    "sha256": "9117cab65a58c39211ba3301035f274fa40ca84cbc65b0bba4d6d1b596b05213"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_02.png",
+    "sha256": "a7d3ba194dbd0eee9943c97cc0df8aaaf415c1605858c874bf449e4ab6994a0f"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster2/special_cast/monster2_special_cast_03.png",
+    "sha256": "8c530a375dfd099f6b5c3313c64ba46a35a3e863ab09aaaa2781596490e48b47"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/idle/monster3_idle_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/idle/monster3_idle_03.png",
+    "sha256": "ed52a3b4ffcb367d8efa8dfad9bbc4f9939e77b0004f37db263f78c6b8133cec"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/idle/monster3_idle_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/idle/monster3_idle_02.png",
+    "sha256": "f66653d8eb0bd78f6d1ae61a0039d2606579bf1ca393dca535856b08fe7b1e23"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/idle/monster3_idle_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/idle/monster3_idle_01.png",
+    "sha256": "d268dd0cb13f4c87e33d692e47df920d1ab855db80af3039423ef6bfc65b2882"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/idle/monster3_idle_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/idle/monster3_idle_05.png",
+    "sha256": "15d85dea35cfa0c69d40301b89d2575e60c61f2b670088f948fb5bbbec3f3d7c"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/idle/monster3_idle_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/idle/monster3_idle_04.png",
+    "sha256": "0fcf0167d96d2d1a5a6e163b35024667aedd708b833f72023eb4925f20fe371a"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/idle/monster3_idle_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/idle/monster3_idle_06.png",
+    "sha256": "4db7c2bf13f24f04a1e908380eff08cf9474081f26ff519ccd0e0c4eb55e3dbf"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_06.png",
+    "sha256": "c823fd3cee6b7b8ab0d59d7c39fad50411f078a913b9f4e8f3d27690b35adcae"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_05.png",
+    "sha256": "a52970082d1a7e316cbd0e62d101149f9859ecf6d144f1d975f13534dba701e1"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_04.png",
+    "sha256": "9559acfac0769273dfc5d12886f9636171908f406b3267ea822cd6dfd5ff3354"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_01.png",
+    "sha256": "bc3bf526b68da7a4334ce1df4ae08f358e70f77abf01e8d1de565173e2c8c1bb"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_03.png",
+    "sha256": "b99813a1dffdd7d077b80b6493a08565d24cd96d05f742e47d9de5a8994a54b3"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/arm_smash/monster3_arm_smash_02.png",
+    "sha256": "5a05f49edf899f871f8e67b356c98938ec2a0f1744e605c37da8931c65b699d3"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/advance/monster3_advance_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/advance/monster3_advance_01.png",
+    "sha256": "abf4f12388ad73a4dbad2418aa66a1dc6904e1e36edceed04ce78689bf792456"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/advance/monster3_advance_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/advance/monster3_advance_03.png",
+    "sha256": "25bc1f3a842c1cd91b2e583d1d3b3cd18a9a4bf91d8a0afcda6323a329f29a09"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/advance/monster3_advance_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/advance/monster3_advance_02.png",
+    "sha256": "25f0ce0dbb165f60bddb380d5aa5d8feb0f67605326dfa305ccb5c26923fc679"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/advance/monster3_advance_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/advance/monster3_advance_06.png",
+    "sha256": "2c4d1166c502aa6fa3151e3a4d7e2b431ef4eb824f9ba99a2bc0ececce46a101"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/advance/monster3_advance_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/advance/monster3_advance_05.png",
+    "sha256": "2d7bd18216e33b6d71aa6c6ee330c6ce3851eb37fb76b294a4e3127e2fd95d9c"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/advance/monster3_advance_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/advance/monster3_advance_04.png",
+    "sha256": "b71ca538cd851e90c0de1af90c3a6f9027d92e35d19a6acfdc700643510e4306"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_05.png",
+    "sha256": "0641339887bb3e422134af56213a5e230ae378cea0f5fa197a2bf6d4930d23e9"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_04.png",
+    "sha256": "36057596026b65fb6ebe84f117a2b6fe7d8c2c6dc40e6649a423015eb101f9b1"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_06.png",
+    "sha256": "ebc198e94fc2b9650341cf386f6631b75e9b322ba24d172952c62ae403293d86"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_03.png",
+    "sha256": "58afd8d67e488c4f970cefae31f0d569ed71f01c1e0d1ebc8493b2ca3b04edcc"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_02.png",
+    "sha256": "71bce9f72c175daad75d78d7b061dad6b094e6af43f327cd7d9f4731391f38ff"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/spine_attack/monster3_spine_attack_01.png",
+    "sha256": "1fc7d354cbc9779f053c93172b7e4079cb3daf3df08fb6fd582cb5541686cc1e"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_03.png",
+    "sha256": "4cc0f51f5ba494366b3535cfc1908b2b93768fed4b1058c08d0f4f317b84a723"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_02.png",
+    "sha256": "d47bc8742870026000c8f964ba39ce4327f337d906a36f10c93da58a958e4d71"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_01.png",
+    "sha256": "db042f934e05525a7f57711c5d546c57c7d71b60f7357da8d2d07344cd18976e"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_05.png",
+    "sha256": "26de5a6985dd19ae9d387cbab75fdd62e95ce47c091334e61f930ccd59b9a690"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_04.png",
+    "sha256": "d1de39deb47d96f4eff0457b36b97d4fb0ebbb6ddbd2c9ae05cb694cef3d06cf"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/defeat/monster3_defeat_06.png",
+    "sha256": "247dcb4f8706a62978fa1128677e1c9ce711fa587b9b9b83732417338d031750"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_05.png",
+    "sha256": "b83ac18c9013e0b68d6b66ec458f137ca75c6922ee201c53066057fdcffbdec8"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_04.png",
+    "sha256": "bf31a4d32c65a5d80c3d65487d85eb9584c52b058f9bff1c780012fc0b31ef28"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_06.png",
+    "sha256": "874df0b489ef54b3dcc60c960e0244272876543448c726ad3f7c2d87348d3ee5"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_03.png",
+    "sha256": "9bb02d49d1b4dd0487b2c1316e0e1a59e510df0ef65d6115fb0d6720859d083b"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_02.png",
+    "sha256": "6635f66d7e1784eac8c7a6e1afbbae85b7abf2a15c474a5b50ff877b90039c23"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/hit_stagger/monster3_hit_stagger_01.png",
+    "sha256": "eb9ba85563727b0642848f1f75473ef1f4bdb96fd2a114ee95d1b490d1a3f9b2"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_06.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_06.png",
+    "sha256": "70078f56d22c3c034ebd7ac06adad405b20694d3d215542f56855eb05f70eb0d"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_05.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_05.png",
+    "sha256": "6fc32adebde21935c2f269e4ac78b53588d199d0e26222c61d44e274b1d1afca"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_04.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_04.png",
+    "sha256": "cffca8f21a63961529a77499a37064cee4e595fc3c3a6fec414897e3fbaf0ec0"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_01.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_01.png",
+    "sha256": "ee733c0d7c0fc89c1da8166158494820d34794e00d9087c71d26a563ff67df06"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_03.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_03.png",
+    "sha256": "b9c2a263c3fa9ee492ad5de257caa5fd7e09ddc1e6a0c9eeb1527be07d58c2fd"
+  },
+  {
+    "source": "m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_02.png",
+    "output": "assets/m3/mission3_assets/enemies/monster3/special_cast/monster3_special_cast_02.png",
+    "sha256": "97b46ff1885eb8141d3e35a574505bc415255e49c9941d8a0acc3c16aee5d8bb"
+  },
+  {
+    "source": "m3/mission3_assets/effects/power_stone/aura/power_stone_aura_06.png",
+    "output": "assets/m3/mission3_assets/effects/power_stone/aura/power_stone_aura_06.png",
+    "sha256": "7880c763ddd66955a75223d72732f0048753147b377290856043974ffe96181e"
+  },
+  {
+    "source": "m3/mission3_assets/effects/power_stone/aura/power_stone_aura_05.png",
+    "output": "assets/m3/mission3_assets/effects/power_stone/aura/power_stone_aura_05.png",
+    "sha256": "5ce6a2dbbbd821ccd9476af1caf21a0fb2c495e8b4c3d8a4b535492b1dddd233"
+  },
+  {
+    "source": "m3/mission3_assets/effects/power_stone/aura/power_stone_aura_04.png",
+    "output": "assets/m3/mission3_assets/effects/power_stone/aura/power_stone_aura_04.png",
+    "sha256": "d80e2e68eab368d9de027e9e3b97740e3403c34fdd9add30d00c5da872c8f06e"
+  },
+  {
+    "source": "m3/mission3_assets/effects/power_stone/aura/power_stone_aura_01.png",
+    "output": "assets/m3/mission3_assets/effects/power_stone/aura/power_stone_aura_01.png",
+    "sha256": "c385fe6005ac7aefd8e51db410a87ada9b76757d1c3830b37c1a59970c27b53a"
+  },
+  {
+    "source": "m3/mission3_assets/effects/power_stone/aura/power_stone_aura_03.png",
+    "output": "assets/m3/mission3_assets/effects/power_stone/aura/power_stone_aura_03.png",
+    "sha256": "e10f8fe07b74259f2640855bfff1b525647d283d7371fa05f025c8683a43aaf4"
+  },
+  {
+    "source": "m3/mission3_assets/effects/power_stone/aura/power_stone_aura_02.png",
+    "output": "assets/m3/mission3_assets/effects/power_stone/aura/power_stone_aura_02.png",
+    "sha256": "52604a981ebc7a065ec1756a590dbb1d22ab844e26534ad0f1e97b0d0865b636"
+  },
+  {
+    "source": "m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_06.png",
+    "output": "assets/m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_06.png",
+    "sha256": "0b090abfe056ff07cd63845a76b7ca481ab8772a6af8b621078316c549424d48"
+  },
+  {
+    "source": "m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_04.png",
+    "output": "assets/m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_04.png",
+    "sha256": "18c52d154f3a14618f775e504675722f09e06e662727e3afe9537d47db2c3c11"
+  },
+  {
+    "source": "m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_05.png",
+    "output": "assets/m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_05.png",
+    "sha256": "f2255a6a1315d49bf2be9e6ddb0118ef7866dba9c7f8420c0a32b7fa19bda519"
+  },
+  {
+    "source": "m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_01.png",
+    "output": "assets/m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_01.png",
+    "sha256": "5ab1444ffb523f5af623c352cacb630cd6b6a56e3f5b38f7f26b02cb633cb690"
+  },
+  {
+    "source": "m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_02.png",
+    "output": "assets/m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_02.png",
+    "sha256": "bc8d09e181a983c251ee65f0e244bc43b51c7b8a28b668b4dd82e85e8c3b2047"
+  },
+  {
+    "source": "m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_03.png",
+    "output": "assets/m3/mission3_assets/effects/movement/jump_land_dust/jump_land_dust_03.png",
+    "sha256": "8f433763eaad489b9a794b890a086fc7a659136466353db3da4b344f3d7a4f4d"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_04.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_04.png",
+    "sha256": "4930e55212c39aac80cffaeba313a79f2cb21fb8a9fdbc9a10bd7844c1ab9f3b"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_05.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_05.png",
+    "sha256": "d13c98ca6a59a2d33ddc09cef0bfabf06e84f1dd4d7d7240efa572345a0dfe04"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_06.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_06.png",
+    "sha256": "2a8a2ad9344477bc2a0a8ef80edf0d86cb207c5e2a0885c2e430a1b442222bc9"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_02.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_02.png",
+    "sha256": "a19e67fd58f462da03f93c67fec4a953cffdf21391fb64336c003a3be0a3cd52"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_03.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_03.png",
+    "sha256": "2d34a24ce9bffaa72e6d88c7c70cfa7b658221e48e872b49b4a01c3a9326944a"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_01.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/projectile/mind_fire_projectile_01.png",
+    "sha256": "0a790a279cd5acfccf58e6bc73545e05eda268a59b78420a033f5370a23faf1a"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_06.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_06.png",
+    "sha256": "50f9d227450f1f98159e7a4328125defe49f0efa0a72a5fe17bed850d37ac7f9"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_05.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_05.png",
+    "sha256": "0c1e424f01452736daaca61e39e0a3e86ef613e7ee6f893fe6449647f0353b24"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_04.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_04.png",
+    "sha256": "a0f612859a3046dc7de6484f9c236268c207ca65cc605434224624d2184300f9"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_01.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_01.png",
+    "sha256": "0e6299a7928826c138cf8cc437127abbc9c1c131f6655b988639417a04db60b5"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_03.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_03.png",
+    "sha256": "0b8483688eef6a50191c84b53d3fc40390fb8e2163b38b7ae018ea3d21636f5e"
+  },
+  {
+    "source": "m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_02.png",
+    "output": "assets/m3/mission3_assets/effects/mind_fire/impact/mind_fire_impact_02.png",
+    "sha256": "1c882753501892f8bc4a8ec6a8158d4ac5e6d336680a4584b0b770caecf04d46"
+  },
+  {
+    "source": "m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_06.png",
+    "output": "assets/m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_06.png",
+    "sha256": "fbfc9a8815a705aefb2e579f4ee116cb3ca7c6acd73e998b8296782efe6a675c"
+  },
+  {
+    "source": "m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_05.png",
+    "output": "assets/m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_05.png",
+    "sha256": "34256115480a5257002120850304c923f96ba408c1919f2c414c2d6ca61114b3"
+  },
+  {
+    "source": "m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_04.png",
+    "output": "assets/m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_04.png",
+    "sha256": "60f77699d022eea4b2cb1f69eea0307e584979425e35f8b5f7abb5e56306e346"
+  },
+  {
+    "source": "m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_01.png",
+    "output": "assets/m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_01.png",
+    "sha256": "36da1eb7c9a01a743ffc97a4a243da457bb45abc5c56856d98fcd0919d60e845"
+  },
+  {
+    "source": "m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_03.png",
+    "output": "assets/m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_03.png",
+    "sha256": "6b8ab6728e07e625c7478e3a0f34cf41428f0f861cb100650ac82be3e8d4606f"
+  },
+  {
+    "source": "m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_02.png",
+    "output": "assets/m3/mission3_assets/effects/physical/hit_spark/physical_hit_spark_02.png",
+    "sha256": "600faf7bb92369016ac6e16045449932c7e885d3d05e77082e026800025fbf32"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/kick/kick_05.png",
+    "output": "assets/m3/mission3_assets/characters/issac/kick/kick_05.png",
+    "sha256": "d72bccd5578c104ef07b6479a7decd7131c0c0847afd98ce2e16e4414bded0b5"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/kick/kick_04.png",
+    "output": "assets/m3/mission3_assets/characters/issac/kick/kick_04.png",
+    "sha256": "810d0e1ce48ee8064ad320d0b31d194e19de8f6b6f9e6d759c9aac4eb5145e23"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/kick/kick_06.png",
+    "output": "assets/m3/mission3_assets/characters/issac/kick/kick_06.png",
+    "sha256": "6a151ed40e133862232069d94e65f7291f235332a1fca9c51252063baaab0db9"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/kick/kick_03.png",
+    "output": "assets/m3/mission3_assets/characters/issac/kick/kick_03.png",
+    "sha256": "4c42f60dfddb541fa487ed2bde426ae22c82a9d175068ffe2942ef864a31720a"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/kick/kick_02.png",
+    "output": "assets/m3/mission3_assets/characters/issac/kick/kick_02.png",
+    "sha256": "5cf9a9bbccaac8137401cba672ed5b66f6f218b48fb55e978fe5b27f84274cf9"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/kick/kick_01.png",
+    "output": "assets/m3/mission3_assets/characters/issac/kick/kick_01.png",
+    "sha256": "358d99bbaa8b79ab3363e576732b3d8158cd37b74fb7923b1a76b1b0eef8432d"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/idle/idle_01.png",
+    "output": "assets/m3/mission3_assets/characters/issac/idle/idle_01.png",
+    "sha256": "cc40e08dca52e0e99b940e40086d2ecbbdecbea52bfb6d7c4bbbcd249e0f8d3d"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/idle/idle_03.png",
+    "output": "assets/m3/mission3_assets/characters/issac/idle/idle_03.png",
+    "sha256": "ebeb08eb77de78396ac2020d70d0428ee0a7115d6cce800ecad86857bfa391a8"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/idle/idle_02.png",
+    "output": "assets/m3/mission3_assets/characters/issac/idle/idle_02.png",
+    "sha256": "acfe72abf3f5986b2bf6423f40573641583c9cdb60c5f869fc554352c157a86e"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/idle/idle_06.png",
+    "output": "assets/m3/mission3_assets/characters/issac/idle/idle_06.png",
+    "sha256": "777c7c9f48e5fb95b1fddd08a585f6feb4ae3719b687cd22172b98aedc839214"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/idle/idle_05.png",
+    "output": "assets/m3/mission3_assets/characters/issac/idle/idle_05.png",
+    "sha256": "8f437a7835e2fc265c0588d38777ea91a92dc09599f2d1fc4eec6ec513e54c81"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/idle/idle_04.png",
+    "output": "assets/m3/mission3_assets/characters/issac/idle/idle_04.png",
+    "sha256": "2975a8d8ecc8609e6ebdb68d71399bfa96a222ec26deed2533ed1e6f24cb7293"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_04.png",
+    "output": "assets/m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_04.png",
+    "sha256": "726ff3bdc8cd6bb20a6c36469e88c80dc682302c6196d0733c65a6713247f81d"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_05.png",
+    "output": "assets/m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_05.png",
+    "sha256": "979f7adc01d9e8278a10e69d1e9eda05c2d39e43dc803769fc3efc2dae88c4ce"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_06.png",
+    "output": "assets/m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_06.png",
+    "sha256": "6e9fe6069e73c4f1df56ac6480f69151adbc984a7dbd3f0d9682d758eee3ac4d"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_02.png",
+    "output": "assets/m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_02.png",
+    "sha256": "88f3b7fbf1ada256645531a926d75d87178a729fe8204a885aa6386659ff587a"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_03.png",
+    "output": "assets/m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_03.png",
+    "sha256": "69ea33f48fc2d928b6eeff13c0c477531641cdfcf083c531dc305c4a88429995"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_01.png",
+    "output": "assets/m3/mission3_assets/characters/issac/hit_knockdown/hit_knockdown_01.png",
+    "sha256": "93dd1e81fb05703b0ce4f913b38f6d10a0fb7e47f85dd56433786533abe875b7"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_backward/walk_backward_01.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_backward/walk_backward_01.png",
+    "sha256": "a61d47ecebb31464e62d5eb63dab9eb771ce910f517118d2b78e551add588605"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_backward/walk_backward_03.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_backward/walk_backward_03.png",
+    "sha256": "213a038e508cd7d325ddff696cc5aeb783389a63d994619702ce8e4c57ac28dc"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_backward/walk_backward_02.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_backward/walk_backward_02.png",
+    "sha256": "8fbb63d3ec6dbc8bc536645a079e1f088478dc91c429c4d6ddea2b3c09eb3b55"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_backward/walk_backward_06.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_backward/walk_backward_06.png",
+    "sha256": "63266c37a0cef4865ecb61fc248b14555f3d5688db55f58e490da02491e88945"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_backward/walk_backward_05.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_backward/walk_backward_05.png",
+    "sha256": "3e2a553c06177e19760b9a37a42c776f95e6e697b4fa07903102cff84dc4ad20"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_backward/walk_backward_04.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_backward/walk_backward_04.png",
+    "sha256": "25833f8a2b644f2311a081bd33ad91865dd0a214b890de196003e86f7e306d95"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_01.png",
+    "output": "assets/m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_01.png",
+    "sha256": "2f8eeecaa24d358f903a5cb98f38279d25f16e2ce83686cc947225eede7ffd6b"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_03.png",
+    "output": "assets/m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_03.png",
+    "sha256": "1afaa9dabf3b853f945c60176ba86e69c6ff205213e511b624e6fa49e66ed07b"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_02.png",
+    "output": "assets/m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_02.png",
+    "sha256": "7357d52982dc1ed320e24250e0c90bebc2df4f73e2312a1d33aad56ecfc89bbd"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_06.png",
+    "output": "assets/m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_06.png",
+    "sha256": "a93ade1fa0f4c42f377a991d20c480930aa1575b1af8e7a9797fc2f58fc1d6a0"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_05.png",
+    "output": "assets/m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_05.png",
+    "sha256": "b5cd915803487954e87744358da67db4ea1af9145d8905653427a1225030d18d"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_04.png",
+    "output": "assets/m3/mission3_assets/characters/issac/space_weapon_attack/issac_space_weapon_attack_04.png",
+    "sha256": "1c9fee1bbb32180355ca22dc8b4434d285eb1bfb37a5642bdc3ce203be652fc3"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/guard_evade/guard_evade_03.png",
+    "output": "assets/m3/mission3_assets/characters/issac/guard_evade/guard_evade_03.png",
+    "sha256": "782168f3d69fb1ebe750036a53d42cf10ea7f94ebe8d29e13878ab23b9f9e807"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/guard_evade/guard_evade_02.png",
+    "output": "assets/m3/mission3_assets/characters/issac/guard_evade/guard_evade_02.png",
+    "sha256": "dd6316d966ee7d1bfa58caf98013abfc09b5c03576fc23474a7bfc509f09d672"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/guard_evade/guard_evade_01.png",
+    "output": "assets/m3/mission3_assets/characters/issac/guard_evade/guard_evade_01.png",
+    "sha256": "9eab85324d6b1a0ecab65094bb0be2e2b115fcdb9b3000f8c45ae6b1c554ae72"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/guard_evade/guard_evade_05.png",
+    "output": "assets/m3/mission3_assets/characters/issac/guard_evade/guard_evade_05.png",
+    "sha256": "ade74abe224fd7e0d957777edd71183847eb4170caa8708f9d800e2fc0172418"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/guard_evade/guard_evade_04.png",
+    "output": "assets/m3/mission3_assets/characters/issac/guard_evade/guard_evade_04.png",
+    "sha256": "cd81f805018168d65b32562f22663f4af3fc81ad62accca3a00aa90afb9a03f0"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/guard_evade/guard_evade_06.png",
+    "output": "assets/m3/mission3_assets/characters/issac/guard_evade/guard_evade_06.png",
+    "sha256": "55f38b2a65be344aaf8dd2eb79f831523efe16a96b686a5db4f2f247a403cfe9"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_03.png",
+    "output": "assets/m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_03.png",
+    "sha256": "be96bc9b6ae227d4fed80e47aff248187d3611e1f698ef64d3540d9f23cc070b"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_02.png",
+    "output": "assets/m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_02.png",
+    "sha256": "5c0bec194473b5fc861ff461fb9d9063a829360cb07c0ee86540bb6f6d64ee46"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_01.png",
+    "output": "assets/m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_01.png",
+    "sha256": "46d745efa44bd5df6161ff18df7b7c630795a773d64b36144a91aec689c137e1"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_05.png",
+    "output": "assets/m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_05.png",
+    "sha256": "73dd822d4345f459cbe72f5dee691d2567bd7b4f28378f5f7884545d51f57604"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_04.png",
+    "output": "assets/m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_04.png",
+    "sha256": "02c7ae97d9b66e63c5504f59ce2ae6b4de73635f43183240291a87b40a9457ec"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_06.png",
+    "output": "assets/m3/mission3_assets/characters/issac/mind_fire_attack/mind_fire_attack_06.png",
+    "sha256": "d3beb0edb14033fe293d86dd96d1c4ce1ccbac4b5725619620343f0817fbdc2c"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/jump/jump_03.png",
+    "output": "assets/m3/mission3_assets/characters/issac/jump/jump_03.png",
+    "sha256": "09009f6d9e047a01d9f71703d3397ebbb81542d0b676b4198a573c53e57038cc"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/jump/jump_02.png",
+    "output": "assets/m3/mission3_assets/characters/issac/jump/jump_02.png",
+    "sha256": "6b7e8e14b261e93fc923b2ad4d80c7888805452d82dd41d90dec73e4c29c753b"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/jump/jump_01.png",
+    "output": "assets/m3/mission3_assets/characters/issac/jump/jump_01.png",
+    "sha256": "60935e0386a0487ca6b028e63cf93d7e9aba71201fe9e683a23c6a9fe2b6f739"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/jump/jump_05.png",
+    "output": "assets/m3/mission3_assets/characters/issac/jump/jump_05.png",
+    "sha256": "11317f0c5355543fb7f3df3c055c443cc27eae6e6540eb60cd572d1f5557e595"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/jump/jump_04.png",
+    "output": "assets/m3/mission3_assets/characters/issac/jump/jump_04.png",
+    "sha256": "e9c779d51ba2ef228b286f16d87dc5b4fede6923fc70094921f0f514ea52c656"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/jump/jump_06.png",
+    "output": "assets/m3/mission3_assets/characters/issac/jump/jump_06.png",
+    "sha256": "a3da6946b7ce5475099d0ce3528bb7243d407f57719449f0ae10093f92a24c88"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_forward/walk_forward_06.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_forward/walk_forward_06.png",
+    "sha256": "e2432eddfe5beb1174cb82917d7045f53e9563cf299eda08422893ea06b4670b"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_forward/walk_forward_04.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_forward/walk_forward_04.png",
+    "sha256": "9d829eec5eb15feb79d7f024a59e7b0358159488edb3bc4dd935778337b39cde"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_forward/walk_forward_05.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_forward/walk_forward_05.png",
+    "sha256": "97c769fc85db9fe84b71fdd8fde5bbd581b570652415e6575de2464f8a8530ff"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_forward/walk_forward_01.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_forward/walk_forward_01.png",
+    "sha256": "ca776f809356852f00e18245bef75f6dbf776674f01b04cc294c17acf2351906"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_forward/walk_forward_02.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_forward/walk_forward_02.png",
+    "sha256": "ff96195a9d9359d90410b92e233910b635586a54fcc7b2deba4b2fb12bb4c0d3"
+  },
+  {
+    "source": "m3/mission3_assets/characters/issac/walk_forward/walk_forward_03.png",
+    "output": "assets/m3/mission3_assets/characters/issac/walk_forward/walk_forward_03.png",
+    "sha256": "431dfc6e230d3a76770bde8c00bde214219a12bbd7f1b79ebd51694fe49e492a"
+  },
+  {
+    "source": "m3/mission3_assets/arena/triggers/m3_red_trigger_circle.png",
+    "output": "assets/m3/mission3_assets/arena/triggers/m3_red_trigger_circle.png",
+    "sha256": "c499515637bd0407bae468f4c8ae6f4b58e1b0b93de31b7a094fd3b5eb094239"
+  },
+  {
+    "source": "m3/mission3_assets/arena/backgrounds/m3_fight_arena_bg.png",
+    "output": "assets/m3/mission3_assets/arena/backgrounds/m3_fight_arena_bg.png",
+    "sha256": "8bb0c49e949cf55b2ea66c28f76b7ac951bc155f53f4147f8ef623ebf0667470"
+  },
+  {
+    "source": "m3/mission3_assets/arena/backgrounds/m3_arena_intro_panorama.png",
+    "output": "assets/m3/mission3_assets/arena/backgrounds/m3_arena_intro_panorama.png",
+    "sha256": "9a75b564ce13d9e58c591a32c23dffdcb2a0c63f5e76bd1b73be5de7bf9d8d08"
+  },
+  {
+    "source": "m3/mission3_assets/arena/cages/m3_three_cages_overlay.png",
+    "output": "assets/m3/mission3_assets/arena/cages/m3_three_cages_overlay.png",
+    "sha256": "64b03158c5d40de45a8eba0db7b76318d376f4044d819c8818fbad02318345c2"
+  },
+  {
+    "source": "m3/mission3_assets/arena/cages/door_open/cage_open_01.png",
+    "output": "assets/m3/mission3_assets/arena/cages/door_open/cage_open_01.png",
+    "sha256": "51ef294210608529d4b0ea178b8869ea59185ba7eb3a6732c93087db0e5f4bae"
+  },
+  {
+    "source": "m3/mission3_assets/arena/cages/door_open/cage_open_03.png",
+    "output": "assets/m3/mission3_assets/arena/cages/door_open/cage_open_03.png",
+    "sha256": "0e12e8c283808431e0064b15a73b6641398b53f9dc40ea004d9c921c8c256139"
+  },
+  {
+    "source": "m3/mission3_assets/arena/cages/door_open/cage_open_02.png",
+    "output": "assets/m3/mission3_assets/arena/cages/door_open/cage_open_02.png",
+    "sha256": "932f76e443820dd0a9e9bf4831e8ae429f043dedf9da0838992eb6c1ffef0f53"
+  },
+  {
+    "source": "m3/mission3_assets/arena/cages/door_open/cage_open_06.png",
+    "output": "assets/m3/mission3_assets/arena/cages/door_open/cage_open_06.png",
+    "sha256": "b0f0a623f9b53073eadcf0b142682b89c32bc317135e8ab0ca42da5917bb7e73"
+  },
+  {
+    "source": "m3/mission3_assets/arena/cages/door_open/cage_open_05.png",
+    "output": "assets/m3/mission3_assets/arena/cages/door_open/cage_open_05.png",
+    "sha256": "7fdf84423191387c399f84b5c1a97eec441dc48699922167493307c1438ea5b3"
+  },
+  {
+    "source": "m3/mission3_assets/arena/cages/door_open/cage_open_04.png",
+    "output": "assets/m3/mission3_assets/arena/cages/door_open/cage_open_04.png",
+    "sha256": "9cb103f187f7eff055d073df22f06737f0e2aa32cb4f9abe6cb0473e41bc0b90"
+  },
+  {
+    "source": "m3/mission3_assets/ui/rewards/powerstone.png",
+    "output": "assets/m3/mission3_assets/ui/rewards/powerstone.png",
+    "sha256": "9f121787d13e79c13e77f1855ac77c2ad4920a477b6b40e0aa74211cf3961e53"
+  },
+  {
+    "source": "m3/mission3_assets/ui/screens/mission3_complete_bg.png",
+    "output": "assets/m3/mission3_assets/ui/screens/mission3_complete_bg.png",
+    "sha256": "82d79fadc82f798517578384f6619976cbcb959aec6b363ec70c55173eef4dd7"
+  },
+  {
+    "source": "m3/mission3_assets/ui/screens/power_stone_reward_bg.png",
+    "output": "assets/m3/mission3_assets/ui/screens/power_stone_reward_bg.png",
+    "sha256": "f7a9769c3ad01552c5c4cdb663bec64a426e704a3ebe2e6decd409d6b463bf10"
+  },
+  {
+    "source": "m3/mission3_assets/ui/guides/guide_monster3_bg.png",
+    "output": "assets/m3/mission3_assets/ui/guides/guide_monster3_bg.png",
+    "sha256": "0e7777742792bc9f9f0b764373c91bcc0e7cb965f36e550bb5759f3599d068d6"
+  },
+  {
+    "source": "m3/mission3_assets/ui/guides/guide_monster1_bg.png",
+    "output": "assets/m3/mission3_assets/ui/guides/guide_monster1_bg.png",
+    "sha256": "52c9aee37b328286c5b391ed9da214e5eca80a38f16ecc06029513c69f112ea4"
+  },
+  {
+    "source": "m3/mission3_assets/ui/guides/guide_monster2_bg.png",
+    "output": "assets/m3/mission3_assets/ui/guides/guide_monster2_bg.png",
+    "sha256": "8b8ca3f2493716908341f4854d68346d78e03a0901dbdc24518d736c7e8d0c34"
+  },
+  {
+    "source": "m3/mission3_assets/ui/hud/m3_fight_hud_frame.png",
+    "output": "assets/m3/mission3_assets/ui/hud/m3_fight_hud_frame.png",
+    "sha256": "0ecaeeb2609939964e0b402f6d4d85e580137490c0c0346dab8d64d8554dec59"
+  },
+  {
+    "source": "m3/mission3_assets/ui/buttons/claim/claim_button_hover.png",
+    "output": "assets/m3/mission3_assets/ui/buttons/claim/claim_button_hover.png",
+    "sha256": "74b58c5f976e5f416b615b8d42bfed8cb9e45b7476bd270d679f646bdfeabf1e"
+  },
+  {
+    "source": "m3/mission3_assets/ui/buttons/claim/claim_button_normal.png",
+    "output": "assets/m3/mission3_assets/ui/buttons/claim/claim_button_normal.png",
+    "sha256": "4ed2c69bd4ccf993606d76c06efc6f8306e244a20a5ffee01895b96e88298ae5"
+  },
+  {
+    "source": "m3/mission3_assets/ui/buttons/claim/claim_button_pressed.png",
+    "output": "assets/m3/mission3_assets/ui/buttons/claim/claim_button_pressed.png",
+    "sha256": "0269d8d314781aafbaebd3075e778fe03014b0095294761adf3838b0e0419f0e"
+  }
+]

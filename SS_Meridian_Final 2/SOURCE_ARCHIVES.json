@@ -1,0 +1,26 @@
+[
+  {
+    "source": "Menu",
+    "archive": "menu file.zip",
+    "bytes": 19548179,
+    "sha256": "440a7bd70d5d411555819c25ede6c2291145b0a496df3d57f47fe1572bf2054f"
+  },
+  {
+    "source": "Mission 1",
+    "archive": "SS_meridian_M1.zip",
+    "bytes": 97958703,
+    "sha256": "5b396837eeb8054b61015c5cd5470f305d9e69e14af293ea89a2bfbd5055675e"
+  },
+  {
+    "source": "Mission 2",
+    "archive": "SS_meridian_m2.zip",
+    "bytes": 37855830,
+    "sha256": "05a07bea9fe4445f0b88b0079a637f4424132748c4d45f385460490112f0b312"
+  },
+  {
+    "source": "Mission 3",
+    "archive": "SS_meridian_m3.zip",
+    "bytes": 141460502,
+    "sha256": "c557aac52e774d438e26075711a2594e907bec53b5765f7a7a42bd8824dd7c47"
+  }
+]

@@ -1,0 +1,1 @@
+PASS: zero startup uploads, entry background first, <=1 upload per step, all PNGs decoded, all textures released

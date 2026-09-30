@@ -1,0 +1,135 @@
+PASS: initial progression and ENTER
+PASS: ENTER begins intro
+PASS: intro transition
+PASS: standing still does not skip required walk
+PASS: walk lasts approximately 10 seconds
+PASS: cages revealed after ten seconds of movement
+PASS: one-shot red-circle trigger -> first guide
+PASS: guide freezes timer and AI
+PASS: guide ENTER -> cage animation -> fight
+PASS: 60-second timeout fails; survival is not victory
+PASS: weapon windup does no damage
+PASS: weapon active frame connects
+PASS: one melee swing registers only once
+PASS: kick collision and damage
+PASS: animated Mind fire hits active target
+PASS: projectile removed after impact
+PASS: inactive monsters cannot take projectile damage
+PASS: bounded projectile pool
+PASS: out-of-bounds projectiles expire
+PASS: guard reduces hit damage
+PASS: invulnerability prevents repeated contacts
+PASS: jump reaches apex
+PASS: jump clears low attack hurtbox
+PASS: landing creates one-shot dust
+PASS: landing dust finishes
+PASS: player zero health fails
+PASS: retry resets only current fight and preserves earlier victory
+PASS: ordered monster-specific guide
+Fight 1 simulation: 27.22s, player HP 56.50, enemy HP 0.00, state DEFEAT
+PASS: input-driven fight won within one minute
+PASS: inactive monster AI never ticks
+PASS: inactive monster AI never ticks
+PASS: victory waits for defeat animation
+PASS: defeat animation finishes once
+PASS: ordered monster-specific guide
+Fight 2 simulation: 30.95s, player HP 62.00, enemy HP 0.00, state DEFEAT
+PASS: input-driven fight won within one minute
+PASS: inactive monster AI never ticks
+PASS: inactive monster AI never ticks
+PASS: victory waits for defeat animation
+PASS: defeat animation finishes once
+PASS: ordered monster-specific guide
+Fight 3 simulation: 34.45s, player HP 461.00, enemy HP 0.00, state DEFEAT
+PASS: input-driven fight won within one minute
+PASS: inactive monster AI never ticks
+PASS: inactive monster AI never ticks
+PASS: victory waits for defeat animation
+PASS: defeat animation finishes once
+PASS: complete screen precedes unclaimed reward
+PASS: Power Stone reward follows completion
+PASS: keyboard cannot claim reward
+PASS: claim hover
+PASS: claim pressed
+PASS: release outside cancels claim
+PASS: press outside cannot claim on release inside
+PASS: valid click claims exactly once
+PASS: claimed screen remains visible before ending
+PASS: ending follows claimed hold and preserves all progression
+PASS: ending waits for fresh dialogue input
+PASS: one edge advances one line
+PASS: one edge advances one line
+PASS: one edge advances one line
+PASS: dialogue begins Space submission
+PASS: ending timed states are ordered
+PASS: ending timed states are ordered
+PASS: ending timed states are ordered
+PASS: ending timed states are ordered
+PASS: ending timed states are ordered
+PASS: ending timed states are ordered
+PASS: W held across ship entry cannot leak into movement
+PASS: ship never auto-walks
+PASS: W moves ship path
+PASS: ship release immediately freezes movement and animation
+PASS: ship hard limit triggers existing door opening
+PASS: held W cannot pass open door
+PASS: door Enter initializes beach once
+PASS: W held across beach entry cannot leak
+PASS: beach environment runs without automatic walking
+PASS: beach release freezes only character
+PASS: shore clamp selects standing pose and first reflection
+PASS: W cannot leave shore or advance reflections
+PASS: fresh Enter advances exactly one reflection
+PASS: fresh Enter advances exactly one reflection
+PASS: fresh Enter advances exactly one reflection
+PASS: fresh Enter advances exactly one reflection
+PASS: fresh Enter advances exactly one reflection
+PASS: fresh Enter advances exactly one reflection
+PASS: last reflection waits for Enter
+PASS: last Enter starts countdown
+PASS: countdown holds all three numbers
+PASS: countdown precedes short fade
+PASS: short fade immediately reaches manuscript
+PASS: journey remains terminal under input
+PASS: clamps enforced even outside movement states
+PASS: movement independent of update frequency
+PASS: claim rejected without all three defeats
+PASS: AI telegraphs both attack patterns
+PASS: each monster selects correct A/B attack
+PASS: each monster attack damages in active frames
+PASS: enemy attack has one contact per swing
+PASS: enemy attack finishes in recovery
+PASS: AI telegraphs both attack patterns
+PASS: each monster selects correct A/B attack
+PASS: each monster attack damages in active frames
+PASS: enemy attack has one contact per swing
+PASS: enemy attack finishes in recovery
+PASS: AI telegraphs both attack patterns
+PASS: each monster selects correct A/B attack
+PASS: each monster attack damages in active frames
+PASS: enemy attack has one contact per swing
+PASS: enemy attack finishes in recovery
+PASS: AI telegraphs both attack patterns
+PASS: each monster selects correct A/B attack
+PASS: each monster attack damages in active frames
+PASS: enemy attack has one contact per swing
+PASS: enemy attack finishes in recovery
+PASS: AI telegraphs both attack patterns
+PASS: each monster selects correct A/B attack
+PASS: each monster attack damages in active frames
+PASS: enemy attack has one contact per swing
+PASS: enemy attack finishes in recovery
+PASS: AI telegraphs both attack patterns
+PASS: each monster selects correct A/B attack
+PASS: each monster attack damages in active frames
+PASS: enemy attack has one contact per swing
+PASS: enemy attack finishes in recovery
+PASS: walking cannot interrupt weapon animation
+PASS: walking cannot interrupt hit knockdown
+PASS: left arena boundary
+PASS: right boundary preserves fighter facing order
+PASS: lethal melee clamps HP to zero
+PASS: lethal contact retains its one-shot hit effect
+PASS: defeat cannot be interrupted by held attacks
+PASS: expired timer takes priority over a late lethal hit
+ALL 131 CHECKS PASSED

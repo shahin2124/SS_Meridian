@@ -1,0 +1,3 @@
+PASS: earlier held ENTER rejected; all preload frames pixel-identical; ready waits for fresh input.
+PASS: one fresh ENTER with assets ready starts M3 immediately; repeats do not leak.
+PASS: one early ENTER accepted, survives release/focus change, finishes loading invisibly and enters M3 without another action.

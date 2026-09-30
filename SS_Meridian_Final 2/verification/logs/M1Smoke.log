@@ -1,0 +1,27 @@
+164 PNGs decoded by the actual C++ runtime loader
+Ship A
+Ship B
+Hand pickup
+Countdown
+Main Arena
+Guide dialogue
+Ready choice
+Reality 1
+Reality 2
+Reality 3
+Connector
+Reality 3
+Connector
+Cockpit
+Train drive
+Railway exit
+CONGRATS
+Mission 1 Complete
+Space Stone reward
+Claim flash
+Space Stone claimed
+Input-driven full route PASS. R1=21.0332s R2=12.9666s R3=154.929s
+PASS: eight ship gait poses in four directions, grounded feet, blocked/idle rest, autonomous eye in all arena scenes, three-stone dialogue
+PASS: held animation, polygon collision, cover routing, bounded spawns, run/fire transition, hide sequence, LOS/search/reacquisition/witnessed hide
+Asset runtime render-command coverage 164/164 (all 164 PNGs decoded successfully)
+PASS: complete route, alternate choice, scene-local retries, train input gating, reward ownership, endpoint lock

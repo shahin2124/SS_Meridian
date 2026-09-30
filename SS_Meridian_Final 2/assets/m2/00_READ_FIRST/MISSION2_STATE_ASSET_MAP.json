@@ -1,0 +1,95 @@
+{
+  "M2_START": {
+    "when": "Mission 2 becomes available. Show entry screen; button advances to intro.",
+    "background": "01_ENTRY/background/mission2_enter_screen.png",
+    "buttons": {
+      "normal": "01_ENTRY/ui/mission2_enter_button_normal.png",
+      "hover": "01_ENTRY/ui/mission2_enter_button_hover.png",
+      "pressed": "01_ENTRY/ui/mission2_enter_button_pressed.png"
+    }
+  },
+  "M2_BATTLE_INTRO": {
+    "when": "Immediately after Mission 2 entry; cinematic dragon challenge establishing screen.",
+    "background": "02_DRAGON_INTRO/background/mission2_dragon_intro_background.png"
+  },
+  "M2_FIGHT_GUIDE": {
+    "when": "Before combat timer begins. Render instructions by code.",
+    "background": "03_FIGHT_GUIDE/background/mission2_fight_guide_background.png",
+    "start_fight_buttons": {
+      "normal": "03_FIGHT_GUIDE/ui/start_fight_button_normal.png",
+      "hover": "03_FIGHT_GUIDE/ui/start_fight_button_hover.png",
+      "pressed": "03_FIGHT_GUIDE/ui/start_fight_button_pressed.png"
+    }
+  },
+  "M2_DRAGON_FIGHT": {
+    "when": "Active gameplay. Timer begins here only.",
+    "draw_order": [
+      "04_BATTLE/environment/mission2_dragon_battle_background.png",
+      "04_BATTLE/boss/mission2_dragon_boss_idle.png",
+      "boss VFX as needed",
+      "04_BATTLE/player/issac_bow_ready.png OR one strafe animation",
+      "player projectile/VFX as needed",
+      "04_BATTLE/environment/mission2_dragon_battle_foreground.png",
+      "04_BATTLE/ui/mission2_combat_hud.png",
+      "04_BATTLE/ui/mission2_aim_reticle.png only when fixed trajectory aligns to a living head",
+      "dynamic text/HP/timer/ammo rendered by code"
+    ],
+    "player": {
+      "idle_ready": "04_BATTLE/player/issac_bow_ready.png",
+      "A_move_left": "04_BATTLE/player/strafe_left/issac_bow_strafe_left_01.png ... _06.png",
+      "D_move_right": "04_BATTLE/player/strafe_right/issac_bow_strafe_right_01.png ... _06.png",
+      "SPACE_projectile": "04_BATTLE/player/projectiles/issac_arrow_projectile.png",
+      "SPACE_release_vfx": "04_BATTLE/player/vfx/bow_release/bow_release_vfx_01.png ... _06.png",
+      "valid_head_hit_vfx": "04_BATTLE/player/vfx/arrow_head_hit/arrow_head_hit_vfx_01.png ... _06.png"
+    },
+    "boss": {
+      "persistent_base": "04_BATTLE/boss/mission2_dragon_boss_idle.png",
+      "attack_charge_on_selected_living_head_mouth": "04_BATTLE/boss/vfx/mouth_charge/dragon_mouth_charge_vfx_01.png ... _06.png",
+      "attack_projectile": "04_BATTLE/boss/projectiles/dragon_fireball_projectile.png",
+      "predicted_impact_warning": "04_BATTLE/boss/vfx/ground_warning/dragon_ground_warning_vfx_01.png ... _06.png",
+      "projectile_impact": "04_BATTLE/boss/vfx/fire_impact/dragon_fire_impact_vfx_01.png ... _06.png",
+      "head_at_0_HP_overlay_loop": "04_BATTLE/boss/vfx/defeated_head_loop/dragon_head_defeated_loop_01.png ... _06.png",
+      "all_three_heads_0_HP_death": "04_BATTLE/boss/vfx/death/dragon_death_vfx_01.png ... _06.png"
+    },
+    "ui": {
+      "hud": "04_BATTLE/ui/mission2_combat_hud.png",
+      "reticle": "04_BATTLE/ui/mission2_aim_reticle.png"
+    }
+  },
+  "M2_LOST": {
+    "when": "Issac HP reaches 0 OR timer reaches 00:00 while any head is alive.",
+    "rule": "Do not search for a separate loss background. Reuse the active battle scene, freeze combat, draw a dark translucent code overlay and MISSION FAILED text.",
+    "retry_buttons": {
+      "normal": "04_BATTLE/ui/retry/retry_button_normal.png",
+      "hover": "04_BATTLE/ui/retry/retry_button_hover.png",
+      "pressed": "04_BATTLE/ui/retry/retry_button_pressed.png"
+    }
+  },
+  "M2_DRAGON_DEFEATED": {
+    "when": "All three head HP values reach 0. Stop attacks/timer/damage, then play death VFX.",
+    "boss_base": "04_BATTLE/boss/mission2_dragon_boss_idle.png",
+    "death_sequence": "04_BATTLE/boss/vfx/death/dragon_death_vfx_01.png ... _06.png",
+    "rule": "No extra dragon image is required. Keep the approved static boss underneath and use code-driven shake/downward shift/alpha fade if desired."
+  },
+  "M2_MIND_STONE_REWARD": {
+    "when": "After dragon death sequence.",
+    "background": "05_MIND_STONE_REWARD/background/mind_stone_reward_bg.png",
+    "stone": "05_MIND_STONE_REWARD/stone/mind_stone.png",
+    "aura_loop": "05_MIND_STONE_REWARD/stone/aura/mind_stone_aura_01.png ... _06.png",
+    "claim_buttons": {
+      "normal": "05_MIND_STONE_REWARD/ui/claim_button_normal.png",
+      "hover": "05_MIND_STONE_REWARD/ui/claim_button_hover.png",
+      "pressed": "05_MIND_STONE_REWARD/ui/claim_button_pressed.png"
+    }
+  },
+  "M2_MISSION3_UNLOCK": {
+    "when": "Immediately after Mind Stone claim. Do NOT return to Main Arena.",
+    "background": "06_MISSION3_UNLOCK/background/mission3_unlock_background.png",
+    "enter_buttons": {
+      "normal": "06_MISSION3_UNLOCK/ui/enter_button_normal.png",
+      "hover": "06_MISSION3_UNLOCK/ui/enter_button_hover.png",
+      "pressed": "06_MISSION3_UNLOCK/ui/enter_button_pressed.png"
+    },
+    "next": "Press ENTER -> existing Mission 3 startup flow."
+  }
+}

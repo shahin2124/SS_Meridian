@@ -1,0 +1,1 @@
+PASS: actual menu routes, all direct launches, both original handoffs, progress, input isolation, M3 loading/claim/ending controls, offscreen OpenGL rendering and resource release in one GL context.

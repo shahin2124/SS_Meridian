@@ -1,0 +1,90 @@
+--- before/src/Main.cpp
++++ after/src/Main.cpp
+@@ -24,6 +24,7 @@
+ static bool keys[256]={false},edges[256]={false},blocked[256]={false};
+ static bool visible=true,framePresented=false,startRequested=false,fullscreen=false;
+ static double accumulator=0;
++static bool unlockPreloading=false,unlockEnterPending=false;
+ static app::Session session;
+ static Meridian::Game game1;
+ static Meridian::Input input1;
+@@ -38,6 +39,7 @@
+  game3.cancelPointer();startRequested=false;accumulator=0;
+ }
+ static void release(){
++ unlockPreloading=unlockEnterPending=false;
+  menu::release();delete renderer1;renderer1=0;mission2::release();assets3.release();
+ #ifdef _WIN32
+  PlaySoundA(0,0,0);
+@@ -83,8 +85,37 @@
+ }
+ static void keyUp(unsigned char key,int,int){int k=std::toupper(key);keys[k]=blocked[k]=false;if(k==27)menu::keyPressed[27]=false;}
+ static void special(int key,int,int){if(key==GLUT_KEY_F11){fullscreen=!fullscreen;clearInput();if(fullscreen)glutFullScreen();else{glutReshapeWindow(1280,720);glutPositionWindow(60,60);}}}
++// Keep M2's existing unlock artwork on screen while M3 loads incrementally.
++static void prepareMission3Unlock(){
++ if(unlockPreloading)return;
++ assets3.beginLoad("");unlockPreloading=true;unlockEnterPending=false;
++ // A key held/queued before the unlock screen must be released and pressed again.
++ bool enterHeld=keys[13];
++#ifdef _WIN32
++ enterHeld=enterHeld||(GetAsyncKeyState(VK_RETURN)&0x8000)!=0;
++#endif
++ edges[13]=false;blocked[13]=blocked[13]||enterHeld;keys[13]=false;
++ framePresented=false;
++}
++static void enterMission3FromUnlock(){
++ // Preserve the completed preload instead of launch(), which releases all assets.
++ mission2::release();clearInput();game3=m3::Mission();session.apply(game3);
++ active=3;unlockPreloading=unlockEnterPending=false;framePresented=false;
++ m3::Input confirm;confirm.confirm=true;game3.update(1.f/60,confirm);
++ lastTime=glutGet(GLUT_ELAPSED_TIME);
++}
+ static void pointer(int x,int y,bool down,bool up){
+- if(active==2){mission2::pointer(x,y,down,up);return;}
++ if(active==2){
++  if(unlockEnterPending)return;
++  mission2::pointer(x,y,down,up);
++  if(mission2::game.state==m2::M2_MISSION3_UNLOCK)prepareMission3Unlock();
++  if(app::requestMission3(mission2::game)){
++   prepareMission3Unlock();unlockEnterPending=true;
++   // Do not expose the standalone handoff-end presentation while finishing loads.
++   mission2::game.set(m2::M2_MISSION3_UNLOCK);
++  }
++  return;
++ }
+  float w=active==1?Meridian::WIDTH:1280,h=active==1?Meridian::HEIGHT:720;
+  float scale=std::min(width/w,height/h),lx=(x-(width-w*scale)*.5f)/scale,ly=(y-(height-h*scale)*.5f)/scale;
+  if(active==0){menu::iPassiveMouseMove(int(lx),int(h-ly));if(down)menu::iMouse(GLUT_LEFT_BUTTON,GLUT_DOWN,int(lx),int(h-ly));}
+@@ -127,7 +158,19 @@
+  if(next)launch(2,false);return;
+  }
+  if(active==2){
+- session.observe(mission2::game);if(app::requestMission3(mission2::game)){launch(3,false);return;}
++ session.observe(mission2::game);
++ if(mission2::game.state==m2::M2_MISSION3_UNLOCK||app::requestMission3(mission2::game)){
++  prepareMission3Unlock();
++  if(app::requestMission3(mission2::game)||edges[13])unlockEnterPending=true;
++  mission2::game.state=m2::M2_MISSION3_UNLOCK;
++  std::fill(edges,edges+256,false);accumulator=0;
++  if(assets3.loading()&&framePresented){
++   framePresented=false;assets3.loadNext();
++   if(!assets3.errors.empty())throw std::runtime_error(assets3.errors.back());
++  }
++  if(unlockEnterPending&&!assets3.loading())enterMission3FromUnlock();
++  lastTime=glutGet(GLUT_ELAPSED_TIME);return;
++ }
+  mission2::input.left=keys['A'];mission2::input.right=keys['D'];mission2::input.fire=keys[' '];mission2::input.reload=keys['R'];
+  accumulator+=elapsed;while(accumulator>=1.0/120){mission2::game.tick(1.f/120,mission2::input);accumulator-=1.0/120;}
+  std::fill(edges,edges+256,false);return;
+--- before/src/m3/Mission3Renderer.cpp
++++ after/src/m3/Mission3Renderer.cpp
+@@ -131,8 +131,7 @@
+  glDisable(GL_DEPTH_TEST);glEnable(GL_BLEND);glBlendFunc(GL_SRC_ALPHA,GL_ONE_MINUS_SRC_ALPHA);
+  if(!assets.errors.empty()){center("ASSET LOAD FAILED",640,200,34);text(assets.errors[0].c_str(),30,260,13);center("See asset_errors.txt for exact paths. Close and restore the files.",640,330,19);return;}
+  if(g.state>=FinalArenaEnter){ending(g);return;}
+- if(g.state==Enter){background(A_FightBG);rect(0,0,1280,720,0,0,0,.60f);center("SS MERIDIAN",640,215,28);center("MISSION 3",640,325,65);center("SPACE STONE + MIND STONE OWNED",640,388,20);Rect r=g.buttonRect();rect(r.x,r.y,r.w,r.h,g.buttonHover?.48f:.28f,.12f,.055f);center("ENTER",640,554,31);if(assets.loading()){char status[96];std::sprintf(status,"LOADING %d%% - ENTER WILL START WHEN READY",assets.loadedPercent());center(status,640,630,16);}
+-  else center("Click ENTER or press Enter",640,630,18);return;}
++ if(g.state==Enter){background(A_FightBG);rect(0,0,1280,720,0,0,0,.60f);center("SS MERIDIAN",640,215,28);center("MISSION 3",640,325,65);center("SPACE STONE + MIND STONE OWNED",640,388,20);Rect r=g.buttonRect();rect(r.x,r.y,r.w,r.h,g.buttonHover?.48f:.28f,.12f,.055f);center("ENTER",640,554,31);center("Click ENTER or press Enter",640,630,18);return;}
+  if(g.state==Intro||g.state==Walk||g.state==TriggerReady){
+   const Texture& t=assets.get(A_IntroBG);float w=t.width*(720.0f/t.height);float progress=g.walkTravel/g.config.walkDistance;
+   quad(t,-progress*(w-1280),0,w,720);float shift=(1-progress)*1300;

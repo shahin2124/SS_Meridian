@@ -1,0 +1,1 @@
+PASS: one solution/target/main/window/loop/STB; all source files included; Win32/v120/MultiByte and consistent CRTs; three menu choices; ending retained; x86 GLUT DLL; all PNG literals; 579 unchanged image/audio hashes.

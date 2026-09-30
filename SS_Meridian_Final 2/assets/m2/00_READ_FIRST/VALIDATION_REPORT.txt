@@ -1,0 +1,39 @@
+SS MERIDIAN — MISSION 2 — FINAL PACKAGE VALIDATION
+
+Canonical PNG assets: 89
+Normalized generic button canvas: (1381, 314)
+
+SEQUENCE CHECKS:
+- 04_BATTLE/player/strafe_left: 6/6 present; identical dimensions=True; size=(640, 682); missing=[]
+- 04_BATTLE/player/strafe_right: 6/6 present; identical dimensions=True; size=(640, 682); missing=[]
+- 04_BATTLE/player/vfx/bow_release: 6/6 present; identical dimensions=True; size=(556, 660); missing=[]
+- 04_BATTLE/player/vfx/arrow_head_hit: 6/6 present; identical dimensions=True; size=(495, 710); missing=[]
+- 04_BATTLE/boss/vfx/mouth_charge: 6/6 present; identical dimensions=True; size=(487, 732); missing=[]
+- 04_BATTLE/boss/vfx/ground_warning: 6/6 present; identical dimensions=True; size=(449, 720); missing=[]
+- 04_BATTLE/boss/vfx/fire_impact: 6/6 present; identical dimensions=True; size=(462, 743); missing=[]
+- 04_BATTLE/boss/vfx/defeated_head_loop: 6/6 present; identical dimensions=True; size=(449, 744); missing=[]
+- 04_BATTLE/boss/vfx/death: 6/6 present; identical dimensions=True; size=(428, 757); missing=[]
+- 05_MIND_STONE_REWARD/stone/aura: 6/6 present; identical dimensions=True; size=(416, 544); missing=[]
+
+BUTTON STATE CHECKS:
+- 01_ENTRY/ui: 3 PNG states; identical dimensions=True; sizes=[(560, 160)]
+- 03_FIGHT_GUIDE/ui: 3 PNG states; identical dimensions=True; sizes=[(1381, 314)]
+- 04_BATTLE/ui/retry: 3 PNG states; identical dimensions=True; sizes=[(1381, 314)]
+- 05_MIND_STONE_REWARD/ui: 3 PNG states; identical dimensions=True; sizes=[(704, 304)]
+- 06_MISSION3_UNLOCK/ui: 3 PNG states; identical dimensions=True; sizes=[(720, 336)]
+
+PIXEL-PRESERVING SAFETY PADDING APPLIED:
+- Issac ready sprite: True
+- Dragon boss idle sprite: True
+- Dragon fireball projectile: True
+- Mind Stone sprite: True
+
+REMOVED FROM FINAL PACKAGE:
+- __MACOSX
+- .DS_Store
+- source-folder ambiguity
+- incorrect nesting of left-strafe frames
+- old generic/reference filenames where a canonical game-role filename is clearer
+
+VALIDATION ISSUES: 0
+- NONE

@@ -1,0 +1,164 @@
+assets/m1/charecters/characters_ui/button_frame.png	render command exercised
+assets/m1/charecters/characters_ui/dialogue_bubble.png	render command exercised
+assets/m1/charecters/issac/walk_down/walk_down_01.png	render command exercised
+assets/m1/charecters/issac/walk_down/walk_down_02.png	render command exercised
+assets/m1/charecters/issac/walk_down/walk_down_03.png	render command exercised
+assets/m1/charecters/issac/walk_down/walk_down_04.png	render command exercised
+assets/m1/charecters/issac/walk_left/walk_left_01.png	render command exercised
+assets/m1/charecters/issac/walk_left/walk_left_02.png	render command exercised
+assets/m1/charecters/issac/walk_left/walk_left_03.png	render command exercised
+assets/m1/charecters/issac/walk_left/walk_left_04.png	render command exercised
+assets/m1/charecters/issac/walk_right/walk_right_01.png	render command exercised
+assets/m1/charecters/issac/walk_right/walk_right_02.png	render command exercised
+assets/m1/charecters/issac/walk_right/walk_right_03.png	render command exercised
+assets/m1/charecters/issac/walk_right/walk_right_04.png	render command exercised
+assets/m1/charecters/issac/walk_up/walk_up_01.png	render command exercised
+assets/m1/charecters/issac/walk_up/walk_up_02.png	render command exercised
+assets/m1/charecters/issac/walk_up/walk_up_03.png	render command exercised
+assets/m1/charecters/issac/walk_up/walk_up_04.png	render command exercised
+assets/m1/charecters/issac_base/issac_fullbody_master.png	render command exercised
+assets/m1/charecters/items/mind_stone.png	render command exercised
+assets/m1/charecters/items/power_stone.png	render command exercised
+assets/m1/charecters/items/space_stone.png	render command exercised
+assets/m1/main arena/eye/eye_center.png	render command exercised
+assets/m1/main arena/eye/eye_far_left.png	render command exercised
+assets/m1/main arena/eye/eye_far_right.png	render command exercised
+assets/m1/main arena/eye/eye_left.png	render command exercised
+assets/m1/main arena/eye/eye_right.png	render command exercised
+assets/m1/main arena/eye/eye_slight_left.png	render command exercised
+assets/m1/main arena/eye/eye_slight_right.png	render command exercised
+assets/m1/main arena/failure/hell_naw_elimination_background.png	render command exercised
+assets/m1/main arena/guide/guide_arena_idle.png	render command exercised
+assets/m1/main arena/guide/guide_dialogue_portrait.png	render command exercised
+assets/m1/main arena/guide/idle/guide_idle_01.png	render command exercised
+assets/m1/main arena/guide/idle/guide_idle_02.png	render command exercised
+assets/m1/main arena/guide/idle/guide_idle_03.png	render command exercised
+assets/m1/main arena/guide/idle/guide_idle_04.png	render command exercised
+assets/m1/main arena/issac_in_main_arena/issac_dialogue_portrait.png	render command exercised
+assets/m1/main arena/issac_in_main_arena/issac_facing_guide.png	render command exercised
+assets/m1/main arena/main_arena_background/main_arena_background.png	render command exercised
+assets/m1/main arena/main_arena_foreground/main_arena_foreground.png	render command exercised
+assets/m1/mission_01_reward/missio_01_reward_vfx/space_glow_01_faint.png	render command exercised
+assets/m1/mission_01_reward/missio_01_reward_vfx/space_glow_02_medium.png	render command exercised
+assets/m1/mission_01_reward/missio_01_reward_vfx/space_glow_03_bright.png	render command exercised
+assets/m1/mission_01_reward/missio_01_reward_vfx/space_glow_04_claim_flash.png	render command exercised
+assets/m1/mission_01_reward/mission_01_reward_background/mission1_reward_background.png	render command exercised
+assets/m1/mission_01_reward/mission_01_reward_ui/mission1_claimed_panel.png	render command exercised
+assets/m1/reality_01/exit_in _reality_01/reality1_exit_white.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_01.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_02.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_03.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_04.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_05.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac running_with_gun/gun_run_06.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_01_idle.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_02_aim.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_03_fire.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_04_recovery.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_05_hit.png	render command exercised
+assets/m1/reality_01/issac_in _reality_01/issac_with_gun/gun_06_aim_return.png	render command exercised
+assets/m1/reality_01/reality_01_background/reality1_street_a.png	render command exercised
+assets/m1/reality_01/reality_01_background/reality1_street_b.png	render command exercised
+assets/m1/reality_01/reality_01_background/reality1_street_c.png	render command exercised
+assets/m1/reality_01/vfx_for_reality_01/gun_vfx/hit_flash_red.png	render command exercised
+assets/m1/reality_01/vfx_for_reality_01/gun_vfx/impact_concrete.png	render command exercised
+assets/m1/reality_01/vfx_for_reality_01/gun_vfx/impact_dust.png	render command exercised
+assets/m1/reality_01/vfx_for_reality_01/gun_vfx/muzzle_flash_large.png	render command exercised
+assets/m1/reality_01/vfx_for_reality_01/gun_vfx/muzzle_flash_small.png	render command exercised
+assets/m1/reality_01/zombies/zombie_a/zombie_a_01_idle.png	render command exercised
+assets/m1/reality_01/zombies/zombie_a/zombie_a_02_walk1.png	render command exercised
+assets/m1/reality_01/zombies/zombie_a/zombie_a_03_walk2.png	render command exercised
+assets/m1/reality_01/zombies/zombie_a/zombie_a_04_attack.png	render command exercised
+assets/m1/reality_01/zombies/zombie_a/zombie_a_05_hit.png	render command exercised
+assets/m1/reality_01/zombies/zombie_a/zombie_a_06_death.png	render command exercised
+assets/m1/reality_01/zombies/zombie_b/zombie_b_01_idle.png	render command exercised
+assets/m1/reality_01/zombies/zombie_b/zombie_b_02_walk1.png	render command exercised
+assets/m1/reality_01/zombies/zombie_b/zombie_b_03_walk2.png	render command exercised
+assets/m1/reality_01/zombies/zombie_b/zombie_b_04_attack.png	render command exercised
+assets/m1/reality_01/zombies/zombie_b/zombie_b_05_hit.png	render command exercised
+assets/m1/reality_01/zombies/zombie_b/zombie_b_06_death.png	render command exercised
+assets/m1/reality_01/zombies/zombie_c/zombie_c_01_idle.png	render command exercised
+assets/m1/reality_01/zombies/zombie_c/zombie_c_02_walk1.png	render command exercised
+assets/m1/reality_01/zombies/zombie_c/zombie_c_03_walk2.png	render command exercised
+assets/m1/reality_01/zombies/zombie_c/zombie_c_04_attack.png	render command exercised
+assets/m1/reality_01/zombies/zombie_c/zombie_c_05_hit.png	render command exercised
+assets/m1/reality_01/zombies/zombie_c/zombie_c_06_death.png	render command exercised
+assets/m1/reality_02/exit_for_reality_02/reality2_exit_red_door_only.png	render command exercised
+assets/m1/reality_02/hide/hide_01_enter.png	render command exercised
+assets/m1/reality_02/hide/hide_02_idle.png	render command exercised
+assets/m1/reality_02/hide/hide_03_exit.png	render command exercised
+assets/m1/reality_02/monster/monster_01_idle.png	render command exercised
+assets/m1/reality_02/monster/monster_02_step1.png	render command exercised
+assets/m1/reality_02/monster/monster_03_step2.png	render command exercised
+assets/m1/reality_02/monster/monster_04_turn.png	render command exercised
+assets/m1/reality_02/monster/monster_05_chase.png	render command exercised
+assets/m1/reality_02/monster/monster_06_catch.png	render command exercised
+assets/m1/reality_02/monster/reality2_catch_pose.png	render command exercised
+assets/m1/reality_02/reality2_run/back/run_back_01.png	render command exercised
+assets/m1/reality_02/reality2_run/back/run_back_02.png	render command exercised
+assets/m1/reality_02/reality2_run/back/run_back_03.png	render command exercised
+assets/m1/reality_02/reality2_run/back/run_back_04.png	render command exercised
+assets/m1/reality_02/reality2_run/back/run_back_05.png	render command exercised
+assets/m1/reality_02/reality2_run/back/run_back_06.png	render command exercised
+assets/m1/reality_02/reality2_run/front/run_front_01.png	render command exercised
+assets/m1/reality_02/reality2_run/front/run_front_02.png	render command exercised
+assets/m1/reality_02/reality2_run/front/run_front_03.png	render command exercised
+assets/m1/reality_02/reality2_run/front/run_front_04.png	render command exercised
+assets/m1/reality_02/reality2_run/front/run_front_05.png	render command exercised
+assets/m1/reality_02/reality2_run/front/run_front_06.png	render command exercised
+assets/m1/reality_02/reality2_run/right/run_right_01.png	render command exercised
+assets/m1/reality_02/reality2_run/right/run_right_02.png	render command exercised
+assets/m1/reality_02/reality2_run/right/run_right_03.png	render command exercised
+assets/m1/reality_02/reality2_run/right/run_right_04.png	render command exercised
+assets/m1/reality_02/reality2_run/right/run_right_05.png	render command exercised
+assets/m1/reality_02/reality2_run/right/run_right_06.png	render command exercised
+assets/m1/reality_02/reality_02_background/reality2_room_a.png	render command exercised
+assets/m1/reality_02/reality_02_background/reality2_room_b.png	render command exercised
+assets/m1/reality_02/reality_02_background/reality2_room_c.png	render command exercised
+assets/m1/reality_03/exit_for_reality_03/reality3_railway_exit.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_a/ghost_a_01_idle.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_a/ghost_a_02_advance1.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_a/ghost_a_03_advance2.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_a/ghost_a_04_attack.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_a/ghost_a_05_hit.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_a/ghost_a_06_dissolve.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_b/ghost_b_01_idle.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_b/ghost_b_02_advance1.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_b/ghost_b_03_advance2.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_b/ghost_b_04_attack.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_b/ghost_b_05_hit.png	render command exercised
+assets/m1/reality_03/ghosts/ghost_b/ghost_b_06_dissolve.png	render command exercised
+assets/m1/reality_03/issac_in_reality_03/sword/sword_01_ready.png	render command exercised
+assets/m1/reality_03/issac_in_reality_03/sword/sword_02_windup.png	render command exercised
+assets/m1/reality_03/issac_in_reality_03/sword/sword_03_slash.png	render command exercised
+assets/m1/reality_03/issac_in_reality_03/sword/sword_04_followthrough.png	render command exercised
+assets/m1/reality_03/issac_in_reality_03/sword/sword_05_return.png	render command exercised
+assets/m1/reality_03/issac_in_reality_03/sword/sword_06_hit.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/impact_01.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/impact_02.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/impact_03.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/impact_04.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/slash_01.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/slash_02.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/slash_03.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/slash_04.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/spectral_01.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/spectral_02.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/spectral_03.png	render command exercised
+assets/m1/reality_03/reality_03_vfx/sword_vfx/spectral_04.png	render command exercised
+assets/m1/reality_03/train/train cabin/train_cabin_1.png	render command exercised
+assets/m1/reality_03/train/train cabin/train_cabin_2.png	render command exercised
+assets/m1/reality_03/train/reality3_cockpit_driver_overlay.png	render command exercised
+assets/m1/reality_03/train/train_connector.png	render command exercised
+assets/m1/reality_03/train/train_track_loop.png	render command exercised
+assets/m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_01.png	render command exercised
+assets/m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_02.png	render command exercised
+assets/m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_03.png	render command exercised
+assets/m1/ship/issac_hand_pickup/hand_pickup/hand_pickup_04.png	render command exercised
+assets/m1/ship/ship_backgrounds/ship_exterior.png	render command exercised
+assets/m1/ship/ship_backgrounds/ship_interior_a.png	render command exercised
+assets/m1/ship/ship_backgrounds/ship_interior_b.png	render command exercised
+assets/m1/ship/ship_foregrounds/ship_foreground_a.png	render command exercised
+assets/m1/ship/ship_foregrounds/ship_foreground_b.png	render command exercised
+assets/m1/ship/ship_item/hand_of_three_floor.png	render command exercised
+assets/m1/charecters/issac/ship_walk_atlas.png	render command exercised
